@@ -13,14 +13,30 @@ from feedgenerator import Rss201rev2Feed
 from datetime import datetime, timezone
 import json
 import hashlib
+import random
 
-USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64)"
-TIMEOUT = 15
-NITTER_INSTANCES = [
-    "https://nitter.net",
-    "https://nitter.poast.org",
-    # 添加更多实例如果需要，例如 "https://nitter.cz"
+# 随机 User-Agent，防止被实例阻塞
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/121.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15",
 ]
+
+TIMEOUT = 15
+
+# 更新后的可靠 Nitter 实例列表（2025年12月最新）
+NITTER_INSTANCES = [
+    "https://xcancel.com",
+    "https://nitter.privacyredirect.com",
+    "https://nitter.tiekoetter.com",
+    "https://nitter.space",
+    "https://nitter.poast.org",
+    "https://lightbrd.com",
+    "https://nuku.trabun.org",
+]
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 USERS_FILE = os.path.join(BASE_DIR, "users.txt")
 FEEDS_DIR = os.path.join(BASE_DIR, "feeds")
@@ -50,11 +66,13 @@ def save_state(state):
         json.dump(state, f, indent=4)
 
 def fetch_tweets(username):
+    random_ua = random.choice(USER_AGENTS)
+    headers = {"User-Agent": random_ua}
     for base in NITTER_INSTANCES:
         try:
             url = f"{base}/{username}"
-            print(f"🔎 Fetching {url}", file=sys.stderr)
-            r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=TIMEOUT)
+            print(f"🔎 Fetching {url} (UA: {random_ua[:30]}...)", file=sys.stderr)
+            r = requests.get(url, headers=headers, timeout=TIMEOUT)
             r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
             items = soup.select(".tweet-content")
