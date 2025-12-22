@@ -1,0 +1,4 @@
+feedgenerator
+beautifulsoup4
+lxml
+requests
