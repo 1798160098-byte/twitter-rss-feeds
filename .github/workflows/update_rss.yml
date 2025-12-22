@@ -1,0 +1,32 @@
+name: Update Twitter RSS
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # 每 30 分钟
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Generate RSS
+        run: |
+          mkdir -p feeds
+          python twitter_rss.py > feeds/crypto_kol.rss
+
+      - name: Commit & push
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git add feeds/crypto_kol.rss
+          git diff --quiet || git commit -m "update rss"
+          git push
