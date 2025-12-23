@@ -89,9 +89,22 @@ jobs:
             echo "CHANGED_FILES_COUNT=$CHANGED_FILES" >> $GITHUB_ENV
           fi
       
-      - name: 💾 提交变更到仓库
+      - name: 💾 拉取最新代码并提交变更
         if: steps.check-changes.outputs.has_changes == 'true'
         run: |
+          # 先拉取最新的代码
+          echo "⬇️ 拉取最新的代码..."
+          git pull --rebase origin main || echo "拉取失败，可能没有更新"
+          
+          # 重新添加文件（因为拉取可能会改变工作区）
+          git add feeds/ urls.txt
+          
+          # 检查是否还有变更
+          if git diff --cached --quiet; then
+            echo "⚠️ 拉取后没有变更，跳过提交"
+            exit 0
+          fi
+          
           # 生成提交信息
           COMMIT_TIME=$(date -u +"%Y-%m-%d %H:%M UTC")
           
@@ -107,8 +120,12 @@ jobs:
           
           COMMIT_MSG="$COMMIT_MSG | 时间: $COMMIT_TIME"
           
+          # 提交
           git commit -m "$COMMIT_MSG"
-          git push
+          
+          # 推送（使用--force-with-lease更安全）
+          echo "⬆️ 推送到仓库..."
+          git push origin main --force-with-lease
           
           echo "✅ 已提交变更到仓库"
           echo "📝 提交信息: $COMMIT_MSG"
