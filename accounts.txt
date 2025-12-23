@@ -1,0 +1,17 @@
+# 每行一个Twitter用户名（不带@符号）
+# 以#开头的行是注释
+# 支持中文注释
+
+# 加密领域
+cz_binance
+elonmusk
+connectfarm1
+ai_9684xtpa
+coindesk
+lookonchain
+cryptoquant_com
+yueya_eth
+wolfyxbt
+
+# 您可以在这里添加更多博主
+# 只需添加用户名，保存后工作流会自动处理
