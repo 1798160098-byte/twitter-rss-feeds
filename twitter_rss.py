@@ -30,12 +30,19 @@ logger = logging.getLogger(__name__)
 class SimpleTwitterRSS:
     def __init__(self):
         """初始化"""
+        # 更新为最新的可用Nitter实例列表（基于你提供的信息）
         self.instances = [
+            'https://xcancel.com',
+            'https://nitter.poast.org',
+            'https://nitter.privacyredirect.com',
+            'https://lightbrd.com',
+            'https://nitter.space',
+            'https://nitter.tiekoetter.com',
+            'https://nuku.trabun.org',
+            'https://nitter.catsarch.com',
+            # 备用实例（虽然可能不在列表中但可能仍然可用）
             'https://nitter.net',
             'https://nitter.kavin.rocks',
-            'https://nitter.fdn.fr',
-            'https://nitter.1d4.us',
-            'https://nitter.privacydev.net',
         ]
         
         # 创建目录
@@ -45,9 +52,14 @@ class SimpleTwitterRSS:
         # 会话设置
         self.session = requests.Session()
         self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
         })
+        self.session.timeout = 30
     
     def load_accounts(self) -> List[str]:
         """从accounts.txt加载账号列表"""
@@ -79,7 +91,8 @@ class SimpleTwitterRSS:
             'last_update': None,
             'last_count': 0,
             'failures': 0,
-            'instance_used': None
+            'instance_used': None,
+            'last_successful_instance': None
         }
     
     def save_state(self, username: str, state: Dict):
@@ -98,38 +111,83 @@ class SimpleTwitterRSS:
     def fetch_tweets(self, username: str) -> Tuple[List[str], str]:
         """抓取推文"""
         tweets = []
-        instance_used = self.instances[0]
+        instance_used = None
         
-        for instance in self.instances:
+        # 首先尝试上次成功的实例
+        state = self.load_state(username)
+        last_success_instance = state.get('last_successful_instance')
+        
+        instances_order = list(self.instances)
+        if last_success_instance and last_success_instance in instances_order:
+            instances_order.remove(last_success_instance)
+            instances_order.insert(0, last_success_instance)
+        
+        for instance in instances_order:
             try:
                 url = f"{instance}/{username}"
-                logger.debug(f"尝试: {url}")
+                logger.info(f"尝试从实例抓取 @{username}: {url}")
                 
-                response = self.session.get(url, timeout=30)
+                response = self.session.get(url, timeout=15)
                 if response.status_code == 200:
                     soup = BeautifulSoup(response.text, 'html.parser')
                     
-                    # 查找推文内容
-                    for selector in ['.tweet-content', '.tweet-body', '.timeline-item .tweet-content p']:
+                    # 调试：保存HTML用于分析（仅在前几次）
+                    if state.get('failures', 0) < 2:
+                        debug_dir = 'debug_html'
+                        os.makedirs(debug_dir, exist_ok=True)
+                        with open(f'{debug_dir}/{username}_{instance.replace("https://", "").replace("/", "_")}.html', 'w', encoding='utf-8') as f:
+                            f.write(response.text[:5000])
+                    
+                    # 多种选择器尝试
+                    selectors = [
+                        '.tweet-content',
+                        '.tweet-body',
+                        '.timeline-item',
+                        '.tweet',
+                        '.timeline-Tweet-text',
+                        '.tweet-text',
+                        '.tweet-body p'
+                    ]
+                    
+                    for selector in selectors:
                         elements = soup.select(selector)
                         if elements:
-                            for elem in elements[:15]:  # 最多15条
+                            logger.debug(f"使用选择器 '{selector}' 找到 {len(elements)} 个元素")
+                            for elem in elements[:20]:  # 最多20条
                                 text = elem.get_text(strip=True)
-                                if text and len(text) > 10:
+                                if text and len(text) > 5 and not any(x in text.lower() for x in ['retweeted', 'pinned tweet', 'promoted']):
                                     # 清理文本
                                     text = ' '.join(text.split())
-                                    tweets.append(text)
-                            break
+                                    if text not in tweets:  # 避免重复
+                                        tweets.append(text)
+                            if tweets:
+                                break
                     
                     if tweets:
                         instance_used = instance
-                        break
+                        logger.info(f"成功从 {instance} 获取 @{username} 的 {len(tweets)} 条推文")
                         
+                        # 记录成功实例
+                        state['last_successful_instance'] = instance
+                        self.save_state(username, state)
+                        break
+                    else:
+                        logger.warning(f"从 {instance} 获取到页面但未找到推文内容")
+                        
+            except requests.exceptions.Timeout:
+                logger.warning(f"实例 {instance} 超时")
+                continue
+            except requests.exceptions.ConnectionError:
+                logger.warning(f"无法连接到实例 {instance}")
+                continue
             except Exception as e:
-                logger.debug(f"实例 {instance} 失败: {str(e)[:50]}")
+                logger.warning(f"实例 {instance} 失败: {str(e)[:100]}")
                 continue
         
-        return tweets, instance_used
+        if not tweets:
+            logger.error(f"所有实例都失败，无法获取 @{username} 的推文")
+        
+        return tweets, instance_used if instance_used else 'none'
     
     def generate_rss(self, username: str, tweets: List[str], instance: str) -> str:
         """生成RSS XML（使用feedgen库）"""
@@ -138,34 +196,34 @@ class SimpleTwitterRSS:
         # 设置feed基本信息
         fg.title(f'Twitter - @{username}')
         fg.link(href=f'https://twitter.com/{username}', rel='alternate')
-        fg.description(f'自动生成的Twitter RSS - 最后更新: {datetime.now().strftime("%Y-%m-%d %H:%M UTC")}')
+        fg.description(f'自动生成的Twitter RSS - 最后更新: {datetime.now().strftime("%Y-%m-%d %H:%M UTC")} | 来源实例: {instance}')
         fg.language('en')
         fg.lastBuildDate(datetime.now(timezone.utc))
         fg.generator('Simple Twitter RSS Generator')
         
         if tweets:
-            for idx, text in enumerate(tweets[:20]):  # 最多20条
+            for idx, text in enumerate(tweets[:25]):  # 最多25条
                 fe = fg.add_entry()
-                tweet_id = hashlib.md5(f"{username}_{text}".encode()).hexdigest()[:8]
+                tweet_id = hashlib.md5(f"{username}_{text}_{idx}".encode()).hexdigest()[:8]
                 
                 # 标题（截断处理）
-                if len(text) > 80:
-                    title = f'{text[:80]}...'
+                if len(text) > 100:
+                    title = f'{text[:100]}...'
                 else:
                     title = text
                 
-                fe.title(title)
+                fe.title(f'@{username}: {title}')
                 fe.description(text)
                 fe.link(href=f'https://twitter.com/{username}/status/{tweet_id}', rel='alternate')
                 fe.guid(f'twitter_{username}_{tweet_id}', permalink=False)
-                fe.pubDate(datetime.now(timezone.utc))
+                fe.pubDate(datetime.now(timezone.utc) - timedelta(minutes=idx*5))  # 模拟时间差
         else:
             # 没有推文时
             fe = fg.add_entry()
             placeholder_id = f'placeholder_{username}_{int(time.time())}'
             
-            fe.title(f'@{username} - 暂无新推文')
-            fe.description(f'更新时间: {datetime.now().strftime("%Y-%m-%d %H:%M UTC")}')
+            fe.title(f'@{username} - 暂无新推文或获取失败')
+            fe.description(f'更新时间: {datetime.now().strftime("%Y-%m-%d %H:%M UTC")}\n尝试的实例: {instance}')
             fe.link(href=f'https://twitter.com/{username}', rel='alternate')
             fe.guid(placeholder_id, permalink=False)
             fe.pubDate(datetime.now(timezone.utc))
@@ -182,10 +240,18 @@ class SimpleTwitterRSS:
         last_hash = state.get('last_hash')
         failures = state.get('failures', 0)
         
-        # 如果连续失败3次，跳过（避免浪费资源）
-        if failures >= 3:
-            logger.info(f"跳过: @{username} - 连续失败{failures}次")
-            return False
+        # 如果连续失败5次，跳过一天（避免浪费资源）
+        if failures >= 5:
+            last_update = state.get('last_update')
+            if last_update:
+                try:
+                    last_time = datetime.fromisoformat(last_update)
+                    hours_since = (datetime.now() - last_time).total_seconds() / 3600
+                    if hours_since < 24:  # 24小时内不再尝试
+                        logger.info(f"跳过: @{username} - 连续失败{failures}次，24小时后重试")
+                        return False
+                except:
+                    pass
         
         # 抓取推文
         tweets, instance_used = self.fetch_tweets(username)
@@ -205,7 +271,19 @@ class SimpleTwitterRSS:
             needs_update = True
             reason = f"推文更新 ({state.get('last_count', 0)} → {current_count})"
         elif current_count == 0 and state.get('last_count', 0) == 0:
-            # 保持活跃：每12小时更新一次空状态
+            # 保持活跃：每6小时更新一次空状态
+            last_update = state.get('last_update')
+            if last_update:
+                try:
+                    last_time = datetime.fromisoformat(last_update)
+                    hours_since = (datetime.now() - last_time).total_seconds() / 3600
+                    if hours_since > 6:
+                        needs_update = True
+                        reason = "保活更新 (6h)"
+                except:
+                    pass
+        elif current_count > 0:
+            # 有推文但哈希相同：每12小时更新一次
             last_update = state.get('last_update')
             if last_update:
                 try:
@@ -213,7 +291,7 @@ class SimpleTwitterRSS:
                     hours_since = (datetime.now() - last_time).total_seconds() / 3600
                     if hours_since > 12:
                         needs_update = True
-                        reason = "保活更新 (12h)"
+                        reason = "定期更新 (12h)"
                 except:
                     pass
         
@@ -234,6 +312,7 @@ class SimpleTwitterRSS:
                 'last_count': current_count,
                 'failures': 0 if tweets else (failures + 1),
                 'instance_used': instance_used,
+                'last_successful_instance': instance_used if tweets else state.get('last_successful_instance'),
                 'update_reason': reason
             }
             self.save_state(username, new_state)
@@ -278,24 +357,67 @@ class SimpleTwitterRSS:
         
         logger.info(f"已生成URL列表: urls.txt ({len(accounts)}个账号)")
     
+    def test_instances(self):
+        """测试所有Nitter实例是否可用"""
+        logger.info("开始测试Nitter实例...")
+        test_username = "twitter"  # 使用Twitter官方账号测试
+        
+        working_instances = []
+        for instance in self.instances:
+            try:
+                url = f"{instance}/{test_username}"
+                logger.info(f"测试实例: {url}")
+                
+                response = self.session.get(url, timeout=10)
+                if response.status_code == 200:
+                    # 检查是否包含推文相关内容
+                    if 'tweet' in response.text.lower() or 'timeline' in response.text.lower():
+                        working_instances.append(instance)
+                        logger.info(f"✓ {instance} 可用")
+                    else:
+                        logger.warning(f"✗ {instance} 返回页面但可能格式不对")
+                else:
+                    logger.warning(f"✗ {instance} HTTP {response.status_code}")
+            except Exception as e:
+                logger.warning(f"✗ {instance} 失败: {str(e)[:50]}")
+        
+        logger.info(f"测试完成: {len(working_instances)}/{len(self.instances)} 个实例可用")
+        if working_instances:
+            logger.info(f"可用实例: {working_instances}")
+            # 更新实例列表为可用的实例
+            self.instances = working_instances + self.instances
+            self.instances = list(dict.fromkeys(self.instances))  # 去重保持顺序
+        
+        return len(working_instances) > 0
+    
     def run(self):
         """运行主程序"""
         start_time = time.time()
+        
+        # 测试实例可用性
+        if not self.test_instances():
+            logger.warning("警告：没有找到可用的Nitter实例！")
+        
         accounts = self.load_accounts()
         
         if not accounts:
             logger.error("没有找到任何账号，请检查accounts.txt文件")
             return 0, 0
         
-        logger.info(f"开始处理 {len(accounts)} 个账号")
+        logger.info(f"开始处理 {len(accounts)} 个账号，使用 {len(self.instances)} 个实例")
+        logger.info(f"实例列表: {self.instances}")
         
         updated_count = 0
-        for username in accounts:
+        for idx, username in enumerate(accounts, 1):
             try:
+                logger.info(f"[{idx}/{len(accounts)}] 处理账号: @{username}")
                 if self.process_account(username):
                     updated_count += 1
-                # 短暂延迟，避免请求过快
-                time.sleep(1)
+                
+                # 短暂延迟，避免请求过快（每个账号之间间隔2秒）
+                if idx < len(accounts):
+                    time.sleep(2)
+                    
             except Exception as e:
                 logger.error(f"处理账号 @{username} 时出错: {e}")
                 continue
@@ -309,9 +431,16 @@ def main():
     """主函数入口"""
     # 检查命令行参数
     force_update = '--force' in sys.argv
+    test_only = '--test' in sys.argv
     
     if force_update:
         logger.info("强制更新模式")
+    
+    if test_only:
+        logger.info("仅测试模式")
+        generator = SimpleTwitterRSS()
+        generator.test_instances()
+        return
     
     generator = SimpleTwitterRSS()
     
@@ -338,9 +467,11 @@ def main():
             f.write(f'updated={updated > 0}\n')
             f.write(f'updated_count={updated}\n')
             f.write(f'total_accounts={total}\n')
+            f.write(f'instances_count={len(generator.instances)}\n')
     
     # 如果没有更新，返回非零退出码（让GitHub Actions知道无需提交）
     if updated == 0:
+        logger.warning("没有账号需要更新，退出码为1")
         sys.exit(1)
     else:
         sys.exit(0)
