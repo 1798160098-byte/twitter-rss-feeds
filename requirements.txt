@@ -1,4 +1,9 @@
-feedgenerator
-beautifulsoup4
-lxml
-requests
+# RSS生成
+feedgenerator==1.9.2
+
+# 网页抓取
+beautifulsoup4==4.12.2
+lxml==4.9.4
+requests==2.31.0
+
+# 版本不要太新，避免兼容性问题
