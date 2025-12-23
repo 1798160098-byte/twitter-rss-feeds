@@ -81,17 +81,12 @@ jobs:
           git add feeds/ urls.txt
           if git diff --cached --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "changes=无文件变更" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
             
             # 统计变更文件数
             CHANGED_FILES=$(git diff --cached --name-only | wc -l)
-            echo "changes=检测到 $CHANGED_FILES 个文件变更" >> $GITHUB_OUTPUT
-            
-            # 列出变更的文件
-            git diff --cached --name-only | head -5 > changed_files.txt
-            echo "changed_files=$(cat changed_files.txt)" >> $GITHUB_OUTPUT
+            echo "CHANGED_FILES_COUNT=$CHANGED_FILES" >> $GITHUB_ENV
           fi
       
       - name: 💾 提交变更到仓库
@@ -154,7 +149,10 @@ jobs:
           echo "- **检查账号数**: ${{ steps.generate.outputs.total_accounts || '未知' }}" >> $GITHUB_STEP_SUMMARY
           echo "- **更新账号数**: ${{ steps.generate.outputs.updated_count || 0 }}" >> $GITHUB_STEP_SUMMARY
           echo "- **是否有变更**: ${{ steps.check-changes.outputs.has_changes || 'false' }}" >> $GITHUB_STEP_SUMMARY
-          echo "- **变更详情**: ${{ steps.check-changes.outputs.changes || '无' }}" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ steps.check-changes.outputs.has_changes }}" = "true" ]; then
+            echo "- **变更文件数**: ${{ env.CHANGED_FILES_COUNT || 0 }}" >> $GITHUB_STEP_SUMMARY
+          fi
           echo "" >> $GITHUB_STEP_SUMMARY
           
           echo "## 🔗 生成的RSS URLs" >> $GITHUB_STEP_SUMMARY
@@ -181,7 +179,7 @@ jobs:
           echo "3. 在n8n中使用生成的URL：\`https://raw.githubusercontent.com/用户名/twitter-rss-feeds/main/feeds/用户名.rss\`" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           
-          if ${{ steps.check-changes.outputs.has_changes == 'false' }}; then
+          if [ "${{ steps.check-changes.outputs.has_changes }}" = "false" ]; then
             echo "## 🎯 优化效果" >> $GITHUB_STEP_SUMMARY
             echo "✅ 本次运行没有检测到推文更新，跳过了提交，节省了GitHub Actions使用时间！" >> $GITHUB_STEP_SUMMARY
           fi
