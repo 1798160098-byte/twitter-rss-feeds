@@ -1,8 +1,9 @@
 {
-  "last_hash": "no_tweets",
-  "last_update": "2025-12-23T06:35:34.581634",
-  "last_count": 0,
-  "failures": 1,
-  "instance_used": "https://nitter.net",
-  "update_reason": "首次运行"
+  "last_hash": "58bc50af26ad420e",
+  "last_update": "2025-12-23T10:50:15.464808",
+  "last_count": 17,
+  "failures": 0,
+  "instance_used": "https://xcancel.com",
+  "last_successful_instance": "https://xcancel.com",
+  "update_reason": "推文更新 (0 → 17)"
 }
