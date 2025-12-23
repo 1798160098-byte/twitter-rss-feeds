@@ -1,0 +1,55 @@
+# Twitter RSS URLs
+# 生成时间: 2025-12-23 05:35:55
+# GitHub用户: 1798160098-byte
+# 总账号数: 9
+#
+# 使用方法:
+# 1. 复制下面的URL到n8n的RSS Feed Trigger节点
+# 2. 设置检查频率（推荐10-15分钟）
+# 3. 如需添加新博主，在accounts.txt中添加用户名即可
+
+# @cz_binance
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/cz_binance.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/cz_binance.rss?raw=true
+------------------------------------------------------------
+
+# @elonmusk
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/elonmusk.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/elonmusk.rss?raw=true
+------------------------------------------------------------
+
+# @connectfarm1
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/connectfarm1.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/connectfarm1.rss?raw=true
+------------------------------------------------------------
+
+# @ai_9684xtpa
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/ai_9684xtpa.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/ai_9684xtpa.rss?raw=true
+------------------------------------------------------------
+
+# @coindesk
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/coindesk.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/coindesk.rss?raw=true
+------------------------------------------------------------
+
+# @lookonchain
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/lookonchain.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/lookonchain.rss?raw=true
+------------------------------------------------------------
+
+# @cryptoquant_com
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/cryptoquant_com.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/cryptoquant_com.rss?raw=true
+------------------------------------------------------------
+
+# @yueya_eth
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/yueya_eth.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/yueya_eth.rss?raw=true
+------------------------------------------------------------
+
+# @wolfyxbt
+主URL: https://raw.githubusercontent.com/1798160098-byte/twitter-rss-feeds/main/feeds/wolfyxbt.rss
+备用URL: https://github.com/1798160098-byte/twitter-rss-feeds/blob/main/feeds/wolfyxbt.rss?raw=true
+------------------------------------------------------------
+
