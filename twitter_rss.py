@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-极简Twitter RSS生成器
-每行一个账号，智能检测更新，节省GitHub Actions时间
+极简Twitter RSS生成器 - 修复版
+使用 feedgen 库避免版本兼容问题
 """
 
 import os
@@ -9,13 +9,13 @@ import sys
 import json
 import hashlib
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Optional, Tuple
 import logging
 
 import requests
 from bs4 import BeautifulSoup
-from feedgenerator import RssFeed
+from feedgen.feed import FeedGenerator
 
 # 配置日志
 logging.basicConfig(
@@ -132,42 +132,46 @@ class SimpleTwitterRSS:
         return tweets, instance_used
     
     def generate_rss(self, username: str, tweets: List[str], instance: str) -> str:
-        """生成RSS XML"""
-        now = datetime.now(timezone.utc)
+        """生成RSS XML（使用feedgen库）"""
+        fg = FeedGenerator()
         
-        feed = RssFeed(
-            title=f'Twitter - @{username}',
-            link=f'https://twitter.com/{username}',
-            description=f'自动生成的Twitter RSS - 最后更新: {now.strftime("%Y-%m-%d %H:%M UTC")}',
-            language='en',
-            pubdate=now,
-            lastBuildDate=now,
-            generator='Simple Twitter RSS Generator',
-        )
+        # 设置feed基本信息
+        fg.title(f'Twitter - @{username}')
+        fg.link(href=f'https://twitter.com/{username}', rel='alternate')
+        fg.description(f'自动生成的Twitter RSS - 最后更新: {datetime.now().strftime("%Y-%m-%d %H:%M UTC")}')
+        fg.language('en')
+        fg.lastBuildDate(datetime.now(timezone.utc))
+        fg.generator('Simple Twitter RSS Generator')
         
         if tweets:
             for idx, text in enumerate(tweets[:20]):  # 最多20条
-                pub_date = now
+                fe = fg.add_entry()
                 tweet_id = hashlib.md5(f"{username}_{text}".encode()).hexdigest()[:8]
                 
-                feed.add_item(
-                    title=f'{text[:80]}...' if len(text) > 80 else text,
-                    description=text,
-                    link=f'https://twitter.com/{username}/status/{tweet_id}',
-                    pubdate=pub_date,
-                    unique_id=f'twitter_{username}_{tweet_id}',
-                )
+                # 标题（截断处理）
+                if len(text) > 80:
+                    title = f'{text[:80]}...'
+                else:
+                    title = text
+                
+                fe.title(title)
+                fe.description(text)
+                fe.link(href=f'https://twitter.com/{username}/status/{tweet_id}', rel='alternate')
+                fe.guid(f'twitter_{username}_{tweet_id}', permalink=False)
+                fe.pubDate(datetime.now(timezone.utc))
         else:
             # 没有推文时
-            feed.add_item(
-                title=f'@{username} - 暂无新推文',
-                description=f'更新时间: {now.strftime("%Y-%m-%d %H:%M UTC")}',
-                link=f'https://twitter.com/{username}',
-                pubdate=now,
-                unique_id=f'placeholder_{username}_{int(now.timestamp())}',
-            )
+            fe = fg.add_entry()
+            placeholder_id = f'placeholder_{username}_{int(time.time())}'
+            
+            fe.title(f'@{username} - 暂无新推文')
+            fe.description(f'更新时间: {datetime.now().strftime("%Y-%m-%d %H:%M UTC")}')
+            fe.link(href=f'https://twitter.com/{username}', rel='alternate')
+            fe.guid(placeholder_id, permalink=False)
+            fe.pubDate(datetime.now(timezone.utc))
         
-        return feed.writeString('utf-8')
+        # 生成RSS XML
+        return fg.rss_str(pretty=True).decode('utf-8')
     
     def process_account(self, username: str) -> bool:
         """处理单个账号，返回是否需要更新"""
