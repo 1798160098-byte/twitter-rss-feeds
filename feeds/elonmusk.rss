@@ -3,129 +3,18 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-01-20 07:35 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-01-20 08:23 UTC | 来源实例: none</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jan 2026 07:35:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 08:23:02 +0000</lastBuildDate>
     <item>
-      <title>@elonmusk: Grok explained the newly open sourced X algorithm in 10 clear and easy points: 1) When you open the ...</title>
-      <link>https://twitter.com/elonmusk/status/5ca0b5a9</link>
-      <description>Grok explained the newly open sourced X algorithm in 10 clear and easy points: 1) When you open the "For You" feed on X, it starts by gathering your personal info, like who you follow and what posts you've liked, replied to, or shared in the past—this helps customize what you see. 2) Next, it collects potential posts from two main places: ones from people you already follow (called in-network) and new discoveries from across all of X (called out-of-network) that might interest you. 3) The in-network posts come from a fast system that stores recent updates from your followed accounts in memory, making it quick to grab without delays. 4) For out-of-network posts, it uses smart AI to compare your interests (based on your history) with all posts on X, picking ones that seem similar or relevant through a matching process. 5) Once it has these candidate posts, it adds extra details to each, like the post's text, images, videos, author's name, and whether they're verified or if it's behind a paywall. 6) Then, it cleans up the list by removing duplicates, old posts, your own stuff, anything from blocked or muted people, keywords you don't like, or things you've already seen. 7) Now, a powerful AI model (based on Grok) looks at your past interactions and predicts how likely you are to like, reply, repost, click, or even dislike each post—giving each a score. 8) It combines these predictions into one final score per post, boosting good actions (like likes) and lowering bad ones (like blocks), while adjusting to mix in variety so one person doesn't dominate your feed. 9) The posts are sorted by these scores, and the top ones are selected to create your feed, ensuring a balanced mix of familiar and new content. 10) Finally, it does one last check to remove any deleted, spammy, violent, or inappropriate posts, then serves up the ranked feed for you to scroll through.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5ca0b5a9</guid>
-      <pubDate>Tue, 20 Jan 2026 06:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Throwback to Elon Musk straight-up owning Don Lemon right on The Don Lemon Show😂</title>
-      <link>https://twitter.com/elonmusk/status/e7cd9c3b</link>
-      <description>Throwback to Elon Musk straight-up owning Don Lemon right on The Don Lemon Show😂</description>
-      <guid isPermaLink="false">twitter_elonmusk_e7cd9c3b</guid>
-      <pubDate>Tue, 20 Jan 2026 06:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: MACROHARD and MACROHARDRR from space 🛰️ xAI's powerhouse</title>
-      <link>https://twitter.com/elonmusk/status/c948876f</link>
-      <description>MACROHARD and MACROHARDRR from space 🛰️ xAI's powerhouse</description>
-      <guid isPermaLink="false">twitter_elonmusk_c948876f</guid>
-      <pubDate>Tue, 20 Jan 2026 06:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: "In person voting with ID, End of Story." Election integrity starts with voter ID. Without it, democ...</title>
-      <link>https://twitter.com/elonmusk/status/307e75bd</link>
-      <description>"In person voting with ID, End of Story." Election integrity starts with voter ID. Without it, democracy fails.</description>
-      <guid isPermaLink="false">twitter_elonmusk_307e75bd</guid>
-      <pubDate>Tue, 20 Jan 2026 06:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: And the fraudsters always have amazingly good fake sob stories</title>
-      <link>https://twitter.com/elonmusk/status/3a09dc0b</link>
-      <description>And the fraudsters always have amazingly good fake sob stories</description>
-      <guid isPermaLink="false">twitter_elonmusk_3a09dc0b</guid>
-      <pubDate>Tue, 20 Jan 2026 06:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: They will do this nationally as soon as they gain power and democracy will end</title>
-      <link>https://twitter.com/elonmusk/status/f6c8dd51</link>
-      <description>They will do this nationally as soon as they gain power and democracy will end</description>
-      <guid isPermaLink="false">twitter_elonmusk_f6c8dd51</guid>
-      <pubDate>Tue, 20 Jan 2026 06:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Literally every Tesla owner while on FSD</title>
-      <link>https://twitter.com/elonmusk/status/8b7c4fe3</link>
-      <description>Literally every Tesla owner while on FSD</description>
-      <guid isPermaLink="false">twitter_elonmusk_8b7c4fe3</guid>
-      <pubDate>Tue, 20 Jan 2026 06:45:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: In some cases, all your kids are getting propaganda and at very high cost!</title>
-      <link>https://twitter.com/elonmusk/status/79d370fa</link>
-      <description>In some cases, all your kids are getting propaganda and at very high cost!</description>
-      <guid isPermaLink="false">twitter_elonmusk_79d370fa</guid>
-      <pubDate>Tue, 20 Jan 2026 06:50:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: I'm a fan of this image, the colours, the composition, the atmosphere! Grok Imagine🥰</title>
-      <link>https://twitter.com/elonmusk/status/d19c48c1</link>
-      <description>I'm a fan of this image, the colours, the composition, the atmosphere! Grok Imagine🥰</description>
-      <guid isPermaLink="false">twitter_elonmusk_d19c48c1</guid>
-      <pubDate>Tue, 20 Jan 2026 06:55:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Sometimes, I miss the sheer entertaining idiocy of pronouns in bio</title>
-      <link>https://twitter.com/elonmusk/status/61766809</link>
-      <description>Sometimes, I miss the sheer entertaining idiocy of pronouns in bio</description>
-      <guid isPermaLink="false">twitter_elonmusk_61766809</guid>
-      <pubDate>Tue, 20 Jan 2026 07:00:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Did you know that Grok Imagine has a video library with free prompts? 1- Click on the video. 2- Use ...</title>
-      <link>https://twitter.com/elonmusk/status/601df8c2</link>
-      <description>Did you know that Grok Imagine has a video library with free prompts? 1- Click on the video. 2- Use the video as is, or click "Edit" to customize it to your liking. That's what I did with this video. I changed the background a bit and had this young woman speak.</description>
-      <guid isPermaLink="false">twitter_elonmusk_601df8c2</guid>
-      <pubDate>Tue, 20 Jan 2026 07:05:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Elon Musk: "There will not be any meaningful elections in the future All of America will be 'Califor...</title>
-      <link>https://twitter.com/elonmusk/status/d1181be4</link>
-      <description>Elon Musk: "There will not be any meaningful elections in the future All of America will be 'Californicated' and not in a good way It will actually be worse than California The one thing that holds California back from being even worse than it is, is that people can move out of California and still be in America What happens when there’s no place to move? It’ll be way worse than California"</description>
-      <guid isPermaLink="false">twitter_elonmusk_d1181be4</guid>
-      <pubDate>Tue, 20 Jan 2026 07:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Pretty much (sigh)</title>
-      <link>https://twitter.com/elonmusk/status/2cafbfc7</link>
-      <description>Pretty much (sigh)</description>
-      <guid isPermaLink="false">twitter_elonmusk_2cafbfc7</guid>
-      <pubDate>Tue, 20 Jan 2026 07:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Elon Musk warned them three years ago. Today the German government is finally admitting he was right...</title>
-      <link>https://twitter.com/elonmusk/status/b449bb5a</link>
-      <description>Elon Musk warned them three years ago. Today the German government is finally admitting he was right Chancellor Friedrich Merz has officially labeled the decision to shut down Germany’s nuclear plants a 'huge mistake,' confessing that the move has crippled the economy and left the country with the most expensive energy transition in the world (What Elon warned 3 years ago:) I think it's very important that Germany not shut down its nuclear power stations? I think this is extremely crazy I want to be super clear. My opinion is Germany should not only not shut down the nuclear power plants, it should reopen the ones that shut down. Those are the fastest ones to restart. It's crazy to shut down nuclear power plants Especially if you're in a place where there are no natural disasters. If you're somewhere with severe earthquakes or tsunamis, it's more of a question mark But if there's not a massive natural disaster risk which Germany does not have then there's really no danger with the nuclear power plants</description>
-      <guid isPermaLink="false">twitter_elonmusk_b449bb5a</guid>
-      <pubDate>Tue, 20 Jan 2026 07:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Correct on all points</title>
-      <link>https://twitter.com/elonmusk/status/8226a7e5</link>
-      <description>Correct on all points</description>
-      <guid isPermaLink="false">twitter_elonmusk_8226a7e5</guid>
-      <pubDate>Tue, 20 Jan 2026 07:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Any elected official who would refuse to vote to pass Voter ID laws is betraying their voters and th...</title>
-      <link>https://twitter.com/elonmusk/status/adaf615a</link>
-      <description>Any elected official who would refuse to vote to pass Voter ID laws is betraying their voters and their country.</description>
-      <guid isPermaLink="false">twitter_elonmusk_adaf615a</guid>
-      <pubDate>Tue, 20 Jan 2026 07:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: We know the algorithm is dumb and needs massive improvements, but at least you can see us struggle t...</title>
-      <link>https://twitter.com/elonmusk/status/a561919a</link>
-      <description>We know the algorithm is dumb and needs massive improvements, but at least you can see us struggle to make it better in real-time and with transparency. No other social media companies do this.</description>
-      <guid isPermaLink="false">twitter_elonmusk_a561919a</guid>
-      <pubDate>Tue, 20 Jan 2026 07:35:13 +0000</pubDate>
+      <title>@elonmusk - 暂无新推文或获取失败</title>
+      <link>https://twitter.com/elonmusk</link>
+      <description>更新时间: 2026-01-20 08:23 UTC
+尝试的实例: none</description>
+      <guid isPermaLink="false">placeholder_elonmusk_1768897382</guid>
+      <pubDate>Tue, 20 Jan 2026 08:23:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
