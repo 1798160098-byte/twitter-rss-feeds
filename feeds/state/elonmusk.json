@@ -1,9 +1,9 @@
 {
-  "last_hash": "no_tweets",
-  "last_update": "2026-01-31T11:14:56.578767",
-  "last_count": 0,
-  "failures": 1,
-  "instance_used": "none",
+  "last_hash": "7d0c7d25becbf60e",
+  "last_update": "2026-01-31T11:41:35.584348",
+  "last_count": 20,
+  "failures": 0,
+  "instance_used": "https://xcancel.com",
   "last_successful_instance": "https://xcancel.com",
-  "update_reason": "推文更新 (20 → 0)"
+  "update_reason": "推文更新 (0 → 20)"
 }
