@@ -3,143 +3,143 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-02-03 09:33 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-02-03 17:26 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Feb 2026 09:33:29 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: BREAKING: SpaceX and xAI have just formerly announced that they are merging. Full statement from Elo...</title>
-      <link>https://twitter.com/elonmusk/status/8c74d8ce</link>
-      <description>BREAKING: SpaceX and xAI have just formerly announced that they are merging. Full statement from Elon Musk: "SpaceX has acquired xAI to form the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world’s foremost real-time information and free speech platform. This marks not just the next chapter, but the next book in SpaceX and xAI's mission: scaling to make a sentient sun to understand the Universe and extend the light of consciousness to the stars! Current advances in AI are dependent on large terrestrial data centers, which require immense amounts of power and cooling. Global electricity demand for AI simply cannot be met with terrestrial solutions, even in the near term, without imposing hardship on communities and the environment. In the long term, space-based AI is obviously the only way to scale. To harness even a millionth of our Sun’s energy would require over a million times more energy than our civilization currently uses! The only logical solution therefore is to transport these resource-intensive efforts to a location with vast power and space. I mean, space is called “space” for a reason. 😂 By directly harnessing near-constant solar power with little operating or maintenance costs, these satellites will transform our ability to scale compute. It’s always sunny in space! Launching a constellation of a million satellites that operate as orbital data centers is a first step towards becoming a Kardashev II-level civilization, one that can harness the Sun’s full power, while supporting AI-driven applications for billions of people today and ensuring humanity’s multi-planetary future. In the history of spaceflight, there has never been a vehicle capable of launching the megatons of mass that space-based data centers or permanent bases on the Moon and cities on Mars require. Even in 2025, the most prolific year in history in terms of the number of orbital launches, only about 3000 tons of payload was launched into orbit, primarily consisting of Starlink satellites carried by our Falcon rocket. The requirement to launch thousands of satellites to orbit became a forcing function for the Falcon program, driving recursive improvements to reach the unprecedented flight rates necessary to make space-based internet a reality. This year, Starship will begin delivering the much more powerful V3 Starlink satellites to orbit, with each launch adding more than 20 times the capacity to the constellation as the current Falcon launches of the V2 Starlink satellites. Starship will also launch the next generation of direct-to-mobile satellites, which will deliver full cellular coverage everywhere on Earth. While the need to launch these satellites will act as a similar forcing function to drive Starship improvements and launch rates, the sheer number of satellites that will be needed for space-based data centers will push Starship to even greater heights. With launches every hour carrying 200 tons per flight, Starship will deliver millions of tons to orbit and beyond per year, enabling an exciting future where humanity is out exploring amongst the stars. The basic math is that launching a million tons per year of satellites generating 100 kW of compute power per ton would add 100 gigawatts of AI compute capacity annually, with no ongoing operational or maintenance needs. Ultimately, there is a path to launching 1 TW/year from Earth. My estimate is that within 2 to 3 years, the lowest cost way to generate AI compute will be in space. This cost-efficiency alone will enable innovative companies to forge ahead in training their AI models and processing data at unprecedented speeds and scales, accelerating breakthroughs in our understanding of physics and invention of technologies to benefit humanity. This new constellation will build upon the well-established space sustainability design and operational strategies, including end-of-life disposal, that have proven successful for SpaceX’s existing broadband satellite systems. While launching AI satellites from Earth is the immediate focus, Starship’s capabilities will also enable operations on other worlds. Thanks to advancements like in-space propellant transfer, Starship will be capable of landing massive amounts of cargo on the Moon. Once there, it will be possible to establish a permanent presence for scientific and manufacturing pursuits. Factories on the Moon can take advantage of lunar resources to manufacture satellites and deploy them further into space. By using an electromagnetic mass driver and lunar manufacturing, it is possible to put 500 to 1000 TW/year of AI satellites into deep space, meaningfully ascend the Kardashev scale and harness a non-trivial percentage of the Sun’s power. The capabilities we unlock by making space-based data centers a reality will fund and enable self-growing bases on the Moon, an entire civilization on Mars and ultimately expansion to the Universe. Thank you for everything you have done and will do for the light cone of consciousness."</description>
-      <guid isPermaLink="false">twitter_elonmusk_8c74d8ce</guid>
-      <pubDate>Tue, 03 Feb 2026 08:03:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: TryGrokipedia.com! We are striving to make this the best open source, no license or anything distill...</title>
-      <link>https://twitter.com/elonmusk/status/637976c4</link>
-      <description>TryGrokipedia.com! We are striving to make this the best open source, no license or anything distillation of all knowledge.</description>
-      <guid isPermaLink="false">twitter_elonmusk_637976c4</guid>
-      <pubDate>Tue, 03 Feb 2026 08:08:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: xAI just rolled out a Batch API for Grok You can now send huge volumes of requests asynchronously wi...</title>
-      <link>https://twitter.com/elonmusk/status/bce6be97</link>
-      <description>xAI just rolled out a Batch API for Grok You can now send huge volumes of requests asynchronously with higher rate limits and lower cost It’s ideal for: • Nightly report generation and summaries • Bulk document translation • Embeddings at scale • Large-scale Q&amp;A and data processing How it works: • Run multiple batches per team • Handle very large request counts (with sensible throttling for stability) • Up to 25MB per add-request payload • Full control via SDK: create batches, add requests, inspect status, cancel jobs, and page through results If you’re building offline workloads or data pipelines on Grok, the Batch API makes scaling clean and manageable This is Grok built for real production workflows</description>
-      <guid isPermaLink="false">twitter_elonmusk_bce6be97</guid>
-      <pubDate>Tue, 03 Feb 2026 08:13:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: BREAKING: Grok Imagine = NEW #1 AI video model Text-to-Video Image-to-Video Download Grok &amp; start cr...</title>
-      <link>https://twitter.com/elonmusk/status/38227f97</link>
-      <description>BREAKING: Grok Imagine = NEW #1 AI video model Text-to-Video Image-to-Video Download Grok &amp; start creating</description>
-      <guid isPermaLink="false">twitter_elonmusk_38227f97</guid>
-      <pubDate>Tue, 03 Feb 2026 08:18:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: And then the galaxy</title>
-      <link>https://twitter.com/elonmusk/status/8b38a0a6</link>
-      <description>And then the galaxy</description>
-      <guid isPermaLink="false">twitter_elonmusk_8b38a0a6</guid>
-      <pubDate>Tue, 03 Feb 2026 08:23:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Some days be like</title>
-      <link>https://twitter.com/elonmusk/status/a5d355be</link>
-      <description>Some days be like</description>
-      <guid isPermaLink="false">twitter_elonmusk_a5d355be</guid>
-      <pubDate>Tue, 03 Feb 2026 08:28:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Attention all Kiwi! One NZ Satellite🛰️ Now you can use X anywhere in New Zealand you can see the sky...</title>
-      <link>https://twitter.com/elonmusk/status/18ef1771</link>
-      <description>Attention all Kiwi! One NZ Satellite🛰️ Now you can use X anywhere in New Zealand you can see the sky, as well stay connected and informed using apps like WhatsApp and Google Maps. Check it out atone.nz/satellite, terms apply.</description>
-      <guid isPermaLink="false">twitter_elonmusk_18ef1771</guid>
-      <pubDate>Tue, 03 Feb 2026 08:33:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: SpaceX just dropped a bombshell: they've acquired xAI to create what Elon Musk calls "the most ambit...</title>
-      <link>https://twitter.com/elonmusk/status/af186311</link>
-      <description>SpaceX just dropped a bombshell: they've acquired xAI to create what Elon Musk calls "the most ambitious, vertically-integrated innovation engine on (and off) Earth." The reasoning is audacious but logical: AI's hunger for power is insatiable. Terrestrial data centers can't scale fast enough without "imposing hardship on communities and the environment." The solution? Put the data centers in space. ● Launch 1 million satellites generating 100 kW of compute power per ton ● Add 100 gigawatts of AI compute capacity annually ● No ongoing operational or maintenance costs ● Always sunny in space ☀️ Elon Musk estimates that within 2-3 years, space will be the cheapest place to run AI compute. The bigger picture: Starship will launch every hour, carrying 200 tons per flight, delivering millions of tons to orbit annually. Eventually, lunar factories using electromagnetic mass drivers could deploy 500-1000 terawatts of AI satellites into deep space, a serious step toward becoming a Kardashev II civilization. The combined company now controls: rockets, satellite internet, direct-to-cell communications, the X platform, and cutting-edge AI. One company. Earth to Mars. Atoms to intelligence. Ad Astra.</description>
-      <guid isPermaLink="false">twitter_elonmusk_af186311</guid>
-      <pubDate>Tue, 03 Feb 2026 08:38:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Download the latest@Grokapp</title>
-      <link>https://twitter.com/elonmusk/status/d0d5b97e</link>
-      <description>Download the latest@Grokapp</description>
-      <guid isPermaLink="false">twitter_elonmusk_d0d5b97e</guid>
-      <pubDate>Tue, 03 Feb 2026 08:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: SpaceX has acquired xAI, forming one of the most ambitious, vertically integrated innovation engines...</title>
-      <link>https://twitter.com/elonmusk/status/3e086493</link>
-      <description>SpaceX has acquired xAI, forming one of the most ambitious, vertically integrated innovation engines on (and off) Earth →spacex.com/updates#xai-joins…</description>
-      <guid isPermaLink="false">twitter_elonmusk_3e086493</guid>
-      <pubDate>Tue, 03 Feb 2026 08:48:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: You see SpaceX = Space + X</title>
-      <link>https://twitter.com/elonmusk/status/f2e055fb</link>
-      <description>You see SpaceX = Space + X</description>
-      <guid isPermaLink="false">twitter_elonmusk_f2e055fb</guid>
-      <pubDate>Tue, 03 Feb 2026 08:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: I’m extra excited for this. Growing up in Chicago, the only vehicles we considered as a family car w...</title>
-      <link>https://twitter.com/elonmusk/status/8d0623d5</link>
-      <description>I’m extra excited for this. Growing up in Chicago, the only vehicles we considered as a family car were those with AWD. This is the case for many cold-weather customers throughout the country. The new Model Y AWD is the lowest priced AWD vehicle we’ve ever sold in North America by a significant margin, despite all of its capabilities. Hoping to welcome a lot of new owners to the Tesla family with our new lineup.</description>
-      <guid isPermaLink="false">twitter_elonmusk_8d0623d5</guid>
-      <pubDate>Tue, 03 Feb 2026 08:58:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Feb 2026 17:26:37 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: The older seasons of Star Trek were a positive view of the future</title>
-      <link>https://twitter.com/elonmusk/status/d4eb8369</link>
+      <link>https://twitter.com/elonmusk/status/c94f40bc</link>
       <description>The older seasons of Star Trek were a positive view of the future</description>
-      <guid isPermaLink="false">twitter_elonmusk_d4eb8369</guid>
-      <pubDate>Tue, 03 Feb 2026 09:03:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_c94f40bc</guid>
+      <pubDate>Tue, 03 Feb 2026 15:56:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🇬🇧🇺🇸 Tom Cruise hangs off airplanes at 30,000 feet. He's jumped out of helicopters, scaled the Burj ...</title>
-      <link>https://twitter.com/elonmusk/status/227e2fb9</link>
+      <link>https://twitter.com/elonmusk/status/0154e396</link>
       <description>🇬🇧🇺🇸 Tom Cruise hangs off airplanes at 30,000 feet. He's jumped out of helicopters, scaled the Burj Khalifa, and broken bones doing his own stunts because he thinks safety doubles are for cowards. This man just fled London because the streets feel too dangerous. When the most reckless actor in Hollywood history thinks your city is too sketchy, your city has a serious problem...</description>
-      <guid isPermaLink="false">twitter_elonmusk_227e2fb9</guid>
-      <pubDate>Tue, 03 Feb 2026 09:08:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0154e396</guid>
+      <pubDate>Tue, 03 Feb 2026 16:01:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Anything less than K2 is feeble</title>
-      <link>https://twitter.com/elonmusk/status/d0054548</link>
+      <link>https://twitter.com/elonmusk/status/bc51127d</link>
       <description>Anything less than K2 is feeble</description>
-      <guid isPermaLink="false">twitter_elonmusk_d0054548</guid>
-      <pubDate>Tue, 03 Feb 2026 09:13:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bc51127d</guid>
+      <pubDate>Tue, 03 Feb 2026 16:06:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: NEWS: Tesla has just launched a new Model Y variant in the U.S. called the Model Y AWD for $41,990. ...</title>
-      <link>https://twitter.com/elonmusk/status/938ed80e</link>
+      <link>https://twitter.com/elonmusk/status/2a0f75de</link>
       <description>NEWS: Tesla has just launched a new Model Y variant in the U.S. called the Model Y AWD for $41,990. • 294 mile range • 0-60mph: 4.6s Tesla has also renamed the Model Y Standard to the Model Y RWD. New U.S. Model Y lineup: • Model Y RWD • Model Y AWD • Model Y Premium RWD • Model Y Premium AWD • Model Y Performance</description>
-      <guid isPermaLink="false">twitter_elonmusk_938ed80e</guid>
-      <pubDate>Tue, 03 Feb 2026 09:18:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2a0f75de</guid>
+      <pubDate>Tue, 03 Feb 2026 16:11:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Try Grok Imagine 1.0</title>
-      <link>https://twitter.com/elonmusk/status/53559d64</link>
+      <link>https://twitter.com/elonmusk/status/5987c821</link>
       <description>Try Grok Imagine 1.0</description>
-      <guid isPermaLink="false">twitter_elonmusk_53559d64</guid>
-      <pubDate>Tue, 03 Feb 2026 09:23:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5987c821</guid>
+      <pubDate>Tue, 03 Feb 2026 16:16:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: There's still a 12-year-old boy alive in my soul, screaming: One real dude named@elonmuskis actually...</title>
-      <link>https://twitter.com/elonmusk/status/ae00b0d2</link>
+      <link>https://twitter.com/elonmusk/status/0f80e7ce</link>
       <description>There's still a 12-year-old boy alive in my soul, screaming: One real dude named@elonmuskis actually turning our childhood fantasies into reality—@SpaceXrockets touching the stars@Teslaself-driving cars@Groka machine that talks, teaches, and plays like a true friend@Tesla_Optimusrobots working alongside people@Neuralinktelepathy linking brains to the world@Xthe platform connecting everyone, everywhere, freely I'm just proud—honored—to play even a tiny part in accelerating the future that 12-year-old kid always dreamed of. LFG 🚀</description>
-      <guid isPermaLink="false">twitter_elonmusk_ae00b0d2</guid>
-      <pubDate>Tue, 03 Feb 2026 09:28:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0f80e7ce</guid>
+      <pubDate>Tue, 03 Feb 2026 16:21:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: 🚨The EU Censorship Files, Part II For more than a year, the Committee has been warning that European...</title>
+      <link>https://twitter.com/elonmusk/status/860239d2</link>
+      <description>🚨The EU Censorship Files, Part II For more than a year, the Committee has been warning that European censorship laws threaten U.S. free speech online. Now, we have proof: Big Tech is censoring Americans’ speech in the U.S., including true information, to comply with Europe’s far-reaching Digital Services Act.</description>
+      <guid isPermaLink="false">twitter_elonmusk_860239d2</guid>
+      <pubDate>Tue, 03 Feb 2026 16:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Spain will be the first country in the European Union to launch Starlink Direct to Cell this year. I...</title>
+      <link>https://twitter.com/elonmusk/status/6854cb54</link>
+      <description>Spain will be the first country in the European Union to launch Starlink Direct to Cell this year. In partnership with@MASORANGE_ES, the satellite-to-mobile service will connect customers in remote areas where terrestrial coverage isn’t available</description>
+      <guid isPermaLink="false">twitter_elonmusk_6854cb54</guid>
+      <pubDate>Tue, 03 Feb 2026 16:31:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The implementation of the first phase of Dubai Loop project will commence with the construction of a...</title>
+      <link>https://twitter.com/elonmusk/status/3b8b3a58</link>
+      <description>The implementation of the first phase of Dubai Loop project will commence with the construction of a 6.4km pilot route, comprising four stations and linking the Dubai International Financial Centre and Dubai Mall. This phase will pave the way for expansion into the full project alignment, which will extend up to 22.2 km and include 19 stations, connecting Dubai World Trade Centre and the financial district with Business Bay. Dubai Loop project involves the construction of tunnels with a diameter of 3.6 metres, dedicated to vehicle transport. The tunnels will be developed using advanced tunnelling technologies that enable faster delivery, lower construction costs, and reduced impact on existing roads and utilities compared with conventional transport systems.</description>
+      <guid isPermaLink="false">twitter_elonmusk_3b8b3a58</guid>
+      <pubDate>Tue, 03 Feb 2026 16:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: JUST IN: The Tongva tribe — whose ancestral land Billie Eilish's multi-million-dollar Los Angeles ma...</title>
+      <link>https://twitter.com/elonmusk/status/6d83ce95</link>
+      <description>JUST IN: The Tongva tribe — whose ancestral land Billie Eilish's multi-million-dollar Los Angeles mansion sits on — confirmed she has not contacted them about returning the “stolen land.” A spokesperson for the Tongva tribe told The Daily Mail: “‘As the First People of the greater Los Angeles basin, we do understand that her home is situated in our ancestral land,’ they stated, adding that the A-lister has not reached out to the tribe herself.” “‘Eilish has not contacted our tribe directly regarding her property, we do value the instance when Public Figures provide visibility to the true history of this country,’ the spokesperson continued.”</description>
+      <guid isPermaLink="false">twitter_elonmusk_6d83ce95</guid>
+      <pubDate>Tue, 03 Feb 2026 16:41:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: 🚨 BREAKING: In a stunning blow to Democrats, 76% PERCENT of BLACK Americans want nationwide voter ID...</title>
+      <link>https://twitter.com/elonmusk/status/36e6c47f</link>
+      <description>🚨 BREAKING: In a stunning blow to Democrats, 76% PERCENT of BLACK Americans want nationwide voter ID — in other words, the SAVE America Act White voters: 85% want it Latino voters: 82% want it Another leftist narrative just got decimated. Pass voter ID. GET THIS PASSED. 🇺🇸</description>
+      <guid isPermaLink="false">twitter_elonmusk_36e6c47f</guid>
+      <pubDate>Tue, 03 Feb 2026 16:46:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: French police raid the 𝕏 office in Paris. The people of France have spoken. 𝕏 is now the #1 news app...</title>
+      <link>https://twitter.com/elonmusk/status/fea6cefa</link>
+      <description>French police raid the 𝕏 office in Paris. The people of France have spoken. 𝕏 is now the #1 news app on the France App Store. Streisand Effect remains undefeated. Free speech is being attacked in the name of regulation.</description>
+      <guid isPermaLink="false">twitter_elonmusk_fea6cefa</guid>
+      <pubDate>Tue, 03 Feb 2026 16:51:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Boring Company to build Dubai Loop!</title>
+      <link>https://twitter.com/elonmusk/status/2a8afa3e</link>
+      <description>Boring Company to build Dubai Loop!</description>
+      <guid isPermaLink="false">twitter_elonmusk_2a8afa3e</guid>
+      <pubDate>Tue, 03 Feb 2026 16:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Massive scam</title>
+      <link>https://twitter.com/elonmusk/status/493a6a81</link>
+      <description>Massive scam</description>
+      <guid isPermaLink="false">twitter_elonmusk_493a6a81</guid>
+      <pubDate>Tue, 03 Feb 2026 17:01:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This is crucial to save democracy in America</title>
+      <link>https://twitter.com/elonmusk/status/867760e2</link>
+      <description>This is crucial to save democracy in America</description>
+      <guid isPermaLink="false">twitter_elonmusk_867760e2</guid>
+      <pubDate>Tue, 03 Feb 2026 17:06:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Absolutely incredible… CNN showing that the overwhelming majority of Americans support Voter ID: 🔴Re...</title>
+      <link>https://twitter.com/elonmusk/status/58b4ee3c</link>
+      <description>Absolutely incredible… CNN showing that the overwhelming majority of Americans support Voter ID: 🔴Republicans - 95% 🔵Democrats - 71% Voter ID is not "racist". It’s common sense.</description>
+      <guid isPermaLink="false">twitter_elonmusk_58b4ee3c</guid>
+      <pubDate>Tue, 03 Feb 2026 17:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: That’s because their ancestors lived through these dystopian times and found the only way to survive...</title>
+      <link>https://twitter.com/elonmusk/status/e2963853</link>
+      <description>That’s because their ancestors lived through these dystopian times and found the only way to survive was to hope for a positive future for the planet. 😉</description>
+      <guid isPermaLink="false">twitter_elonmusk_e2963853</guid>
+      <pubDate>Tue, 03 Feb 2026 17:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Tyrants love censorship</title>
+      <link>https://twitter.com/elonmusk/status/fe996302</link>
+      <description>Tyrants love censorship</description>
+      <guid isPermaLink="false">twitter_elonmusk_fe996302</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: To the stars!@SpaceX&amp;@xAIare now one company</title>
       <link>https://twitter.com/elonmusk/status/b07356c2</link>
       <description>To the stars!@SpaceX&amp;@xAIare now one company</description>
       <guid isPermaLink="false">twitter_elonmusk_b07356c2</guid>
-      <pubDate>Tue, 03 Feb 2026 09:33:29 +0000</pubDate>
+      <pubDate>Tue, 03 Feb 2026 17:26:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
