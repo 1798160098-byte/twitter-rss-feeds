@@ -3,18 +3,18 @@
   <channel>
     <title>Twitter - @coindesk</title>
     <link>https://twitter.com/coindesk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-03-13 21:38 UTC | 来源实例: none</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-03-14 21:47 UTC | 来源实例: none</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 21:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:47:12 +0000</lastBuildDate>
     <item>
       <title>@coindesk - 暂无新推文或获取失败</title>
       <link>https://twitter.com/coindesk</link>
-      <description>更新时间: 2026-03-13 21:38 UTC
+      <description>更新时间: 2026-03-14 21:47 UTC
 尝试的实例: none</description>
-      <guid isPermaLink="false">placeholder_coindesk_1773437938</guid>
-      <pubDate>Fri, 13 Mar 2026 21:38:58 +0000</pubDate>
+      <guid isPermaLink="false">placeholder_coindesk_1773524832</guid>
+      <pubDate>Sat, 14 Mar 2026 21:47:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
