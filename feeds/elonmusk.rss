@@ -3,129 +3,122 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-03-20 01:24 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-03-20 03:42 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 01:24:08 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Chibi Trump</title>
-      <link>https://twitter.com/elonmusk/status/74f20882</link>
-      <description>Chibi Trump</description>
-      <guid isPermaLink="false">twitter_elonmusk_74f20882</guid>
-      <pubDate>Fri, 20 Mar 2026 00:04:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Global population to shrink this century as birth rate falls. The world is set to have 200 mn fewer ...</title>
-      <link>https://twitter.com/elonmusk/status/40b3f04f</link>
-      <description>Global population to shrink this century as birth rate falls. The world is set to have 200 mn fewer people than previously expected by 2100. Fertility rates have fallen below the replacement rate in most continents.</description>
-      <guid isPermaLink="false">twitter_elonmusk_40b3f04f</guid>
-      <pubDate>Fri, 20 Mar 2026 00:09:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Try Grok 4.20 Heavy</title>
-      <link>https://twitter.com/elonmusk/status/bec91021</link>
-      <description>Try Grok 4.20 Heavy</description>
-      <guid isPermaLink="false">twitter_elonmusk_bec91021</guid>
-      <pubDate>Fri, 20 Mar 2026 00:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Ashok Elluswamy, Tesla's AI lead, during a GTC discussion, highlighting the fundamental similarity i...</title>
-      <link>https://twitter.com/elonmusk/status/85b35a95</link>
-      <description>Ashok Elluswamy, Tesla's AI lead, during a GTC discussion, highlighting the fundamental similarity in AI approaches for self-driving cars and humanoid robots: - Hierarchical decision making is useful, but it has to be done as part of the same decision-making process as lower-level controls. - We haven't seen the long tail of humanoid robotics, but Tesla has seen the long tail of self-driving, where high and low-level decisions have to be jointly made at a pretty high framerate. - Optimus's architecture is designed in a similar way, where there's a hierarchy but it's all running as part of the same model and the latencies involved in decision making are well modeled. - This architecture will scale quite well with humanoid robots. - The distinction of the decision-making levels is only in the developer's mind. For the model, it's a continuous space of decision making, where there are dials available to make them more fine or coarse. - Humanoids have more sensor modalities and higher degrees of freedom compared to self-driving, but the fundamental constraints remain the same: you need to make real-time decisions. There's obviously a hierarchy to these control signal outputs, but the lowest frequency cannot be too low, because the safety of the robot cannot depend upon things running at very low frequencies.</description>
-      <guid isPermaLink="false">twitter_elonmusk_85b35a95</guid>
-      <pubDate>Fri, 20 Mar 2026 00:19:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Nvidia CEO Jensen Huang in new interview on orbital datacenters: "The challenge of course is that co...</title>
-      <link>https://twitter.com/elonmusk/status/22857642</link>
-      <description>Nvidia CEO Jensen Huang in new interview on orbital datacenters: "The challenge of course is that cooling, you can't take advantage of conduction and convection, so you can only use radiation, and radiation requires very large surfaces, but that's not an impossible things to solve. There's a lot of space in space. We're going to go explore it. We're already radiation hardened. We have Cuda in satellites around the world. In the meantime, we're going to explore what is the architecture of datacenters look like in space. It'll take years, but that's ok. I got time." via@theallinpod</description>
-      <guid isPermaLink="false">twitter_elonmusk_22857642</guid>
-      <pubDate>Fri, 20 Mar 2026 00:24:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 03:42:52 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Just noticed xAI has Potential</title>
-      <link>https://twitter.com/elonmusk/status/058e21d6</link>
+      <link>https://twitter.com/elonmusk/status/821cc1f1</link>
       <description>Just noticed xAI has Potential</description>
-      <guid isPermaLink="false">twitter_elonmusk_058e21d6</guid>
-      <pubDate>Fri, 20 Mar 2026 00:29:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_821cc1f1</guid>
+      <pubDate>Fri, 20 Mar 2026 02:27:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: When one brain isn't enough, switch to Grok 4.20. Four independent agents analyze your question, deb...</title>
-      <link>https://twitter.com/elonmusk/status/2b0bae40</link>
+      <link>https://twitter.com/elonmusk/status/fddccfb1</link>
       <description>When one brain isn't enough, switch to Grok 4.20. Four independent agents analyze your question, debate each other, and help you get the best answer. Available now to SuperGrok and Premium+ subscribers globally.</description>
-      <guid isPermaLink="false">twitter_elonmusk_2b0bae40</guid>
-      <pubDate>Fri, 20 Mar 2026 00:34:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fddccfb1</guid>
+      <pubDate>Fri, 20 Mar 2026 02:32:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: He who makes half a revolution digs his own grave</title>
-      <link>https://twitter.com/elonmusk/status/b533d814</link>
+      <link>https://twitter.com/elonmusk/status/407d4a61</link>
       <description>He who makes half a revolution digs his own grave</description>
-      <guid isPermaLink="false">twitter_elonmusk_b533d814</guid>
-      <pubDate>Fri, 20 Mar 2026 00:39:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_407d4a61</guid>
+      <pubDate>Fri, 20 Mar 2026 02:37:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I love Grok Imagine!! You have to try this.grok.com/imagine</title>
-      <link>https://twitter.com/elonmusk/status/2dcd45b8</link>
+      <link>https://twitter.com/elonmusk/status/025df90b</link>
       <description>I love Grok Imagine!! You have to try this.grok.com/imagine</description>
-      <guid isPermaLink="false">twitter_elonmusk_2dcd45b8</guid>
-      <pubDate>Fri, 20 Mar 2026 00:44:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_025df90b</guid>
+      <pubDate>Fri, 20 Mar 2026 02:42:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 30 seconds of Grok Imagine with two characters: 1- Create your characters 2- Animate them, using bot...</title>
-      <link>https://twitter.com/elonmusk/status/23962a2c</link>
+      <link>https://twitter.com/elonmusk/status/866882fe</link>
       <description>30 seconds of Grok Imagine with two characters: 1- Create your characters 2- Animate them, using both characters as image references</description>
-      <guid isPermaLink="false">twitter_elonmusk_23962a2c</guid>
-      <pubDate>Fri, 20 Mar 2026 00:49:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_866882fe</guid>
+      <pubDate>Fri, 20 Mar 2026 02:47:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Imagine has a lot of cool Templates Try them...Have fun creating together with your friends and...</title>
-      <link>https://twitter.com/elonmusk/status/a7db99cd</link>
+      <link>https://twitter.com/elonmusk/status/6992be84</link>
       <description>Grok Imagine has a lot of cool Templates Try them...Have fun creating together with your friends and family</description>
-      <guid isPermaLink="false">twitter_elonmusk_a7db99cd</guid>
-      <pubDate>Fri, 20 Mar 2026 00:54:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6992be84</guid>
+      <pubDate>Fri, 20 Mar 2026 02:52:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Cute 🥰</title>
-      <link>https://twitter.com/elonmusk/status/17a38a22</link>
+      <link>https://twitter.com/elonmusk/status/fd15a289</link>
       <description>Cute 🥰</description>
-      <guid isPermaLink="false">twitter_elonmusk_17a38a22</guid>
-      <pubDate>Fri, 20 Mar 2026 00:59:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fd15a289</guid>
+      <pubDate>Fri, 20 Mar 2026 02:57:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: We – design the chips &amp; hardware – make the cars w/ said hardware – collect real-world data at scale...</title>
-      <link>https://twitter.com/elonmusk/status/cf622695</link>
+      <link>https://twitter.com/elonmusk/status/b2e1bf97</link>
       <description>We – design the chips &amp; hardware – make the cars w/ said hardware – collect real-world data at scale – train the real-world AI model – built (&amp; continue to expand) the massive supercomputer cluster that trains it – deploy AI directly to millions of robots on wheels All that is shared with@Tesla_Optimusfor broader applications in both the physical &amp; digital world</description>
-      <guid isPermaLink="false">twitter_elonmusk_cf622695</guid>
-      <pubDate>Fri, 20 Mar 2026 01:04:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_b2e1bf97</guid>
+      <pubDate>Fri, 20 Mar 2026 03:02:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Major update to the 𝕏 AI recommendation algorithm rolling out next week. This will be open sourced a...</title>
-      <link>https://twitter.com/elonmusk/status/f46eed1d</link>
+      <link>https://twitter.com/elonmusk/status/1a83dc3a</link>
       <description>Major update to the 𝕏 AI recommendation algorithm rolling out next week. This will be open sourced at the same time.</description>
-      <guid isPermaLink="false">twitter_elonmusk_f46eed1d</guid>
-      <pubDate>Fri, 20 Mar 2026 01:09:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1a83dc3a</guid>
+      <pubDate>Fri, 20 Mar 2026 03:07:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: New Template: Cyber Garage Upload your photo and turn your home into a cyberpunk research site. Try ...</title>
-      <link>https://twitter.com/elonmusk/status/6558d881</link>
+      <link>https://twitter.com/elonmusk/status/913633f5</link>
       <description>New Template: Cyber Garage Upload your photo and turn your home into a cyberpunk research site. Try it and share the result with me ↓</description>
-      <guid isPermaLink="false">twitter_elonmusk_6558d881</guid>
-      <pubDate>Fri, 20 Mar 2026 01:14:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_913633f5</guid>
+      <pubDate>Fri, 20 Mar 2026 03:12:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BEV sales in Spain. Tesla is in first place. 🇪🇸</title>
-      <link>https://twitter.com/elonmusk/status/e456d138</link>
+      <link>https://twitter.com/elonmusk/status/28481f6a</link>
       <description>BEV sales in Spain. Tesla is in first place. 🇪🇸</description>
-      <guid isPermaLink="false">twitter_elonmusk_e456d138</guid>
-      <pubDate>Fri, 20 Mar 2026 01:19:08 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_28481f6a</guid>
+      <pubDate>Fri, 20 Mar 2026 03:17:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This has been going on for a long time</title>
+      <link>https://twitter.com/elonmusk/status/eea76672</link>
+      <description>This has been going on for a long time</description>
+      <guid isPermaLink="false">twitter_elonmusk_eea76672</guid>
+      <pubDate>Fri, 20 Mar 2026 03:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Tesla Semi is super fun to drive</title>
+      <link>https://twitter.com/elonmusk/status/7d2edab6</link>
+      <description>Tesla Semi is super fun to drive</description>
+      <guid isPermaLink="false">twitter_elonmusk_7d2edab6</guid>
+      <pubDate>Fri, 20 Mar 2026 03:27:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Happy Solar Pessimism Chart Update Day to all who celebrate</title>
+      <link>https://twitter.com/elonmusk/status/dd280723</link>
+      <description>Happy Solar Pessimism Chart Update Day to all who celebrate</description>
+      <guid isPermaLink="false">twitter_elonmusk_dd280723</guid>
+      <pubDate>Fri, 20 Mar 2026 03:32:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: We don’t live in a democracy if our elected leaders fail to implement the will of the people</title>
+      <link>https://twitter.com/elonmusk/status/c6b4cbb9</link>
+      <description>We don’t live in a democracy if our elected leaders fail to implement the will of the people</description>
+      <guid isPermaLink="false">twitter_elonmusk_c6b4cbb9</guid>
+      <pubDate>Fri, 20 Mar 2026 03:37:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Try Grok Imagine Chibi template. Super cute!</title>
       <link>https://twitter.com/elonmusk/status/006c38bf</link>
       <description>Try Grok Imagine Chibi template. Super cute!</description>
       <guid isPermaLink="false">twitter_elonmusk_006c38bf</guid>
-      <pubDate>Fri, 20 Mar 2026 01:24:08 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 03:42:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
