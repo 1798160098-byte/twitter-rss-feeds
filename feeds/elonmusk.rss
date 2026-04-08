@@ -3,150 +3,150 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-04-08 04:31 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-04-08 06:17 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:31:25 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: 🚨@NASAAdminJared Isaacman had the PERFECT response to Trump’s proposed 2027 budget cutting $5.6 BILL...</title>
-      <link>https://twitter.com/elonmusk/status/d915534f</link>
-      <description>🚨@NASAAdminJared Isaacman had the PERFECT response to Trump’s proposed 2027 budget cutting $5.6 BILLION (23%) from NASA “I think the American public and the taxpayers should be judging NASA based on OUTCOMES and NOT how quickly we can spend money every year.” What a LEGEND. There’s PLENTY of waste to cut across the board, and Jared is the man to figure out what to cut.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d915534f</guid>
-      <pubDate>Wed, 08 Apr 2026 02:56:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: A fever dream</title>
-      <link>https://twitter.com/elonmusk/status/47366fdb</link>
-      <description>A fever dream</description>
-      <guid isPermaLink="false">twitter_elonmusk_47366fdb</guid>
-      <pubDate>Wed, 08 Apr 2026 03:01:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Intel is joining Terafab! Tesla,@xAIand@SpaceXare launching the most epic chip-building effort ever ...</title>
-      <link>https://twitter.com/elonmusk/status/1bfd6c7d</link>
-      <description>Intel is joining Terafab! Tesla,@xAIand@SpaceXare launching the most epic chip-building effort ever – combining logic, memory &amp; advanced packaging under one roofterafab.ai/</description>
-      <guid isPermaLink="false">twitter_elonmusk_1bfd6c7d</guid>
-      <pubDate>Wed, 08 Apr 2026 03:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Intel is joining Terafab! SpaceX,@xAI, and@Teslaare launching the most epic chip-building effort eve...</title>
-      <link>https://twitter.com/elonmusk/status/e11e7559</link>
-      <description>Intel is joining Terafab! SpaceX,@xAI, and@Teslaare launching the most epic chip-building effort ever - combining logic, memory, and advanced packaging under one roof →terafab.ai</description>
-      <guid isPermaLink="false">twitter_elonmusk_e11e7559</guid>
-      <pubDate>Wed, 08 Apr 2026 03:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Honored to work with Intel and Lip-Bu</title>
-      <link>https://twitter.com/elonmusk/status/9d22d02e</link>
-      <description>Honored to work with Intel and Lip-Bu</description>
-      <guid isPermaLink="false">twitter_elonmusk_9d22d02e</guid>
-      <pubDate>Wed, 08 Apr 2026 03:16:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Looking forward to an exciting partnership with@elonmuskand building Terafab together!</title>
-      <link>https://twitter.com/elonmusk/status/0b457150</link>
-      <description>Looking forward to an exciting partnership with@elonmuskand building Terafab together!</description>
-      <guid isPermaLink="false">twitter_elonmusk_0b457150</guid>
-      <pubDate>Wed, 08 Apr 2026 03:21:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: OpenAI’s Nonprofit to Get Any Damages From Lawsuitwsj.com/tech/ai/elon-musk-as…</title>
-      <link>https://twitter.com/elonmusk/status/8712c870</link>
-      <description>OpenAI’s Nonprofit to Get Any Damages From Lawsuitwsj.com/tech/ai/elon-musk-as…</description>
-      <guid isPermaLink="false">twitter_elonmusk_8712c870</guid>
-      <pubDate>Wed, 08 Apr 2026 03:26:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 06:17:00 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: BREAKING: Tesla has officially released FSD V14.3 I'm downloading it in my Model Y right now. Here's...</title>
-      <link>https://twitter.com/elonmusk/status/9aaf8dcc</link>
+      <link>https://twitter.com/elonmusk/status/66fe9575</link>
       <description>BREAKING: Tesla has officially released FSD V14.3 I'm downloading it in my Model Y right now. Here's everything that's new: • Improved parking location pin prediction, now shown on a map with a P icon. • Increased decisiveness of parking spot selection and maneuvering. • Rewrote the Al compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed. • Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles. • Mitigated unnecessary lane biasing and minor tailgating behaviors. • Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety. • Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping - driven by training on hard RL examples sourced from the Tesla fleet. • Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios. • Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding. • Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet. • Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements. Upcoming Improvements: • Expand reasoning to all behaviors beyond destination handling. • Add pothole avoidance. • Improve driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions.</description>
-      <guid isPermaLink="false">twitter_elonmusk_9aaf8dcc</guid>
-      <pubDate>Wed, 08 Apr 2026 03:31:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_66fe9575</guid>
+      <pubDate>Wed, 08 Apr 2026 04:42:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Democrats: requiring voter ID is racist and hurts women. Also, Democrats: Let’s require ID to get in...</title>
-      <link>https://twitter.com/elonmusk/status/30fc3390</link>
+      <link>https://twitter.com/elonmusk/status/4b3bfcaa</link>
       <description>Democrats: requiring voter ID is racist and hurts women. Also, Democrats: Let’s require ID to get into our events, shovel snow in our cities, and now to enter the Obama Presidential Center. It makes NO SENSE! Enough of the double standard — pass the SAVE America Act TODAY.foxnews.com/politics/obama-c…</description>
-      <guid isPermaLink="false">twitter_elonmusk_30fc3390</guid>
-      <pubDate>Wed, 08 Apr 2026 03:36:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_4b3bfcaa</guid>
+      <pubDate>Wed, 08 Apr 2026 04:47:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: THE ARTEMIS II ECLIPSE. April 6, 2026. Totality, beyond Earth. From lunar orbit, the Moon eclipses t...</title>
-      <link>https://twitter.com/elonmusk/status/376a3409</link>
+      <link>https://twitter.com/elonmusk/status/f18ec112</link>
       <description>THE ARTEMIS II ECLIPSE. April 6, 2026. Totality, beyond Earth. From lunar orbit, the Moon eclipses the Sun, revealing a view few in human history have ever witnessed. Photo: NASA</description>
-      <guid isPermaLink="false">twitter_elonmusk_376a3409</guid>
-      <pubDate>Wed, 08 Apr 2026 03:41:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f18ec112</guid>
+      <pubDate>Wed, 08 Apr 2026 04:52:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Again, many doubted Elon Musk’s new Terafab project because of the astronomical numbers, not realizi...</title>
-      <link>https://twitter.com/elonmusk/status/e42f265e</link>
+      <link>https://twitter.com/elonmusk/status/0fa4a564</link>
       <description>Again, many doubted Elon Musk’s new Terafab project because of the astronomical numbers, not realizing he was playing a much bigger game all along 😂 Elon officially partnered with the US's biggest chip manufacturer, Intel, alongside massive max-capacity orders from Samsung and TSMC • Samsung is even building an exclusive, giant fab from scratch in Texas solely to fulfill Tesla's next-gen chip orders Here is why Terafab is an absolute game-changer: - 100% Vertical Integration: Consolidating everything from chip design, fabrication, memory, advanced packagings under one massive roof in Austin, Texas - Target: 1 TERAWATT per year of AI compute - that’s more than every other foundry and data center on Earth combined - With Intel helping refactor silicon fab technology and Elon running things, expect unprecedented performance optimizations - This $20+ billion mega-fab guarantees the compute needed for Tesla, SpaceX, and xAI. It will power everything from Optimus robots to space data centers and orbital satellites People have no idea what is coming Elon is not just building chips; he is building the compute infrastructure for a galactic civilization</description>
-      <guid isPermaLink="false">twitter_elonmusk_e42f265e</guid>
-      <pubDate>Wed, 08 Apr 2026 03:46:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0fa4a564</guid>
+      <pubDate>Wed, 08 Apr 2026 04:57:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Excited to launch our brand new photo editor. Now available on iOS, with Android coming soon. Lots o...</title>
-      <link>https://twitter.com/elonmusk/status/856c9798</link>
+      <link>https://twitter.com/elonmusk/status/59ebcee3</link>
       <description>Excited to launch our brand new photo editor. Now available on iOS, with Android coming soon. Lots of good quality of life updates and more improvements to come.</description>
-      <guid isPermaLink="false">twitter_elonmusk_856c9798</guid>
-      <pubDate>Wed, 08 Apr 2026 03:51:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_59ebcee3</guid>
+      <pubDate>Wed, 08 Apr 2026 05:02:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: FSD 14.3 release notes@Tesla_AI</title>
-      <link>https://twitter.com/elonmusk/status/93b34ab4</link>
+      <link>https://twitter.com/elonmusk/status/2a066951</link>
       <description>FSD 14.3 release notes@Tesla_AI</description>
-      <guid isPermaLink="false">twitter_elonmusk_93b34ab4</guid>
-      <pubDate>Wed, 08 Apr 2026 03:56:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2a066951</guid>
+      <pubDate>Wed, 08 Apr 2026 05:07:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: My favorite image so far. Orion, built by human hands in just a few years, set against a moment bill...</title>
-      <link>https://twitter.com/elonmusk/status/1808bfd3</link>
+      <link>https://twitter.com/elonmusk/status/5f7dac82</link>
       <description>My favorite image so far. Orion, built by human hands in just a few years, set against a moment billions of years in the making.</description>
-      <guid isPermaLink="false">twitter_elonmusk_1808bfd3</guid>
-      <pubDate>Wed, 08 Apr 2026 04:01:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5f7dac82</guid>
+      <pubDate>Wed, 08 Apr 2026 05:12:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Yesterday, four astronauts on Artemis II traveled farther than any humans in history. Thanks to@NASA...</title>
-      <link>https://twitter.com/elonmusk/status/f42c9d8c</link>
+      <link>https://twitter.com/elonmusk/status/bcbca4a6</link>
       <description>Yesterday, four astronauts on Artemis II traveled farther than any humans in history. Thanks to@NASAand incredible American ingenuity. 🇺🇸</description>
-      <guid isPermaLink="false">twitter_elonmusk_f42c9d8c</guid>
-      <pubDate>Wed, 08 Apr 2026 04:06:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bcbca4a6</guid>
+      <pubDate>Wed, 08 Apr 2026 05:17:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: My 18-month investigation into Sam Altman and OpenAI in@NewYorker, with@andrewmarantz, is out now. R...</title>
-      <link>https://twitter.com/elonmusk/status/62415a4d</link>
+      <link>https://twitter.com/elonmusk/status/83e0812d</link>
       <description>My 18-month investigation into Sam Altman and OpenAI in@NewYorker, with@andrewmarantz, is out now. Read here:newyorker.com/magazine/2026/…Thread on a few of the key findings here:xcancel.com/RonanFarrow/status/204…</description>
-      <guid isPermaLink="false">twitter_elonmusk_62415a4d</guid>
-      <pubDate>Wed, 08 Apr 2026 04:11:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_83e0812d</guid>
+      <pubDate>Wed, 08 Apr 2026 05:22:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: “I think that the California high-speed rail nightmare is the probably quintessential example of gov...</title>
-      <link>https://twitter.com/elonmusk/status/5390761e</link>
+      <link>https://twitter.com/elonmusk/status/3c89fcc3</link>
       <description>“I think that the California high-speed rail nightmare is the probably quintessential example of government waste and mismanagement,” says Rep. Vince Fong, a Republican whose district sits in California’s Central Valley, through which the project is supposed to run.cbsn.ws/41kxw9k</description>
-      <guid isPermaLink="false">twitter_elonmusk_5390761e</guid>
-      <pubDate>Wed, 08 Apr 2026 04:16:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_3c89fcc3</guid>
+      <pubDate>Wed, 08 Apr 2026 05:27:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: FSD Supervised can see &amp; react faster than you</title>
-      <link>https://twitter.com/elonmusk/status/3e1a2419</link>
+      <link>https://twitter.com/elonmusk/status/5f918b05</link>
       <description>FSD Supervised can see &amp; react faster than you</description>
-      <guid isPermaLink="false">twitter_elonmusk_3e1a2419</guid>
-      <pubDate>Wed, 08 Apr 2026 04:21:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5f918b05</guid>
+      <pubDate>Wed, 08 Apr 2026 05:32:00 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I'm thrilled to join@xAIand@SpaceX! After many years at Google DeepMind working on Gemini (including...</title>
-      <link>https://twitter.com/elonmusk/status/19d195b2</link>
+      <link>https://twitter.com/elonmusk/status/b20df068</link>
       <description>I'm thrilled to join@xAIand@SpaceX! After many years at Google DeepMind working on Gemini (including co-founding and launching Gemini Diffusion at Google I/O and contributing to Gemini, Gemma, AlphaCode, and Waymo), I can't wait to see what we build together. Few places turn science fiction into reality this fast. We're forging Grok into the most capable assistant yet, making physical intelligence real, and taking it all to Space. The last few years have been intense, but what's ahead is on another level. No better time to build — we can watch from the sidelines or be part of it. DMs are open. Understand the Universe 🚀</description>
-      <guid isPermaLink="false">twitter_elonmusk_19d195b2</guid>
-      <pubDate>Wed, 08 Apr 2026 04:26:25 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_b20df068</guid>
+      <pubDate>Wed, 08 Apr 2026 05:37:00 +0000</pubDate>
     </item>
     <item>
-      <title>@elonmusk: Looking forward to working with Intel on the Terafab!</title>
-      <link>https://twitter.com/elonmusk/status/58da2f78</link>
-      <description>Looking forward to working with Intel on the Terafab!</description>
-      <guid isPermaLink="false">twitter_elonmusk_58da2f78</guid>
-      <pubDate>Wed, 08 Apr 2026 04:31:25 +0000</pubDate>
+      <title>@elonmusk: One day, we will be out there, among the stars</title>
+      <link>https://twitter.com/elonmusk/status/3caf2fdb</link>
+      <description>One day, we will be out there, among the stars</description>
+      <guid isPermaLink="false">twitter_elonmusk_3caf2fdb</guid>
+      <pubDate>Wed, 08 Apr 2026 05:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Headline: "Elon Musk's X receives a 24,000 euro fine for distributing a rape video of a Flemish woma...</title>
+      <link>https://twitter.com/elonmusk/status/4e97116a</link>
+      <description>Headline: "Elon Musk's X receives a 24,000 euro fine for distributing a rape video of a Flemish woman" Reality: Elon Musk didn't own the company in 2020 Belgian media is intentionally conflating current ownership with the failures of the previous regime. They’re trying to taint Elon and 𝕏’s reputation over an incident from a completely different era Notice how they explicitly use "Elon Musk" and "𝕏" image instead of the old management? Timeline for the "reporters" in the back: - 2020: The incident happened - 2021: The video was finally removed via a judge's order - 2022: Elon Musk bought Twitter This is straight-up targeted hate disguised as news Pre-Elon 𝕏 operated completely differently and that broken system is exactly why he bought the platform and rebuilt it entirely This is the dark side of the fraud media that no one talks about..</description>
+      <guid isPermaLink="false">twitter_elonmusk_4e97116a</guid>
+      <pubDate>Wed, 08 Apr 2026 05:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: ALS is a disease that takes everything. Our goal is to give something back. Kenneth, who has been lo...</title>
+      <link>https://twitter.com/elonmusk/status/7860d020</link>
+      <description>ALS is a disease that takes everything. Our goal is to give something back. Kenneth, who has been losing his ability to move and speak due to ALS, is exploring how Neuralink’s brain-computer interface technology can help translate neural signals into life-changing impact.</description>
+      <guid isPermaLink="false">twitter_elonmusk_7860d020</guid>
+      <pubDate>Wed, 08 Apr 2026 05:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Funny pricing indeed</title>
+      <link>https://twitter.com/elonmusk/status/3a096549</link>
+      <description>Funny pricing indeed</description>
+      <guid isPermaLink="false">twitter_elonmusk_3a096549</guid>
+      <pubDate>Wed, 08 Apr 2026 05:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Kardaschev II or we're not a serious civilization</title>
+      <link>https://twitter.com/elonmusk/status/a07500f8</link>
+      <description>Kardaschev II or we're not a serious civilization</description>
+      <guid isPermaLink="false">twitter_elonmusk_a07500f8</guid>
+      <pubDate>Wed, 08 Apr 2026 06:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Marc Andreessen thinks Elon Musk hasn't just built successful companies, he might have actually crac...</title>
+      <link>https://twitter.com/elonmusk/status/431710c1</link>
+      <description>Marc Andreessen thinks Elon Musk hasn't just built successful companies, he might have actually cracked the code on how to manage for the next hundred years. The fundamental problem with any traditional organization that has multiple layers of management is what Andreessen brilliantly describes as "compounding lies." Every layer distorts reality just a little bit more until the original mission is completely lost in the bureaucracy. Musk’s method completely destroys that outdated corporate structure. It relies entirely on an extreme focus on substance and getting straight to the truth. By stripping away the noise, he has figured out the exact blueprint to reconcile being a chaotic fountain of ideas with being a ruthless, systematic builder.</description>
+      <guid isPermaLink="false">twitter_elonmusk_431710c1</guid>
+      <pubDate>Wed, 08 Apr 2026 06:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: SpaceXAI Colossus 2 now has 7 models in training: - Imagine V2 - 2 variants of 1T - 2 variants of 1....</title>
+      <link>https://twitter.com/elonmusk/status/f12a59e0</link>
+      <description>SpaceXAI Colossus 2 now has 7 models in training: - Imagine V2 - 2 variants of 1T - 2 variants of 1.5T - 6T - 10T Some catching up to do.</description>
+      <guid isPermaLink="false">twitter_elonmusk_f12a59e0</guid>
+      <pubDate>Wed, 08 Apr 2026 06:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The Kardashev Scale is one of the coolest ways to think about how advanced a civilization really is ...</title>
+      <link>https://twitter.com/elonmusk/status/63e5c710</link>
+      <description>The Kardashev Scale is one of the coolest ways to think about how advanced a civilization really is Here is the cool visualization fromTerafab.aiThe Kardashev Scale: - Type 1: Harness all the energy on a planet - Type 2: Harness all the energy from a star - Type 3: Harness all the energy in a galaxy The Kardashev Scale is not just sci-fi. It shows us the long-term destiny of intelligent life…if we don’t destroy ourselves first</description>
+      <guid isPermaLink="false">twitter_elonmusk_63e5c710</guid>
+      <pubDate>Wed, 08 Apr 2026 06:17:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
