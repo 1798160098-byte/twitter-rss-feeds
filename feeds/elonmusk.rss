@@ -3,143 +3,150 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-04-15 10:18 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-04-15 16:00 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 10:18:32 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: 🚨#BREAKING: The woman who was randomly shot in the face 6 times and st*bbed to de*th while she was w...</title>
-      <link>https://twitter.com/elonmusk/status/330d451f</link>
-      <description>🚨#BREAKING: The woman who was randomly shot in the face 6 times and st*bbed to de*th while she was walking her dog in Atlanta GA has been identified as 40-year-old Lauren Bullis. The suspect, “Olaolukitan Adon Abel” was also allegedly in the process of se*ually assaulting her before neighbors came to the scene. Olaolukitan is charged with 3 other "completely random" shootings and the de*th of another woman. We do not have to live like this.</description>
-      <guid isPermaLink="false">twitter_elonmusk_330d451f</guid>
-      <pubDate>Wed, 15 Apr 2026 08:48:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: To recap: 1. The EU Council blocked $40 billion to Hungary because it wouldn't give NGOs control ove...</title>
-      <link>https://twitter.com/elonmusk/status/5f2f504b</link>
-      <description>To recap: 1. The EU Council blocked $40 billion to Hungary because it wouldn't give NGOs control over its courts. 2. The EU Court blocked Hungary from passing a FARA law to see whether NGOs there were funded by the EU. 3. The EU Council announced it would centralize voting power on EU accession to block Hungary from having a vote in the future if Orban won the election. 4. The EU flooded Hungary with political NGOs to back Magyar's campaign to oust Orban from power so Hungary would bend to the EU on Ukraine accession, mass immigration, MMIWG2SLGBTQQIA+, etc. 5. Magyar wins, the EU immediately imposes a 27-point conditions list for Hungary to unblock the funds, including on Ukraine accession, mass immigration, MMIWG2SLGBTQQIA+, etc. 6. The EU Commissioner comes out and says she's actually going to centralize voting power to cut out EU members like Hungary anyway.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5f2f504b</guid>
-      <pubDate>Wed, 15 Apr 2026 08:53:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: NEW: CA gubernatorial candidate Tom Steyer (D) releases an immigration platform that is radically le...</title>
-      <link>https://twitter.com/elonmusk/status/0e41036e</link>
-      <description>NEW: CA gubernatorial candidate Tom Steyer (D) releases an immigration platform that is radically left of Gov. Newsom. It includes: - Abolish ICE - Put ICE agents in jail &amp; “treat them like the mob”. - Bring those “kidnapped &amp; detained by ICE back home.” - Give CA AG power to imprison ICE agents &amp; their leadership. - Taxpayer funded legal representation &amp; support for illegal aliens. - Ignore a SCOTUS ruling that allows ICE to utilize to use race, language, job, and location to contribute to “reasonable suspicion” for immigration arrests, and instead, “California should take matters into our own hands and extend legal protections to its residents, despite the federal governments failure.” “This is about our right as a state to protect our residents,” Steyer says.</description>
-      <guid isPermaLink="false">twitter_elonmusk_0e41036e</guid>
-      <pubDate>Wed, 15 Apr 2026 08:58:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Have to make up for lost time</title>
-      <link>https://twitter.com/elonmusk/status/1b7fec13</link>
-      <description>Have to make up for lost time</description>
-      <guid isPermaLink="false">twitter_elonmusk_1b7fec13</guid>
-      <pubDate>Wed, 15 Apr 2026 09:03:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Restoring broken neural pathways</title>
-      <link>https://twitter.com/elonmusk/status/876eefec</link>
-      <description>Restoring broken neural pathways</description>
-      <guid isPermaLink="false">twitter_elonmusk_876eefec</guid>
-      <pubDate>Wed, 15 Apr 2026 09:08:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Engineering Is Magic.</title>
-      <link>https://twitter.com/elonmusk/status/ce98d78f</link>
-      <description>Engineering Is Magic.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ce98d78f</guid>
-      <pubDate>Wed, 15 Apr 2026 09:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Tesla Diner</title>
-      <link>https://twitter.com/elonmusk/status/7c42b903</link>
-      <description>Tesla Diner</description>
-      <guid isPermaLink="false">twitter_elonmusk_7c42b903</guid>
-      <pubDate>Wed, 15 Apr 2026 09:18:32 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Apr 2026 16:00:23 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: FSD v14.3.1 review after 10 drives and many hours, here are my thoughts (it’s a great one) - v14.3.1...</title>
-      <link>https://twitter.com/elonmusk/status/f17b6dab</link>
+      <link>https://twitter.com/elonmusk/status/b120401a</link>
       <description>FSD v14.3.1 review after 10 drives and many hours, here are my thoughts (it’s a great one) - v14.3.1 feels like a big jump even compared to FSD v14.3, even for “just” a point release build. Everything’s polished and smoother overall as expected. - Always after a big update or fundamental architecture changes, there will be a couple rough edges. I was very impressed with how solid FSD v14.3 was, and .1 added a lot of polish to it. - First big thing I noticed with this build was improved lane bias and preference changes. Notably, v14.3 would like to sit toward the left lane on emptier highways, in my driving tonight I didn’t see any of that. Will drive a lot more tomorrow to verify. - In FSD v14.3, a new feature introduced was a new P parking icon at your destination. At first with v14.3, it didn’t show for me, then it did majority of the time. With v14.3.1, it has shown every single time now. Something new in .1 is you can now select it and change the arrival type from parking lot to garage, street parking, curbside etc. Nice improvement and quick to change. - As with v14.3, stop sign behavior is MUCH improved. It commits and doesn’t hesitate, no double stops I’ve seen and a smoother acceleration and deceleration curve, leading to a more comfortable drive. Notably, speed bumps and dip handling is also buttery smooth, great acceleration/deceleration curve as well. - Gated parking lots. One thing I noticed today with gated lots and garages is that it pulls up to the ticket dispenser way quicker and in a better position than before. It’s close and centered, exactly where I’d pull up. Goes right away when gate opens too, 10/10 no notes. Parking- This is a big change with FSD v14.3+. It now picks parking spots quicker and more decisive. With v14.3.1 it’s even better, it’s picking the first spot it sees and commits, and sometimes they are even corner spots which I personally love to avoid door dings. I saw a ton of corner spot parking today which is awesome. When it’s parking, it’s so quick to decide which spot to take, but sometimes once it starts pulling in the spot it’s a bit slow to finish the maneuver as well as a bit slow in parking lots sometimes now, the final 5 feet of the maneuver are the slowest understandably. I saw an instance of the twitchy steering wheel as well. Spot selection is so improved it’s hard to even compare to v14.2.x. What a massive upgrade and the decision making is so fast and confident. - Speed control was great on my drives tonight, mostly city but was behaving exactly how I would and expect of it now. Went perfectly with flow of traffic on the profiles I selected. Hurry mode is dialed in, and doesn’t sit in left lane, at least on the drives I did. - So cool to have Grok integrated with navigation. Tesla Self Driving and Grok took me to 5 separate destinations earlier with ZERO input, I just pressed start FSD and it drove, parked, unparked and got me to each destination without any intervention. Definitely worth watching the video I posted earlier of it. - Decision making and reaction times are next level as well, it reacted to multiple bad human drivers we encountered tonight extremely well and the reaction time is lightning fast. Will post some videos tomorrow of it reacting to other vehicles, its reasoning is fantastic. Overall, what a big polish upgrade to an already excellent build. Really excited to drive it more extensively tomorrow. Thank you to the legends@Tesla_AIfor the hard work getting another fantastic build out to us, this one’s phenomenal.</description>
-      <guid isPermaLink="false">twitter_elonmusk_f17b6dab</guid>
-      <pubDate>Wed, 15 Apr 2026 09:23:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_b120401a</guid>
+      <pubDate>Wed, 15 Apr 2026 14:25:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Here's my first drive on Tesla FSD V14.3.1. It feels polished vs 14.3 and it my opinion is ready for...</title>
-      <link>https://twitter.com/elonmusk/status/7196cd2b</link>
+      <link>https://twitter.com/elonmusk/status/0a5f78e9</link>
       <description>Here's my first drive on Tesla FSD V14.3.1. It feels polished vs 14.3 and it my opinion is ready for wide release. • With 14.3.1, you can now tap on the new "P" parking icon and bring up your different parking options • Mad Max mode on the highway feels slightly more conservative with top speed (favors low 80s more often), but will now get to the right lanes sooner to prepare for exiting the highway. In this first drive, Mad Max did not go above 83mph, despite no cars around me most of the time. Follow distance is also more comfortable. I like all these things. • I'm having zero brake stabbing issues on 14.3.1, whereas I had a couple on my first drive with 14.3 • Urban lane selection is better vs 14.3 • Navigation routes and occasional parking alignment still need some work, but that's not a reason to hold back wide release. It still surprises me how much quicker V14.3 reacts to things. If a car pulls out of a parking spot as you drive by, FSD hits the brakes before you even know what's going on. The 20% better reaction time is definitely noticeable.</description>
-      <guid isPermaLink="false">twitter_elonmusk_7196cd2b</guid>
-      <pubDate>Wed, 15 Apr 2026 09:28:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0a5f78e9</guid>
+      <pubDate>Wed, 15 Apr 2026 14:30:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Burger King advertising on 𝕏</title>
-      <link>https://twitter.com/elonmusk/status/a7734a1f</link>
+      <link>https://twitter.com/elonmusk/status/1d0dc64c</link>
       <description>Burger King advertising on 𝕏</description>
-      <guid isPermaLink="false">twitter_elonmusk_a7734a1f</guid>
-      <pubDate>Wed, 15 Apr 2026 09:33:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1d0dc64c</guid>
+      <pubDate>Wed, 15 Apr 2026 14:35:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Slavery is human history. The abolition of slavery is white history. You’re welcome, world!</title>
-      <link>https://twitter.com/elonmusk/status/c35979df</link>
+      <link>https://twitter.com/elonmusk/status/89439c88</link>
       <description>Slavery is human history. The abolition of slavery is white history. You’re welcome, world!</description>
-      <guid isPermaLink="false">twitter_elonmusk_c35979df</guid>
-      <pubDate>Wed, 15 Apr 2026 09:38:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_89439c88</guid>
+      <pubDate>Wed, 15 Apr 2026 14:40:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Wow. FSD v14.3.1 drove me to 5 destinations that Grok inputted and navigated to with zero interventi...</title>
-      <link>https://twitter.com/elonmusk/status/a3849f74</link>
+      <link>https://twitter.com/elonmusk/status/bdda121b</link>
       <description>Wow. FSD v14.3.1 drove me to 5 destinations that Grok inputted and navigated to with zero interventions. Tesla Self Driving parked and unparked at each of the 5 destinations.@Tesla_AI</description>
-      <guid isPermaLink="false">twitter_elonmusk_a3849f74</guid>
-      <pubDate>Wed, 15 Apr 2026 09:43:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bdda121b</guid>
+      <pubDate>Wed, 15 Apr 2026 14:45:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🚨 BOOM: Some American drivers are ECSTATIC for Elon Musk's Tesla semitruck "Massive windows, the sea...</title>
-      <link>https://twitter.com/elonmusk/status/18ef8ad3</link>
+      <link>https://twitter.com/elonmusk/status/d7c080b2</link>
       <description>🚨 BOOM: Some American drivers are ECSTATIC for Elon Musk's Tesla semitruck "Massive windows, the seat is right in the center. It's usually off to the side and they can't reach the buttons they need to." "10 exterior cameras, obviously these massive screens. They're not inhaling the fumes of a diesel truck. The seat is no longer shaking. All things that are important for a good office or workplace." "There are a lot of benefits and the drivers tell me they love it."@elonmusk🔥</description>
-      <guid isPermaLink="false">twitter_elonmusk_18ef8ad3</guid>
-      <pubDate>Wed, 15 Apr 2026 09:48:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d7c080b2</guid>
+      <pubDate>Wed, 15 Apr 2026 14:50:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Tesla Semi</title>
-      <link>https://twitter.com/elonmusk/status/a8f8d208</link>
+      <link>https://twitter.com/elonmusk/status/1d78a28e</link>
       <description>Tesla Semi</description>
-      <guid isPermaLink="false">twitter_elonmusk_a8f8d208</guid>
-      <pubDate>Wed, 15 Apr 2026 09:53:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1d78a28e</guid>
+      <pubDate>Wed, 15 Apr 2026 14:55:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: FSD v14.3.1 did an exceptional job with parking at Costco now. It found the absolute first spot open...</title>
-      <link>https://twitter.com/elonmusk/status/517e55ec</link>
+      <link>https://twitter.com/elonmusk/status/1d697736</link>
       <description>FSD v14.3.1 did an exceptional job with parking at Costco now. It found the absolute first spot open, picked it quickly, and backed in perfectly. Solid!</description>
-      <guid isPermaLink="false">twitter_elonmusk_517e55ec</guid>
-      <pubDate>Wed, 15 Apr 2026 09:58:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1d697736</guid>
+      <pubDate>Wed, 15 Apr 2026 15:00:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: People don’t even know about the French Algerians. They just think there were a few French administr...</title>
-      <link>https://twitter.com/elonmusk/status/0c66e788</link>
+      <link>https://twitter.com/elonmusk/status/f4b5e740</link>
       <description>People don’t even know about the French Algerians. They just think there were a few French administrators in Algeria, but there were actually hundreds of thousands of French and they were all ethnically cleansed in a matter of years after independence.</description>
-      <guid isPermaLink="false">twitter_elonmusk_0c66e788</guid>
-      <pubDate>Wed, 15 Apr 2026 10:03:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f4b5e740</guid>
+      <pubDate>Wed, 15 Apr 2026 15:05:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Orders of Magnitude</title>
-      <link>https://twitter.com/elonmusk/status/56a8989e</link>
+      <link>https://twitter.com/elonmusk/status/219699e6</link>
       <description>Orders of Magnitude</description>
-      <guid isPermaLink="false">twitter_elonmusk_56a8989e</guid>
-      <pubDate>Wed, 15 Apr 2026 10:08:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_219699e6</guid>
+      <pubDate>Wed, 15 Apr 2026 15:10:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🇧🇪 Positive news for FSD Supervised in Belgium! I just received an official response from the cabine...</title>
-      <link>https://twitter.com/elonmusk/status/d0a782ef</link>
+      <link>https://twitter.com/elonmusk/status/05757f47</link>
       <description>🇧🇪 Positive news for FSD Supervised in Belgium! I just received an official response from the cabinet of@MDiependaele, Minister-President of the Flemish Government. A few days ago, the Dutch vehicle authority RDW granted the first type approval for Tesla FSD Supervised. In my message to the Flemish government, I urged them to actively support and accelerate the recognition and implementation of this RDW approval in Flanders/Belgium, so Tesla owners and all road users can benefit from this safer, more advanced driver assistance system as soon as possible. Here's the reply I received: Dear Sir, Your message was well received and read with interest. It shows your involvement in our society. Minister-President Diependaele thanks you for your insights and for the initiative you are taking. Others whom you contacted are better placed to answer you substantively, yet we are reviewing your message internally. We will contact you if additional clarification is needed. With kind regards, Advisor Local Policy Cabinet of Matthias Diependaele Minister-President of the Flemish Government Flemish Minister of Economy, Innovation and Industry, Foreign Affairs, Digitalization and Facility Management This is encouraging, they explicitly thanked me for the input and confirm they're reviewing it internally at the highest level. A small but positive step toward bringing FSD Supervised to Flemish roads faster! I will continue to follow up and keep you updated on any further developments!</description>
-      <guid isPermaLink="false">twitter_elonmusk_d0a782ef</guid>
-      <pubDate>Wed, 15 Apr 2026 10:13:32 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_05757f47</guid>
+      <pubDate>Wed, 15 Apr 2026 15:15:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: .@Starlinkis the best internet around. On flights it is miles ahead of anything else. Just a superio...</title>
+      <link>https://twitter.com/elonmusk/status/e883bdd3</link>
+      <description>.@Starlinkis the best internet around. On flights it is miles ahead of anything else. Just a superior service/product.</description>
+      <guid isPermaLink="false">twitter_elonmusk_e883bdd3</guid>
+      <pubDate>Wed, 15 Apr 2026 15:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: BREAKING: DHS confirms to@FoxNewsthat Olaolukitan Adon Abel, the suspect arrested for a seemingly ra...</title>
+      <link>https://twitter.com/elonmusk/status/582dbe0a</link>
+      <description>BREAKING: DHS confirms to@FoxNewsthat Olaolukitan Adon Abel, the suspect arrested for a seemingly random murder spree in DeKalb County, GA that left two women dead and a homeless man shot, is a national of the United Kingdom who was naturalized into a US citizen during the Biden administration in 2022. DHS confirms to FOX that one of the victims, 40-year-old Lauren Bullis, was a DHS employee who worked in the DHS Office of the Inspector General. She was found stabbed and shot to death while walking her dog. Abel faces two counts of murder, aggravated assault, and weapons charges after police say he carried out an early morning shooting spree in three separate locations in DeKalb County, GA on Monday, shooting and killing a woman in front of a Checkers, shooting and stabbing Lauren Bullis to death while she was walking her dog, and shooting a homeless man several times in front of a shopping center. Motive is unknown. DHS confirms that Abel had a lengthy rap sheet prior to this incident, including prior convictions for sexual battery, battery against a police officer, and assault with a deadly weapon. Photo courtesy: DHS</description>
+      <guid isPermaLink="false">twitter_elonmusk_582dbe0a</guid>
+      <pubDate>Wed, 15 Apr 2026 15:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok just hit its highest monthly traffic EVER: over 326 MILLION visits in March alone That’s a mass...</title>
+      <link>https://twitter.com/elonmusk/status/7b225f2c</link>
+      <description>Grok just hit its highest monthly traffic EVER: over 326 MILLION visits in March alone That’s a massive 61% jump YoY and up 9.3% just since February People love Grok because it's the only AI they can trust with the answers and ask anything without hitting the policy walls unlike other AIs</description>
+      <guid isPermaLink="false">twitter_elonmusk_7b225f2c</guid>
+      <pubDate>Wed, 15 Apr 2026 15:30:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: It took me a few hours yesterday, but I got access to the case files for Olaolukitan Adon Abel previ...</title>
+      <link>https://twitter.com/elonmusk/status/f60ce2b9</link>
+      <description>It took me a few hours yesterday, but I got access to the case files for Olaolukitan Adon Abel previous se*ual battery case from Savannah GA that caused him to be BANISHED from the ENTIRE CITY. I'll drop the files below, but here's the story: &gt;Abel assaulted 4 different women in the span of a few hours &gt;4 victims, 4 counts of se*ual battery, in Chatham County, April 2025. &gt;When police tried to arrest him, he resisted. &gt;They added an obstruction charge on top of everything else &gt;That obstruction charge vanished before trial &gt;Prosecutors dropped it entirely. No explanation given. &gt;His attorney, B. Foster, got all 4 se*ual battery counts handled under Georgia's First Offender Act &gt;Meaning if he completed probation, the whole thing would essentially disappear from his record. &gt;The judge sentenced him to 48 months, then suspended most of it. &gt;He actually served 120 days in prison TOTAL &gt;Thirty days per victim &gt;He paid $0 in fines &gt;Zero in restitution to any of the 4 women &gt;The court did order a psychose*ual evaluation and required he follow whatever treatment came from it &gt;They mandated mental health counseling &gt;They banned him from the entire city of Savannah for four years &gt;They explicitly prohibited him from possessing any firearm &gt;He signed the probation agreement on June 7, 2025 &gt;7 months later, he got a gun and m*rdered 2 women, including Lauren Bullis You are not angry enough.</description>
+      <guid isPermaLink="false">twitter_elonmusk_f60ce2b9</guid>
+      <pubDate>Wed, 15 Apr 2026 15:35:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Good question</title>
+      <link>https://twitter.com/elonmusk/status/64144abf</link>
+      <description>Good question</description>
+      <guid isPermaLink="false">twitter_elonmusk_64144abf</guid>
+      <pubDate>Wed, 15 Apr 2026 15:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Javier Milei: “No tengo nada en contra de los artistas. Yo mismo tuve una banda de rock. Mi problema...</title>
+      <link>https://twitter.com/elonmusk/status/2593d903</link>
+      <description>Javier Milei: “No tengo nada en contra de los artistas. Yo mismo tuve una banda de rock. Mi problema es que si necesitas una subvención del gobierno para hacer arte, ya no eres un artista, eres un empleado público.” Milei es un número uno.</description>
+      <guid isPermaLink="false">twitter_elonmusk_2593d903</guid>
+      <pubDate>Wed, 15 Apr 2026 15:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: They don’t change the child’s sex, either.</title>
+      <link>https://twitter.com/elonmusk/status/b2beb069</link>
+      <description>They don’t change the child’s sex, either.</description>
+      <guid isPermaLink="false">twitter_elonmusk_b2beb069</guid>
+      <pubDate>Wed, 15 Apr 2026 15:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Iron Dome for cats 😂</title>
+      <link>https://twitter.com/elonmusk/status/baf45209</link>
+      <description>Iron Dome for cats 😂</description>
+      <guid isPermaLink="false">twitter_elonmusk_baf45209</guid>
+      <pubDate>Wed, 15 Apr 2026 15:55:23 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Congrats to the@Tesla_AIchip design team on taping out AI5! AI6, Dojo3 &amp; other exciting chips in wor...</title>
       <link>https://twitter.com/elonmusk/status/cd7dba41</link>
       <description>Congrats to the@Tesla_AIchip design team on taping out AI5! AI6, Dojo3 &amp; other exciting chips in work.</description>
       <guid isPermaLink="false">twitter_elonmusk_cd7dba41</guid>
-      <pubDate>Wed, 15 Apr 2026 10:18:32 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2026 16:00:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
