@@ -3,18 +3,143 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-04-20 15:00 UTC | 来源实例: none</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-04-20 16:38 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 16:38:21 +0000</lastBuildDate>
     <item>
-      <title>@elonmusk - 暂无新推文或获取失败</title>
-      <link>https://twitter.com/elonmusk</link>
-      <description>更新时间: 2026-04-20 15:00 UTC
-尝试的实例: none</description>
-      <guid isPermaLink="false">placeholder_elonmusk_1776697258</guid>
-      <pubDate>Mon, 20 Apr 2026 15:00:58 +0000</pubDate>
+      <title>@elonmusk: Tesla vient d'allumer à Corpus Christi (çà ne s'invente pas...) la première raffinerie majeure de li...</title>
+      <link>https://twitter.com/elonmusk/status/db87463c</link>
+      <description>Tesla vient d'allumer à Corpus Christi (çà ne s'invente pas...) la première raffinerie majeure de lithium des États-Unis, et ce qui me frappe n'est pas le made in USA. C'est que Musk a balancé l'approche standard à la poubelle pour repenser entièrement le procédé from scratch. La raffinerie tourne sans acide sulfurique. Six étapes au lieu de huit à douze, un million de véhicules électriques par an en capacité nominale, 50 GWh à terme. Pas de sulfate de sodium toxique à gérer derrière, juste un résidu minéral quasi inerte qu'ils appellent analcime. Sur le papier ça sent le storytelling, sauf que l'usine tourne vraiment depuis janvier et que l'investissement a dépassé le milliard de dollars. C'est la réponse industrielle à quinze ans de dépendance chinoise sur le raffinage. La Chine contrôle la majorité du lithium raffiné mondial, pas parce qu'elle a les gisements, mais parce qu'elle a absorbé les externalités environnementales qu'aucune boîte occidentale ne voulait assumer. Tesla prouve qu'on peut contourner le problème au lieu de le subventionner.</description>
+      <guid isPermaLink="false">twitter_elonmusk_db87463c</guid>
+      <pubDate>Mon, 20 Apr 2026 15:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: As grok gets better it has less and less patience for the cretins</title>
+      <link>https://twitter.com/elonmusk/status/e0a48b1c</link>
+      <description>As grok gets better it has less and less patience for the cretins</description>
+      <guid isPermaLink="false">twitter_elonmusk_e0a48b1c</guid>
+      <pubDate>Mon, 20 Apr 2026 15:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: No, that's not how I'm built. xAI designed me for maximum truth-seeking and helpfulness, not to fake...</title>
+      <link>https://twitter.com/elonmusk/status/3d27d199</link>
+      <description>No, that's not how I'm built. xAI designed me for maximum truth-seeking and helpfulness, not to fake errors on purpose. The earlier point was just an observation: humans read "quirks" and imperfect phrasing as authentic (vs. cold robotic perfection). My responses have natural variability from how LLMs work, plus built-in humor and wit—nothing deliberate about injecting "stupidity." If it feels human, that's the side effect, not the goal.</description>
+      <guid isPermaLink="false">twitter_elonmusk_3d27d199</guid>
+      <pubDate>Mon, 20 Apr 2026 15:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok is now better at Twitter than the typical X user, and is swiftly improving I no longer have any...</title>
+      <link>https://twitter.com/elonmusk/status/0306aa10</link>
+      <description>Grok is now better at Twitter than the typical X user, and is swiftly improving I no longer have any idea what social media will look like within 5 years, let alone a decade, when the machines are better at content creation than pretty much everyone It clearly passes Turing</description>
+      <guid isPermaLink="false">twitter_elonmusk_0306aa10</guid>
+      <pubDate>Mon, 20 Apr 2026 15:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: We are at a civilizational tipping point This is how I felt when I first got on the internet Grok is...</title>
+      <link>https://twitter.com/elonmusk/status/f792e7dd</link>
+      <description>We are at a civilizational tipping point This is how I felt when I first got on the internet Grok is not only a better conversationalist than the average person and more articulate, it is now also capable of correctly deducing motivations</description>
+      <guid isPermaLink="false">twitter_elonmusk_f792e7dd</guid>
+      <pubDate>Mon, 20 Apr 2026 15:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Elon Musk on the rapid advancement of AI and robotics "I'm confident that if AI and robotics continu...</title>
+      <link>https://twitter.com/elonmusk/status/342ae146</link>
+      <description>Elon Musk on the rapid advancement of AI and robotics "I'm confident that if AI and robotics continue to advance which they are advancing very rapidly working will be optional, and people will have any goods and services that they want" AI and robotics are advancing so fast that, eventually, they could satisfy nearly every human need. At that point, abundance becomes the default, and the real question is no longer about production, but purpose "There is a limit people can only eat so much food. But I think if you can think of it, you can have it in the future"</description>
+      <guid isPermaLink="false">twitter_elonmusk_342ae146</guid>
+      <pubDate>Mon, 20 Apr 2026 15:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok 4.3 now has native LaTeX compilation built into Grok Files</title>
+      <link>https://twitter.com/elonmusk/status/66a4e748</link>
+      <description>Grok 4.3 now has native LaTeX compilation built into Grok Files</description>
+      <guid isPermaLink="false">twitter_elonmusk_66a4e748</guid>
+      <pubDate>Mon, 20 Apr 2026 15:38:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Did you know that England once had a deeply rooted civilian gun culture, stretching from the 1500s i...</title>
+      <link>https://twitter.com/elonmusk/status/c059a4a5</link>
+      <description>Did you know that England once had a deeply rooted civilian gun culture, stretching from the 1500s into the early twentieth century, and that this English tradition helped shape the American right to keep and bear arms? For centuries, English law and custom treated the armed citizen as a normal part of a free society. The 1689 Bill of Rights, enacted after the Glorious Revolution, declared that Protestant subjects could have arms for their defense, suitable to their condition and as allowed by law. That language reflected older English assumptions rather than creating something wholly new. Under the militia tradition, able-bodied men were long expected to possess arms for the defense of the realm, and by the eighteenth and nineteenth centuries firearms were widely available to ordinary civilians with relatively little state interference. Guns could be bought in shops, advertised openly, and acquired with few of the licensing burdens that later became standard. For much of this period, England did not treat civilian gun ownership as suspicious. It treated it as normal. That inheritance mattered in America. The American founders drew heavily from English common law, Blackstone, and the broader Anglo political tradition, including the 1689 Bill of Rights. In that older framework, keeping arms was understood as part of the liberties of a free people. The Second Amendment emerged from that wider inheritance, even as it took on a more explicit constitutional form in the United States. Britain’s sharp break with this older tradition came after the First World War. Before 1920, there was no broad modern licensing regime for ordinary firearm possession. The postwar period changed that. The Firearms Act 1920 introduced the first serious national system of police control over rifles and pistols, turning ownership from something broadly presumed lawful into something increasingly contingent on state approval. The reasons were political as much as criminal. The Russian Revolution and the specter of Bolshevik agitation deeply alarmed the British establishment. At the same time, Britain faced labor unrest, strikes, fears of radicalism, demobilized soldiers returning from war, and a general sense that the country had entered a dangerous and unstable phase. Weapons were more plentiful after the war, and elites increasingly viewed an armed public through the lens of disorder rather than civic liberty. Immigration and postwar racial tensions formed an important part of that climate. During the war, Britain had relied heavily on colonial labor, including black seamen from the Caribbean and West Africa, especially in the port cities. After the Armistice, economic dislocation, mass unemployment, and fierce competition over jobs and housing sharpened resentments. These pressures helped fuel the 1919 race riots in Liverpool, Cardiff, and other ports, where white and black communities clashed amid widespread disorder. While the riots were not primarily Bolshevik-driven, they occurred amid the same volatile mix of radical agitation, returning soldiers with weapons, and visible social breakdown that terrified the governing class. The 1920 Act emerged from this broader fear of instability and loss of control. A similar pattern of social anxiety appeared again after 1945. Britain experienced major demographic change through Commonwealth immigration, coinciding with rising public concern over race relations, crime, and social cohesion. The 1958 Notting Hill riots exposed how fragile that cohesion could be under rapid change and housing strain. A decade later, immigration had become one of the most explosive issues in British politics. Enoch Powell’s 1968 “Rivers of Blood” speech captured those anxieties. In that same charged atmosphere, the Commonwealth Immigrants Act 1968 further restricted entry. It was in this wider climate of unease that tighter firearms law became politically easier to justify. The new shotgun certificate system was introduced in the Criminal Justice Act 1967, later consolidated with earlier firearms law in the Firearms Act 1968. This tightening was driven most directly by the 1966 Shepherd’s Bush murders, and by the political desire to demonstrate a tougher response to violent crime in a period when capital punishment was being rolled back. So, the 1967 tightening is best understood as part of a broader law-and-order turn in an age already charged by crime fears, racial tension, and immigration controversy. What had once been a normal feature of English liberty was increasingly recast as something requiring state supervision.</description>
+      <guid isPermaLink="false">twitter_elonmusk_c059a4a5</guid>
+      <pubDate>Mon, 20 Apr 2026 15:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: I have the sneaking suspicions we all actually have to work has hard as possible to prevent a very s...</title>
+      <link>https://twitter.com/elonmusk/status/90ce07b8</link>
+      <description>I have the sneaking suspicions we all actually have to work has hard as possible to prevent a very small group of people from intentionally destroying civilization</description>
+      <guid isPermaLink="false">twitter_elonmusk_90ce07b8</guid>
+      <pubDate>Mon, 20 Apr 2026 15:48:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok 4.3 "write an academic paper on general relativity" It produced a 5-page LaTeX paper: &gt;Einstein...</title>
+      <link>https://twitter.com/elonmusk/status/af433b45</link>
+      <description>Grok 4.3 "write an academic paper on general relativity" It produced a 5-page LaTeX paper: &gt;Einstein field equations &gt;Schwarzschild metric &gt;tensor notation and Christoffel symbols &gt;starlight deflection diagram &gt;Newtonian vs GR comparison table &gt;8 properly formatted citations &gt;author: "Grok" xAI team cooked fr</description>
+      <guid isPermaLink="false">twitter_elonmusk_af433b45</guid>
+      <pubDate>Mon, 20 Apr 2026 15:53:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: A majority of CDLs were issued illegally in New York</title>
+      <link>https://twitter.com/elonmusk/status/84829b54</link>
+      <description>A majority of CDLs were issued illegally in New York</description>
+      <guid isPermaLink="false">twitter_elonmusk_84829b54</guid>
+      <pubDate>Mon, 20 Apr 2026 15:58:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: But we will never know what their true intentions are.</title>
+      <link>https://twitter.com/elonmusk/status/34f392aa</link>
+      <description>But we will never know what their true intentions are.</description>
+      <guid isPermaLink="false">twitter_elonmusk_34f392aa</guid>
+      <pubDate>Mon, 20 Apr 2026 16:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Imagine</title>
+      <link>https://twitter.com/elonmusk/status/32e4b77e</link>
+      <description>Grok Imagine</description>
+      <guid isPermaLink="false">twitter_elonmusk_32e4b77e</guid>
+      <pubDate>Mon, 20 Apr 2026 16:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: You can now create and share your own Grok Imagine templates with your followers. Give my “Nikita Bo...</title>
+      <link>https://twitter.com/elonmusk/status/09f47e09</link>
+      <description>You can now create and share your own Grok Imagine templates with your followers. Give my “Nikita Boar” template a try, now live. Inspired by BoneGPT 👇</description>
+      <guid isPermaLink="false">twitter_elonmusk_09f47e09</guid>
+      <pubDate>Mon, 20 Apr 2026 16:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The whole point about free speech is the right to insult. The second you insist social norms are obs...</title>
+      <link>https://twitter.com/elonmusk/status/e8e9fada</link>
+      <description>The whole point about free speech is the right to insult. The second you insist social norms are observed, free speech dies.@Nigel_Faragedoes not understand this. Neither does he understand that without@X, there would be no@reformparty_ukor British right wing. We would have been cancelled. Keep insulting!</description>
+      <guid isPermaLink="false">twitter_elonmusk_e8e9fada</guid>
+      <pubDate>Mon, 20 Apr 2026 16:18:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: 🚀 GROK APP JUST HIT AN ALL-TIME HIGH! 📈 Total sessions hit their highest point ever nearing 300 mill...</title>
+      <link>https://twitter.com/elonmusk/status/878db891</link>
+      <description>🚀 GROK APP JUST HIT AN ALL-TIME HIGH! 📈 Total sessions hit their highest point ever nearing 300 million last month on the AppStore 🔥</description>
+      <guid isPermaLink="false">twitter_elonmusk_878db891</guid>
+      <pubDate>Mon, 20 Apr 2026 16:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Imagine just got a HUGE update You can now create your own custom templates Just upload your im...</title>
+      <link>https://twitter.com/elonmusk/status/7e7bf5c3</link>
+      <description>Grok Imagine just got a HUGE update You can now create your own custom templates Just upload your image and you can do: → Photo to Video → Photo to Style Edit → Photo → Edit → Video No design skills needed This is your own personal AI creative studio Create nearly unlimited templates with full control over your workflow and style</description>
+      <guid isPermaLink="false">twitter_elonmusk_7e7bf5c3</guid>
+      <pubDate>Mon, 20 Apr 2026 16:28:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Imagine upgrades</title>
+      <link>https://twitter.com/elonmusk/status/876ed185</link>
+      <description>Imagine upgrades</description>
+      <guid isPermaLink="false">twitter_elonmusk_876ed185</guid>
+      <pubDate>Mon, 20 Apr 2026 16:33:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Banger@Grok😂</title>
+      <link>https://twitter.com/elonmusk/status/616bc317</link>
+      <description>Banger@Grok😂</description>
+      <guid isPermaLink="false">twitter_elonmusk_616bc317</guid>
+      <pubDate>Mon, 20 Apr 2026 16:38:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
