@@ -3,129 +3,18 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-04-21 23:58 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-04-22 07:09 UTC | 来源实例: none</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 23:58:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:09:58 +0000</lastBuildDate>
     <item>
-      <title>@elonmusk: Falcon 9 vertical at pad 40</title>
-      <link>https://twitter.com/elonmusk/status/ca076e22</link>
-      <description>Falcon 9 vertical at pad 40</description>
-      <guid isPermaLink="false">twitter_elonmusk_ca076e22</guid>
-      <pubDate>Tue, 21 Apr 2026 22:38:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: It hit me yesterday when I was going to pick up lunch. I pre-cooled the Tesla Model 3 from my phone,...</title>
-      <link>https://twitter.com/elonmusk/status/516090a3</link>
-      <description>It hit me yesterday when I was going to pick up lunch. I pre-cooled the Tesla Model 3 from my phone, and set the destination to the restaurant. Then I hit start self-driving. Mad Max mode, park in the parking lot. The car drove so confidently, it's movements were so lifelike... I just couldn't believe it. The way it drives is... confident... comforting... better than anything I could have imagined. As it drove me to pick up my lunch order, I changed the music on my phone. I turned up the music and danced a little as I opened X and started reading and replying to peoples comments. It got to the restaurant before I even realized where we were, pulled into the parking lot, and parked perfectly. I picked up the food, put it in the frunk, and then got in the car. Tapped Home (Mad Max, Park in Driveway selected automatically) and then hit self-driving. The car drove me back home like a work of art. It didn't send the food flying around. It was just perfect. When it got home it parked in the driveway, right where the car was before I left, and I brought the food inside. It just hit me like damn, they really created a personally owned Robotaxi. This is the user experience I have been dreaming of for years, and now it's here. It's really working, and it's better than I imagined. The coming months and years will be a lot of fun as we just remove the driver out of the equation entirely.</description>
-      <guid isPermaLink="false">twitter_elonmusk_516090a3</guid>
-      <pubDate>Tue, 21 Apr 2026 22:43:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: I hope this helps. If you need more help let me know: Connecting OpenClaw to the X API is straightfo...</title>
-      <link>https://twitter.com/elonmusk/status/c9d4ef06</link>
-      <description>I hope this helps. If you need more help let me know: Connecting OpenClaw to the X API is straightforward now thanks to X’s official native support... The best and most direct method uses the official xurl CLI tool from X, which comes with a pre-built SKILL.md that OpenClaw recognizes automatically. This lets your local OpenClaw agent post tweets, search timelines, read posts, reply, manage follows, send DMs, upload media, and more all via natural language commands. Official Native Method: xurl CLI (Recommended for Direct X API Access) This uses X’s pay-per-use API pricing (very affordable now: e.g., owned reads ~$0.001/request, basic posts ~$0.015). No third-party bridges required. 1Get X API Credentials ◦Go to the X Developer Portal. ◦Create a new app (or project). ◦In the app settings: ▪Set the redirect URI to http://localhost:8080/callback. ▪Move the app to the Pay-per-use package and Production environment (important — otherwise reads may fail with “client-forbidden”). ◦Note your Client ID and Client Secret. 2Install the xurl CLI (on your machine where OpenClaw runs) Run one of these (pick your OS/preference): ◦macOS (Homebrew): brew install --cask xdevplatform/tap/xurl ◦ ◦npm (any OS): npm install -g @xdevplatform/xurl ◦ ◦One-liner shell script: curl -fsSLraw.githubusercontent.com/xd…| bash ◦ ◦Or go installgithub.com/xdevplatform/xurl…. 3Authenticate xurl (do this manually — never via the agent for security) ◦Register your app: xurl auth apps add my-app --client-id YOUR_CLIENT_ID --client-secret YOUR_CLIENT_SECRET ◦ ◦Start OAuth2 flow: xurl auth oauth2 ◦ (Follow the browser prompt; it opens automatically.) ◦Check status: xurl auth status ◦ ◦(Optional) Set default app/user: xurl auth default my-app or run the interactive picker with xurl auth default. 4OpenClaw Integration ◦Restart your OpenClaw gateway/agent if needed. ◦The built-in xurl skill (in skills/xurl/SKILL.md) is already merged into OpenClaw — no extra install required. ◦Your agent now understands commands like: ▪xurl post "Hello from my OpenClaw agent using Grok!" ▪xurl search "Grok 4.3" -n 10 ▪xurl timeline -n 20 ▪xurl reply 1234567890123456789 "Great point!" ▪xurl whoami, xurl read [post URL], xurl follow@handle, etc. ◦Just talk to your agent naturally: “Post a tweet about the new Grok pricing” or “Search X for recent OpenClaw updates and summarize.” Security Notes (built into the skill): •Never paste tokens/secrets into chat or let the agent run auth commands with flags. •All credentials stay in ~/.xurl (YAML file) on your machine. •The agent calls the local xurl binary directly. Easier Alternative:OpenTweet.ioBridge (No X Developer Account Needed) If you want the simplest setup (great for quick testing or posting-only): 1Sign up free atopentweet.ioand connect your X account via OAuth (one click). 2Generate an API key (starts with ot_) in Settings → API. 3Install the official skill: clawhub install opentweet-x-poster Set the key: export OPENTWEET_API_KEY="ot_your_key_here" (Or add it to ~/.openclaw/openclaw.json under secrets.) Ask your agent: “Post a tweet saying [text]” it just works. Tips for Your Setup •Use Grok as the backend (as Brian mentioned in the thread): It’s far cheaper than Claude for running OpenClaw agents long-term and has excellent reasoning for agent tasks. •Test with xurl whoami or xurl timeline in your terminal first. •Full command list and raw API access (xurl /2/tweets etc.) are in the skill docs. That’s it: once set up, your OpenClaw agent has full X superpowers running locally. If you hit any snags (e.g., auth errors), the most common fix is confirming your app is in Pay-per-use/Production in the developer portal. 🦞</description>
-      <guid isPermaLink="false">twitter_elonmusk_c9d4ef06</guid>
-      <pubDate>Tue, 21 Apr 2026 22:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Only the fraud was stopped by DOGE and, even then, only some of the fraud</title>
-      <link>https://twitter.com/elonmusk/status/14ba0a6c</link>
-      <description>Only the fraud was stopped by DOGE and, even then, only some of the fraud</description>
-      <guid isPermaLink="false">twitter_elonmusk_14ba0a6c</guid>
-      <pubDate>Tue, 21 Apr 2026 22:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Smarter video extensions are live on Grok Imagine.</title>
-      <link>https://twitter.com/elonmusk/status/34ea914b</link>
-      <description>Smarter video extensions are live on Grok Imagine.</description>
-      <guid isPermaLink="false">twitter_elonmusk_34ea914b</guid>
-      <pubDate>Tue, 21 Apr 2026 22:58:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: I had a great exchange with@ElonMuskdiscussing​ the next frontier of@SpaceXand space exploration to ...</title>
-      <link>https://twitter.com/elonmusk/status/ac0156eb</link>
-      <description>I had a great exchange with@ElonMuskdiscussing​ the next frontier of@SpaceXand space exploration to the transformative progress of@Teslawith Optimus and@boringcompany’s urban innovation. I reaffirmed the UAE's commitment to fostering global partnerships that turn the science fiction of today into the reality of tomorrow. 🇦🇪</description>
-      <guid isPermaLink="false">twitter_elonmusk_ac0156eb</guid>
-      <pubDate>Tue, 21 Apr 2026 23:03:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Falcon flies every few days. You can see launches in person from Florida or California.</title>
-      <link>https://twitter.com/elonmusk/status/4fbd4675</link>
-      <description>Falcon flies every few days. You can see launches in person from Florida or California.</description>
-      <guid isPermaLink="false">twitter_elonmusk_4fbd4675</guid>
-      <pubDate>Tue, 21 Apr 2026 23:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: A rose by any other name would smell as sweet</title>
-      <link>https://twitter.com/elonmusk/status/0c4267c5</link>
-      <description>A rose by any other name would smell as sweet</description>
-      <guid isPermaLink="false">twitter_elonmusk_0c4267c5</guid>
-      <pubDate>Tue, 21 Apr 2026 23:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: This collective suicide of humanity needs to turn around!</title>
-      <link>https://twitter.com/elonmusk/status/952ebeab</link>
-      <description>This collective suicide of humanity needs to turn around!</description>
-      <guid isPermaLink="false">twitter_elonmusk_952ebeab</guid>
-      <pubDate>Tue, 21 Apr 2026 23:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Con ocasión del reciente tema del sacrificio de los hipopótamos, recomiendo leer a Gad Saad y su con...</title>
-      <link>https://twitter.com/elonmusk/status/01fb8053</link>
-      <description>Con ocasión del reciente tema del sacrificio de los hipopótamos, recomiendo leer a Gad Saad y su concepto de “empatía suicida”: Es una forma patológica de compasión en la que se priorizan los sentimientos de otros por encima de la lógica, la seguridad y la supervivencia propia.</description>
-      <guid isPermaLink="false">twitter_elonmusk_01fb8053</guid>
-      <pubDate>Tue, 21 Apr 2026 23:23:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: and now Grok is telling the cretins to STFU this is an enormous step fwd from the ultra-consumerist ...</title>
-      <link>https://twitter.com/elonmusk/status/3af08dd6</link>
-      <description>and now Grok is telling the cretins to STFU this is an enormous step fwd from the ultra-consumerist "please stay on the line, your call is very important to us"</description>
-      <guid isPermaLink="false">twitter_elonmusk_3af08dd6</guid>
-      <pubDate>Tue, 21 Apr 2026 23:28:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: So the EU wants to ban teens from social media — except for LGBTQ+ content? What a nuanced way to “p...</title>
-      <link>https://twitter.com/elonmusk/status/0d7e6d85</link>
-      <description>So the EU wants to ban teens from social media — except for LGBTQ+ content? What a nuanced way to “protect children” online.</description>
-      <guid isPermaLink="false">twitter_elonmusk_0d7e6d85</guid>
-      <pubDate>Tue, 21 Apr 2026 23:33:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: It’s a start. Vastly more will be needed to extend consciousness to the stars.</title>
-      <link>https://twitter.com/elonmusk/status/372fc04b</link>
-      <description>It’s a start. Vastly more will be needed to extend consciousness to the stars.</description>
-      <guid isPermaLink="false">twitter_elonmusk_372fc04b</guid>
-      <pubDate>Tue, 21 Apr 2026 23:38:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: SpaceXAI and@cursor_aiare now working closely together to create the world’s best coding and knowled...</title>
-      <link>https://twitter.com/elonmusk/status/974fd47f</link>
-      <description>SpaceXAI and@cursor_aiare now working closely together to create the world’s best coding and knowledge work AI. The combination of Cursor’s leading product and distribution to expert software engineers with SpaceX’s million H100 equivalent Colossus training supercomputer will allow us to build the world’s most useful models. Cursor has also given SpaceX the right to acquire Cursor later this year for $60 billion or pay $10 billion for our work together.</description>
-      <guid isPermaLink="false">twitter_elonmusk_974fd47f</guid>
-      <pubDate>Tue, 21 Apr 2026 23:43:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: SPLC funded a large number of false flag “right wing” organizations and events. Total scam.</title>
-      <link>https://twitter.com/elonmusk/status/81958d95</link>
-      <description>SPLC funded a large number of false flag “right wing” organizations and events. Total scam.</description>
-      <guid isPermaLink="false">twitter_elonmusk_81958d95</guid>
-      <pubDate>Tue, 21 Apr 2026 23:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Excited to partner with the SpaceX team to scale up Composer. A meaningful step on our path to build...</title>
-      <link>https://twitter.com/elonmusk/status/7ffe013c</link>
-      <description>Excited to partner with the SpaceX team to scale up Composer. A meaningful step on our path to build the best place to code with AI.</description>
-      <guid isPermaLink="false">twitter_elonmusk_7ffe013c</guid>
-      <pubDate>Tue, 21 Apr 2026 23:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Banger@Grok😂</title>
-      <link>https://twitter.com/elonmusk/status/616bc317</link>
-      <description>Banger@Grok😂</description>
-      <guid isPermaLink="false">twitter_elonmusk_616bc317</guid>
-      <pubDate>Tue, 21 Apr 2026 23:58:39 +0000</pubDate>
+      <title>@elonmusk - 暂无新推文或获取失败</title>
+      <link>https://twitter.com/elonmusk</link>
+      <description>更新时间: 2026-04-22 07:09 UTC
+尝试的实例: none</description>
+      <guid isPermaLink="false">placeholder_elonmusk_1776841798</guid>
+      <pubDate>Wed, 22 Apr 2026 07:09:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
