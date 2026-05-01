@@ -3,122 +3,129 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-05-01 11:36 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-05-01 16:48 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 11:36:20 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Launching on May 5</title>
-      <link>https://twitter.com/elonmusk/status/a888d34a</link>
-      <description>Launching on May 5</description>
-      <guid isPermaLink="false">twitter_elonmusk_a888d34a</guid>
-      <pubDate>Fri, 01 May 2026 10:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Today we’re announcing the full rebuild of our advertising platform, the most ambitious in X’s 20-ye...</title>
-      <link>https://twitter.com/elonmusk/status/b85df158</link>
-      <description>Today we’re announcing the full rebuild of our advertising platform, the most ambitious in X’s 20-year history. This is classic X and xAI: bold, fast, and built for advertisers. I’m incredibly proud of our engineering team and everyone at X who made this happen. We designed the new ad stack from the ground up for rapid innovation - expect continuous improvements, powerful new features, greater flexibility and better performance. We look forward to working closely with our partners as we roll out this next-generation platform!</description>
-      <guid isPermaLink="false">twitter_elonmusk_b85df158</guid>
-      <pubDate>Fri, 01 May 2026 10:26:20 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 May 2026 16:48:22 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: The migration in numbers: - Team of 16 engineers worked over 6 weeks. - We reduced our footprint fro...</title>
-      <link>https://twitter.com/elonmusk/status/d9b7a11c</link>
+      <link>https://twitter.com/elonmusk/status/283f99df</link>
       <description>The migration in numbers: - Team of 16 engineers worked over 6 weeks. - We reduced our footprint from 6M CPU cores, to just 10k cores. - We are now using the same Grok-based transformer models that power your home timeline. - Eliminated 15 years of tech debt - replaced 1M LOC of Scala with just 50k LOC of Rust and Python</description>
-      <guid isPermaLink="false">twitter_elonmusk_d9b7a11c</guid>
-      <pubDate>Fri, 01 May 2026 10:31:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_283f99df</guid>
+      <pubDate>Fri, 01 May 2026 15:28:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink in Gibraltar! 🇬🇮</title>
-      <link>https://twitter.com/elonmusk/status/9c2fd46f</link>
+      <link>https://twitter.com/elonmusk/status/1e09d985</link>
       <description>Starlink in Gibraltar! 🇬🇮</description>
-      <guid isPermaLink="false">twitter_elonmusk_9c2fd46f</guid>
-      <pubDate>Fri, 01 May 2026 10:36:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1e09d985</guid>
+      <pubDate>Fri, 01 May 2026 15:33:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Today@xaijust rearranged our leaderboards… Grok 4.3 jumped 25 points to take #1 on CaseLaw v2 and cl...</title>
-      <link>https://twitter.com/elonmusk/status/65d177b9</link>
+      <link>https://twitter.com/elonmusk/status/d128a247</link>
       <description>Today@xaijust rearranged our leaderboards… Grok 4.3 jumped 25 points to take #1 on CaseLaw v2 and climbed 21 spots to lead CorpFin at 68.5%. Congrats@xai@elonmusk🚀</description>
-      <guid isPermaLink="false">twitter_elonmusk_65d177b9</guid>
-      <pubDate>Fri, 01 May 2026 10:41:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d128a247</guid>
+      <pubDate>Fri, 01 May 2026 15:38:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Try it out!</title>
-      <link>https://twitter.com/elonmusk/status/8ade8ba9</link>
+      <link>https://twitter.com/elonmusk/status/11398aba</link>
       <description>Try it out!</description>
-      <guid isPermaLink="false">twitter_elonmusk_8ade8ba9</guid>
-      <pubDate>Fri, 01 May 2026 10:46:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_11398aba</guid>
+      <pubDate>Fri, 01 May 2026 15:43:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Directly compare different Tesla models &amp; featuresTesla.com/compare</title>
-      <link>https://twitter.com/elonmusk/status/0aea26bd</link>
+      <link>https://twitter.com/elonmusk/status/5161842a</link>
       <description>Directly compare different Tesla models &amp; featuresTesla.com/compare</description>
-      <guid isPermaLink="false">twitter_elonmusk_0aea26bd</guid>
-      <pubDate>Fri, 01 May 2026 10:51:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5161842a</guid>
+      <pubDate>Fri, 01 May 2026 15:48:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Is it just me, or does it feel like the only AI I can truly trust is the one being built by Elon Mus...</title>
-      <link>https://twitter.com/elonmusk/status/686ef41f</link>
+      <link>https://twitter.com/elonmusk/status/55b5dda3</link>
       <description>Is it just me, or does it feel like the only AI I can truly trust is the one being built by Elon Musk at xAI?</description>
-      <guid isPermaLink="false">twitter_elonmusk_686ef41f</guid>
-      <pubDate>Fri, 01 May 2026 10:56:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_55b5dda3</guid>
+      <pubDate>Fri, 01 May 2026 15:53:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.3 beta just went insane with front-end design I gave it one single prompt: “Build a WWE-style...</title>
-      <link>https://twitter.com/elonmusk/status/4027ee5c</link>
+      <link>https://twitter.com/elonmusk/status/c147318f</link>
       <description>Grok 4.3 beta just went insane with front-end design I gave it one single prompt: “Build a WWE-style Fight Club website with 10 fighters” It designed a stunning, premium-quality website that genuinely looks like it was built by a full design team - Beautiful interactive fighter cards - A Fight Simulator where you pick any two fighters and it predicts the results based on their stats - It also shows the live ticket, upcoming live events basically everything a fully functional website has It even picked the perfect tagline: “Where Legends are Forged” The design quality is incredibly good. Dark mode, buttery-smooth interactions, perfect WWE energy This is next-level creative execution</description>
-      <guid isPermaLink="false">twitter_elonmusk_4027ee5c</guid>
-      <pubDate>Fri, 01 May 2026 11:01:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_c147318f</guid>
+      <pubDate>Fri, 01 May 2026 15:58:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Stating that women do not have penises is conservative. Stating that the scientific method is superi...</title>
-      <link>https://twitter.com/elonmusk/status/2ac7df46</link>
+      <link>https://twitter.com/elonmusk/status/21dc7a93</link>
       <description>Stating that women do not have penises is conservative. Stating that the scientific method is superior to ancestral tribal dances for seeking truth is conservative. Supporting a rational immigration policy is conservative. Defending freedom of speech &amp; freedom of inquiry is conservative. Stating that cultures that don't kill gays are superior to those that do is conservative. Basically, rationality is conservatism. Parasitic irrationality is progressivism.</description>
-      <guid isPermaLink="false">twitter_elonmusk_2ac7df46</guid>
-      <pubDate>Fri, 01 May 2026 11:06:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_21dc7a93</guid>
+      <pubDate>Fri, 01 May 2026 16:03:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Ever since I saw a photo like this in 2018 I wanted to do this. It took me 8 years, but I finally go...</title>
-      <link>https://twitter.com/elonmusk/status/6f7cefb2</link>
+      <link>https://twitter.com/elonmusk/status/cd144c59</link>
       <description>Ever since I saw a photo like this in 2018 I wanted to do this. It took me 8 years, but I finally got it.</description>
-      <guid isPermaLink="false">twitter_elonmusk_6f7cefb2</guid>
-      <pubDate>Fri, 01 May 2026 11:11:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_cd144c59</guid>
+      <pubDate>Fri, 01 May 2026 16:08:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: And so it begins… LA City Councilmen Hugo Soto Martinez &amp; Ysabel Jurado have unveiled a plan to let ...</title>
-      <link>https://twitter.com/elonmusk/status/362c06f4</link>
+      <link>https://twitter.com/elonmusk/status/8e5b133b</link>
       <description>And so it begins… LA City Councilmen Hugo Soto Martinez &amp; Ysabel Jurado have unveiled a plan to let "noncitizens" VOTE in LA elections There are 1.5 million noncitizens in LA 15% of their entire population</description>
-      <guid isPermaLink="false">twitter_elonmusk_362c06f4</guid>
-      <pubDate>Fri, 01 May 2026 11:16:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8e5b133b</guid>
+      <pubDate>Fri, 01 May 2026 16:13:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Troubling</title>
-      <link>https://twitter.com/elonmusk/status/c30c3541</link>
+      <link>https://twitter.com/elonmusk/status/e94624f0</link>
       <description>Troubling</description>
-      <guid isPermaLink="false">twitter_elonmusk_c30c3541</guid>
-      <pubDate>Fri, 01 May 2026 11:21:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e94624f0</guid>
+      <pubDate>Fri, 01 May 2026 16:18:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: xAI has Released Voice Cloning in API Console in US 🇺🇸</title>
-      <link>https://twitter.com/elonmusk/status/54e3c283</link>
+      <link>https://twitter.com/elonmusk/status/f8c5e437</link>
       <description>xAI has Released Voice Cloning in API Console in US 🇺🇸</description>
-      <guid isPermaLink="false">twitter_elonmusk_54e3c283</guid>
-      <pubDate>Fri, 01 May 2026 11:26:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f8c5e437</guid>
+      <pubDate>Fri, 01 May 2026 16:23:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink is seriously just awesome.</title>
-      <link>https://twitter.com/elonmusk/status/4a7f2e7e</link>
+      <link>https://twitter.com/elonmusk/status/e5db6b31</link>
       <description>Starlink is seriously just awesome.</description>
-      <guid isPermaLink="false">twitter_elonmusk_4a7f2e7e</guid>
-      <pubDate>Fri, 01 May 2026 11:31:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e5db6b31</guid>
+      <pubDate>Fri, 01 May 2026 16:28:22 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The dangerous notion that all people are interchangeable stems from the blank slate myth. Excellent ...</title>
-      <link>https://twitter.com/elonmusk/status/43402f3e</link>
+      <link>https://twitter.com/elonmusk/status/41e8ba64</link>
       <description>The dangerous notion that all people are interchangeable stems from the blank slate myth. Excellent IQ post, Penny. Great work.</description>
-      <guid isPermaLink="false">twitter_elonmusk_43402f3e</guid>
-      <pubDate>Fri, 01 May 2026 11:36:20 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_41e8ba64</guid>
+      <pubDate>Fri, 01 May 2026 16:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok 4.3</title>
+      <link>https://twitter.com/elonmusk/status/f6d333bf</link>
+      <description>Grok 4.3</description>
+      <guid isPermaLink="false">twitter_elonmusk_f6d333bf</guid>
+      <pubDate>Fri, 01 May 2026 16:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Our new 125 kW Basecharger is designed for longer dwell times and overnight charging of Semis. It's ...</title>
+      <link>https://twitter.com/elonmusk/status/a2f98e9b</link>
+      <description>Our new 125 kW Basecharger is designed for longer dwell times and overnight charging of Semis. It's the "home charging" for heavy-duty fleets. It features a fully integrated design that eliminates the need for a separate AC-to-DC cabinet, simplifying installation. The 6 meter cable offers layout flexibility for all depots. Up to 3 Basechargers can be daisy-chained on a single breaker (sharing 125 kVA) to further reduce installation and operational costs.</description>
+      <guid isPermaLink="false">twitter_elonmusk_a2f98e9b</guid>
+      <pubDate>Fri, 01 May 2026 16:43:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: I'm discovering the use of agent mode on Grok Imagine. It's a revolution in the use of generative AI...</title>
+      <link>https://twitter.com/elonmusk/status/54ac96f6</link>
+      <description>I'm discovering the use of agent mode on Grok Imagine. It's a revolution in the use of generative AI.</description>
+      <guid isPermaLink="false">twitter_elonmusk_54ac96f6</guid>
+      <pubDate>Fri, 01 May 2026 16:48:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
