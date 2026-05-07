@@ -3,136 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-05-07 20:46 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-05-07 21:49 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 20:46:00 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Neuralink progress</title>
-      <link>https://twitter.com/elonmusk/status/ad5a6cf4</link>
-      <description>Neuralink progress</description>
-      <guid isPermaLink="false">twitter_elonmusk_ad5a6cf4</guid>
-      <pubDate>Thu, 07 May 2026 19:21:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 21:49:35 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Let's consult the historical record to see what the Aztec society was up to when the Spanish conquer...</title>
-      <link>https://twitter.com/elonmusk/status/5c92a82f</link>
+      <link>https://twitter.com/elonmusk/status/3bbf36f9</link>
       <description>Let's consult the historical record to see what the Aztec society was up to when the Spanish conquered it. First, from Cortes: “They have a most horrid and abominable custom which truly ought to be punished and which until now we have seen in no other part, and this is that, whenever they wish to ask something of the idols, in order that their plea may find more acceptance, they take many girls and boys and even adults, and in the presence of the idols they open their chests while they are still alive and take out their hearts and entrails and burn them before the idols, offering the smoke as sacrifice. Some of us have seen this, and they say it is the most terrible and frightful thing they have ever witnessed… not one year passes in which they do not kill and sacrifice some fifty persons in each temple; and this is done and held as customary… not one year has passed… in which three or four thousand souls have not been sacrificed in this manner.” And now Bernal Diaz del Castillo: “The dismal drum of Huichilobos sounded again, accompanied by conches, horns and trumpet-like instruments. It was a terrifying sound, and when we looked at the tall cue [temple] from which it came we saw our comrades who had been captured in Cortes’ defeat being dragged up the steps to be sacrificed. When they had hauled them up to a small platform in front of the shrine where they kept their accursed idols we saw them put plumes on the heads of many of them; and they made them dance with a sort of fan in front of Huichilobos. Then after they had danced the papas [priests] laid them down on their backs on some narrow stones of sacrifice and, cutting open their chests, drew out their palpitating hearts which they offered to the idols before them.” ... “Every day we saw sacrificed before us three, four or five Indians whose hearts were offered to the idols and their blood plastered on the walls, and their feet, arms and legs of the victims were cut off and eaten… Every wall of this chapel and the whole floor, had become almost black with human blood, and… the stench was worse than in a Spanish slaughter-house.” ... “When we arrived at the great market place, called Tlaltelolco, we were astounded at the number of people and the quantity of merchandise that it contained… Let us begin with the dealers in gold, silver, and precious stones, feathers, mantles, and embroidered goods. Then there were other wares consisting of Indian slaves both men and women; and I say that they bring as many of them to that great market for sale as the Portuguese bring negroes from Guinea…. They brought some of them tied to long poles by means of collars around their necks so they would not escape, and others left loose.” ~~ This is what the Spanish conquered in the name of Christendom - a Stone-Age society consumed with ritualistic human sacrifice, cannibalism and slavery.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5c92a82f</guid>
-      <pubDate>Thu, 07 May 2026 19:26:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_3bbf36f9</guid>
+      <pubDate>Thu, 07 May 2026 20:24:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Image Generation Quality Mode is now available on the xAI API. This model has already powered the ge...</title>
-      <link>https://twitter.com/elonmusk/status/c49fac33</link>
+      <link>https://twitter.com/elonmusk/status/1dc4738c</link>
       <description>Image Generation Quality Mode is now available on the xAI API. This model has already powered the generation of over 300 million images on Grok. It brings higher realism, stronger text rendering, and better creative control for business professionals.x.ai/news/grok-imagine-quali…</description>
-      <guid isPermaLink="false">twitter_elonmusk_c49fac33</guid>
-      <pubDate>Thu, 07 May 2026 19:31:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1dc4738c</guid>
+      <pubDate>Thu, 07 May 2026 20:29:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceXAI and@AnthropicAIhave also expressed interest in partnering to develop multiple gigawatts of ...</title>
-      <link>https://twitter.com/elonmusk/status/e1370ea2</link>
+      <link>https://twitter.com/elonmusk/status/bb9ddc8d</link>
       <description>SpaceXAI and@AnthropicAIhave also expressed interest in partnering to develop multiple gigawatts of orbital AI compute capacity</description>
-      <guid isPermaLink="false">twitter_elonmusk_e1370ea2</guid>
-      <pubDate>Thu, 07 May 2026 19:36:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bb9ddc8d</guid>
+      <pubDate>Thu, 07 May 2026 20:34:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Connectors quick rundown. xAI shipped native app connections. OAuth your Gmail, Calendar, Drive...</title>
-      <link>https://twitter.com/elonmusk/status/9a1a0a35</link>
+      <link>https://twitter.com/elonmusk/status/8fb33534</link>
       <description>Grok Connectors quick rundown. xAI shipped native app connections. OAuth your Gmail, Calendar, Drive, GitHub, Notion, Slack, Linear, Microsoft directly into Grok. Grok starts using your tools. Live data, scoped permissions, revoke anytime. Useful patterns: "summarize yesterday across email, calendar, notion" "open github issues assigned to me" "calendar this week, flag conflicts" "draft a reply to the last slack from x"</description>
-      <guid isPermaLink="false">twitter_elonmusk_9a1a0a35</guid>
-      <pubDate>Thu, 07 May 2026 19:41:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8fb33534</guid>
+      <pubDate>Thu, 07 May 2026 20:39:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Incentives drive outcomes</title>
-      <link>https://twitter.com/elonmusk/status/37a76f91</link>
+      <link>https://twitter.com/elonmusk/status/d12448bc</link>
       <description>Incentives drive outcomes</description>
-      <guid isPermaLink="false">twitter_elonmusk_37a76f91</guid>
-      <pubDate>Thu, 07 May 2026 19:46:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d12448bc</guid>
+      <pubDate>Thu, 07 May 2026 20:44:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: “Be stronger than those who hate you, so that they cannot destroy you, and then forgive them.” – Elo...</title>
-      <link>https://twitter.com/elonmusk/status/e330b0ba</link>
+      <link>https://twitter.com/elonmusk/status/a378e066</link>
       <description>“Be stronger than those who hate you, so that they cannot destroy you, and then forgive them.” – Elon Musk</description>
-      <guid isPermaLink="false">twitter_elonmusk_e330b0ba</guid>
-      <pubDate>Thu, 07 May 2026 19:51:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a378e066</guid>
+      <pubDate>Thu, 07 May 2026 20:49:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceX / xAI orbital datacenters will be wild...</title>
-      <link>https://twitter.com/elonmusk/status/7a03e138</link>
+      <link>https://twitter.com/elonmusk/status/dac17089</link>
       <description>SpaceX / xAI orbital datacenters will be wild...</description>
-      <guid isPermaLink="false">twitter_elonmusk_7a03e138</guid>
-      <pubDate>Thu, 07 May 2026 19:56:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_dac17089</guid>
+      <pubDate>Thu, 07 May 2026 20:54:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok continues to make progress</title>
-      <link>https://twitter.com/elonmusk/status/3e92b637</link>
+      <link>https://twitter.com/elonmusk/status/9988a108</link>
       <description>Grok continues to make progress</description>
-      <guid isPermaLink="false">twitter_elonmusk_3e92b637</guid>
-      <pubDate>Thu, 07 May 2026 20:01:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9988a108</guid>
+      <pubDate>Thu, 07 May 2026 20:59:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Elon Musk: "I'm actually quite a big fan of tunnels. Tunnels are so under-appreciated."</title>
-      <link>https://twitter.com/elonmusk/status/e5360683</link>
+      <link>https://twitter.com/elonmusk/status/330e543c</link>
       <description>Elon Musk: "I'm actually quite a big fan of tunnels. Tunnels are so under-appreciated."</description>
-      <guid isPermaLink="false">twitter_elonmusk_e5360683</guid>
-      <pubDate>Thu, 07 May 2026 20:06:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_330e543c</guid>
+      <pubDate>Thu, 07 May 2026 21:04:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Anyone in LA who isn’t voting for@spencerprattis a total idiot. This isn’t even close.</title>
-      <link>https://twitter.com/elonmusk/status/2168ea39</link>
+      <link>https://twitter.com/elonmusk/status/236b77e9</link>
       <description>Anyone in LA who isn’t voting for@spencerprattis a total idiot. This isn’t even close.</description>
-      <guid isPermaLink="false">twitter_elonmusk_2168ea39</guid>
-      <pubDate>Thu, 07 May 2026 20:11:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_236b77e9</guid>
+      <pubDate>Thu, 07 May 2026 21:09:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Pictures from a vanished civilization</title>
-      <link>https://twitter.com/elonmusk/status/194a5e7a</link>
+      <link>https://twitter.com/elonmusk/status/83dba3ac</link>
       <description>Pictures from a vanished civilization</description>
-      <guid isPermaLink="false">twitter_elonmusk_194a5e7a</guid>
-      <pubDate>Thu, 07 May 2026 20:16:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_83dba3ac</guid>
+      <pubDate>Thu, 07 May 2026 21:14:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🚨 WTF?! Minnesota Democrats have voted UNANIMOUSLY to BLOCK a requirement to remove DEAD PEOPLE from...</title>
-      <link>https://twitter.com/elonmusk/status/a5b630a4</link>
+      <link>https://twitter.com/elonmusk/status/b1176fbf</link>
       <description>🚨 WTF?! Minnesota Democrats have voted UNANIMOUSLY to BLOCK a requirement to remove DEAD PEOPLE from the voter rolls, per@GrageDustinHow much more obvious can they make it??! These people are rigging elections right in front of our faces Scumbags.</description>
-      <guid isPermaLink="false">twitter_elonmusk_a5b630a4</guid>
-      <pubDate>Thu, 07 May 2026 20:21:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_b1176fbf</guid>
+      <pubDate>Thu, 07 May 2026 21:19:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: tremendous political alpha in just getting on a stage and telling the truth</title>
-      <link>https://twitter.com/elonmusk/status/1b6ddb14</link>
+      <link>https://twitter.com/elonmusk/status/29bea585</link>
       <description>tremendous political alpha in just getting on a stage and telling the truth</description>
-      <guid isPermaLink="false">twitter_elonmusk_1b6ddb14</guid>
-      <pubDate>Thu, 07 May 2026 20:26:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_29bea585</guid>
+      <pubDate>Thu, 07 May 2026 21:24:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Over 450 remote villages across the island nation of Timor-Leste in Southeast Asia now have high-spe...</title>
-      <link>https://twitter.com/elonmusk/status/47e9081a</link>
+      <link>https://twitter.com/elonmusk/status/da911b00</link>
       <description>Over 450 remote villages across the island nation of Timor-Leste in Southeast Asia now have high-speed internet access thanks to SpaceX’s@Starlink, helping expand digital government services, education, and healthcare access. "In many communities, students previously had limited or no access to digital learning opportunities. Now classrooms are connecting with the world.” Teachers can now access updated educational resources, online training and digital teaching tools that were previously unavailable due to connectivity limitations. “Timor-Leste is undergoing a digital leap forward,” Vorakai Lda, Chair, Tammy Kassiou said. “For decades, many remote communities have been effectively cut off from reliable access to information, services and opportunity due to infrastructure limitations. This initiative is fundamentally changing that reality.” Starlink stories like these deserve more coverage, because this technology is literally changing these people's lives for the better.</description>
-      <guid isPermaLink="false">twitter_elonmusk_47e9081a</guid>
-      <pubDate>Thu, 07 May 2026 20:31:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_da911b00</guid>
+      <pubDate>Thu, 07 May 2026 21:29:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Only when you drive the Cybertruck do you realize how incredible it is: a bulletproof tank that move...</title>
-      <link>https://twitter.com/elonmusk/status/84c0d69a</link>
+      <link>https://twitter.com/elonmusk/status/9676eeaa</link>
       <description>Only when you drive the Cybertruck do you realize how incredible it is: a bulletproof tank that moves like a million dollar sports car! Reason for the angular shape is that the thick, ultra-hard stainless steel body panels cannot be stamped like the thin, feeble, paper-strength mild steel of other trucks. Cybertruck body panels would break 5000 ton stamping machines.</description>
-      <guid isPermaLink="false">twitter_elonmusk_84c0d69a</guid>
-      <pubDate>Thu, 07 May 2026 20:36:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9676eeaa</guid>
+      <pubDate>Thu, 07 May 2026 21:34:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: So, how many Greeks are acting in Christopher Nolan’s new film The Odyssey? Oh, I forgot. Cultural a...</title>
-      <link>https://twitter.com/elonmusk/status/790efc74</link>
+      <link>https://twitter.com/elonmusk/status/dc3b41ea</link>
       <description>So, how many Greeks are acting in Christopher Nolan’s new film The Odyssey? Oh, I forgot. Cultural appropriation only works one way, doesn’t it.</description>
-      <guid isPermaLink="false">twitter_elonmusk_790efc74</guid>
-      <pubDate>Thu, 07 May 2026 20:41:00 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_dc3b41ea</guid>
+      <pubDate>Thu, 07 May 2026 21:39:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Badass tank that beats your sports car in a drag race</title>
+      <link>https://twitter.com/elonmusk/status/b467e695</link>
+      <description>Badass tank that beats your sports car in a drag race</description>
+      <guid isPermaLink="false">twitter_elonmusk_b467e695</guid>
+      <pubDate>Thu, 07 May 2026 21:44:35 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Beautiful machines in space</title>
       <link>https://twitter.com/elonmusk/status/5d1a403d</link>
       <description>Beautiful machines in space</description>
       <guid isPermaLink="false">twitter_elonmusk_5d1a403d</guid>
-      <pubDate>Thu, 07 May 2026 20:46:00 +0000</pubDate>
+      <pubDate>Thu, 07 May 2026 21:49:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
