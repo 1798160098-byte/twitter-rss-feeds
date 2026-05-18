@@ -3,122 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-05-18 18:27 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-05-18 21:43 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 18:27:10 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: xcancel.com/stevenmarkryan/status/…</title>
-      <link>https://twitter.com/elonmusk/status/a505b807</link>
-      <description>xcancel.com/stevenmarkryan/status/…</description>
-      <guid isPermaLink="false">twitter_elonmusk_a505b807</guid>
-      <pubDate>Mon, 18 May 2026 17:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Summary of Elon Musk’s interview at the Samson International Smart Mobility Summit today. 1. St...</title>
-      <link>https://twitter.com/elonmusk/status/b4cb09f1</link>
-      <description>Grok Summary of Elon Musk’s interview at the Samson International Smart Mobility Summit today. 1. Strong praise for Israel’s innovation edge Elon called out Israel’s outsized impact, saying it “punches way above its weight, probably #1 in the world” in innovation per capita. He expressed clear admiration for the country’s tech ecosystem, especially in AI and mobility. 2. Tesla FSD &amp; unsupervised robotaxis — near-term reality •Unsupervised robotaxis are coming soon. •Tesla is already running driverless tests in select Texas areas. •FSD availability: Elon stated it will roll out in both the US and Israel by the end of 2026. •As the AI improves, cars will feel increasingly “alive.” •Prediction: In about 10 years, most driving will be AI-handled. 3. Humanoid robots → abundance economy Elon painted a future where humanoid robots (Optimus and others) vastly outnumber humans. This shift, he said, will create massive abundance and could enable ideas like “universal high income.” He framed smart mobility as part of this broader robotics/AI revolution. 4. Starship, multi-planetary life &amp; Neuralink •Starship’s rapid reusability is the key unlock for becoming multi-planetary and building cities on Mars. •Neuralink was briefly highlighted for restoring function to people with paralysis or vision loss — described in one summary as potentially “Jesus-level” impact. •All of these threads (autonomy, robots, space, brain interfaces) connect to one overarching goal: “maximize the probability that civilization has a great future.” 5. Balanced optimism with risk awareness Classic Elon: big-picture excitement tempered by realism. He noted risks (including rogue robots/AI) but emphasized proactive development and deployment as the path forward.</description>
-      <guid isPermaLink="false">twitter_elonmusk_b4cb09f1</guid>
-      <pubDate>Mon, 18 May 2026 17:17:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Yeah, /implement is easily my #1 skill. It’s not just the implement → review → fix loop that gives w...</title>
-      <link>https://twitter.com/elonmusk/status/ae66a7aa</link>
-      <description>Yeah, /implement is easily my #1 skill. It’s not just the implement → review → fix loop that gives way better output — it also has a built-in memory system. After each task, the orchestrator summarises the issues that were fixed, saves them to a persistent file of “most common problems,” and on the next run injects that knowledge into the implementer + reviewer prompts so they avoid repeating the same mistakes.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ae66a7aa</guid>
-      <pubDate>Mon, 18 May 2026 17:22:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: The murderous lunatic left</title>
-      <link>https://twitter.com/elonmusk/status/055895af</link>
-      <description>The murderous lunatic left</description>
-      <guid isPermaLink="false">twitter_elonmusk_055895af</guid>
-      <pubDate>Mon, 18 May 2026 17:27:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Calling everyone you disagree with “far right” has destroyed the meaning of the term. I’m sick of se...</title>
-      <link>https://twitter.com/elonmusk/status/ae0345a3</link>
-      <description>Calling everyone you disagree with “far right” has destroyed the meaning of the term. I’m sick of seeing serious labels abused to smear ordinary people with legitimate concerns. In 2015, before Brexit, over 50% of the country was concerned about immigration. Does that make half the country “far right”? Throwing these labels around is reckless, dishonest, and damaging to public debate.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ae0345a3</guid>
-      <pubDate>Mon, 18 May 2026 17:32:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: But this book for your friends for the defense of Western Civilization!</title>
-      <link>https://twitter.com/elonmusk/status/b7f5a06b</link>
-      <description>But this book for your friends for the defense of Western Civilization!</description>
-      <guid isPermaLink="false">twitter_elonmusk_b7f5a06b</guid>
-      <pubDate>Mon, 18 May 2026 17:37:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 21:43:59 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Woke up to see that Grok Build finished my feature build from last night. But what's the most intere...</title>
-      <link>https://twitter.com/elonmusk/status/94139ed3</link>
+      <link>https://twitter.com/elonmusk/status/1f725ecf</link>
       <description>Woke up to see that Grok Build finished my feature build from last night. But what's the most interesting to me, is that it has a set of suggestions for what to do to really make sure everything is done right. This is different from any other agentic coding agent I've used. Normally, coding agents just end when they finish a task, but with Grok Build, it always ends by suggesting things like small targeted fix rounds. Really neat. Almost like a senior dev who says, hey - I know you think you're done, but if you really want to do it right, here's what I would do.</description>
-      <guid isPermaLink="false">twitter_elonmusk_94139ed3</guid>
-      <pubDate>Mon, 18 May 2026 17:42:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1f725ecf</guid>
+      <pubDate>Mon, 18 May 2026 20:18:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: How one NGO spun a spiders web of 40 activist orgs, gov't officials, legislators &amp; lawyers into pass...</title>
-      <link>https://twitter.com/elonmusk/status/9b4ca752</link>
+      <link>https://twitter.com/elonmusk/status/a55c795d</link>
       <description>How one NGO spun a spiders web of 40 activist orgs, gov't officials, legislators &amp; lawyers into passing the UK Online Censorship Act suppressing every US platform and millions of British citizens today. Britain, you got CUKT (Carnegie UK Trust)</description>
-      <guid isPermaLink="false">twitter_elonmusk_9b4ca752</guid>
-      <pubDate>Mon, 18 May 2026 17:47:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a55c795d</guid>
+      <pubDate>Mon, 18 May 2026 20:23:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Indeed</title>
-      <link>https://twitter.com/elonmusk/status/de2bb04a</link>
+      <link>https://twitter.com/elonmusk/status/24a46944</link>
       <description>Indeed</description>
-      <guid isPermaLink="false">twitter_elonmusk_de2bb04a</guid>
-      <pubDate>Mon, 18 May 2026 17:52:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_24a46944</guid>
+      <pubDate>Mon, 18 May 2026 20:28:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok agent mode is a major ability unlock</title>
-      <link>https://twitter.com/elonmusk/status/b19007de</link>
+      <link>https://twitter.com/elonmusk/status/1b614388</link>
       <description>Grok agent mode is a major ability unlock</description>
-      <guid isPermaLink="false">twitter_elonmusk_b19007de</guid>
-      <pubDate>Mon, 18 May 2026 17:57:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1b614388</guid>
+      <pubDate>Mon, 18 May 2026 20:33:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Reminder that Grok Build is iterating extremely fast and we are highly responsive to critical feedba...</title>
-      <link>https://twitter.com/elonmusk/status/9d9a7fff</link>
+      <link>https://twitter.com/elonmusk/status/c338db5e</link>
       <description>Reminder that Grok Build is iterating extremely fast and we are highly responsive to critical feedback. Fixes &amp; upgrades are dropping every day.</description>
-      <guid isPermaLink="false">twitter_elonmusk_9d9a7fff</guid>
-      <pubDate>Mon, 18 May 2026 18:02:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_c338db5e</guid>
+      <pubDate>Mon, 18 May 2026 20:38:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Elon Musk on “Suicidal Empathy”: Gad Saad has a good way to describe it “Suicidal empathy” - where y...</title>
-      <link>https://twitter.com/elonmusk/status/c31d2b59</link>
+      <link>https://twitter.com/elonmusk/status/48f104d7</link>
       <description>Elon Musk on “Suicidal Empathy”: Gad Saad has a good way to describe it “Suicidal empathy” - where you prey upon people’s empathy so much that it becomes suicidal to your own country and culture You feel sorry for the criminals, but show zero empathy for the victims This is why someone arrested 47 times for violent offenses gets released and then murders somebody We've become so blindly compassionate toward predators that "we're actually allowing our women to get r@ped and our children to get killed" We should have empathy. But that empathy must go to the victims - not the criminals This suicidal empathy has gone too far</description>
-      <guid isPermaLink="false">twitter_elonmusk_c31d2b59</guid>
-      <pubDate>Mon, 18 May 2026 18:07:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_48f104d7</guid>
+      <pubDate>Mon, 18 May 2026 20:43:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Please help make Grok Build great! Much appreciated, Elon.</title>
-      <link>https://twitter.com/elonmusk/status/78eaba59</link>
+      <link>https://twitter.com/elonmusk/status/8c0d492f</link>
       <description>Please help make Grok Build great! Much appreciated, Elon.</description>
-      <guid isPermaLink="false">twitter_elonmusk_78eaba59</guid>
-      <pubDate>Mon, 18 May 2026 18:12:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8c0d492f</guid>
+      <pubDate>Mon, 18 May 2026 20:48:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Try it out! (Partially trained on Colossus 2)</title>
-      <link>https://twitter.com/elonmusk/status/4033e59e</link>
+      <link>https://twitter.com/elonmusk/status/edadc9cd</link>
       <description>Try it out! (Partially trained on Colossus 2)</description>
-      <guid isPermaLink="false">twitter_elonmusk_4033e59e</guid>
-      <pubDate>Mon, 18 May 2026 18:17:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_edadc9cd</guid>
+      <pubDate>Mon, 18 May 2026 20:53:59 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Composer 2.5 is a significant step up from Composer 2. This is the very start of our work with Space...</title>
-      <link>https://twitter.com/elonmusk/status/1d6f7876</link>
+      <link>https://twitter.com/elonmusk/status/aab43147</link>
       <description>Composer 2.5 is a significant step up from Composer 2. This is the very start of our work with SpaceXAI. Hope to have more improvements out soon.</description>
-      <guid isPermaLink="false">twitter_elonmusk_1d6f7876</guid>
-      <pubDate>Mon, 18 May 2026 18:22:10 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_aab43147</guid>
+      <pubDate>Mon, 18 May 2026 20:58:59 +0000</pubDate>
     </item>
     <item>
-      <title>@elonmusk: 𝕏 now has over a billion downloads</title>
-      <link>https://twitter.com/elonmusk/status/e2fcc4aa</link>
-      <description>𝕏 now has over a billion downloads</description>
-      <guid isPermaLink="false">twitter_elonmusk_e2fcc4aa</guid>
-      <pubDate>Mon, 18 May 2026 18:27:10 +0000</pubDate>
+      <title>@elonmusk: These kids are serial criminals with a callous disregard for life. If they are ever released from ja...</title>
+      <link>https://twitter.com/elonmusk/status/be40da64</link>
+      <description>These kids are serial criminals with a callous disregard for life. If they are ever released from jail they will surely harm again. Austin PD, Travis Co. Sheriff Office &amp; Manor PD did their job. Texas Dept. of Public Safety aided them. The DA &amp; Court must do their job and keep these criminals behind bars.katv.com/news/nation-world/a…</description>
+      <guid isPermaLink="false">twitter_elonmusk_be40da64</guid>
+      <pubDate>Mon, 18 May 2026 21:03:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as ...</title>
+      <link>https://twitter.com/elonmusk/status/41fa9bce</link>
+      <description>This illustrates why the ruling by the terrible activist Oakland judge, who simply used the jury as a fig leaf, creates such a terrible precedent. She just handed out a free license to loot charities if you can keep the looting quiet for a few years!</description>
+      <guid isPermaLink="false">twitter_elonmusk_41fa9bce</guid>
+      <pubDate>Mon, 18 May 2026 21:08:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The long journey of rock in Nashville</title>
+      <link>https://twitter.com/elonmusk/status/22fb6456</link>
+      <description>The long journey of rock in Nashville</description>
+      <guid isPermaLink="false">twitter_elonmusk_22fb6456</guid>
+      <pubDate>Mon, 18 May 2026 21:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: yeah that's pretty good xAI might be able to cook with Cursor data + 10T model</title>
+      <link>https://twitter.com/elonmusk/status/f4a55d80</link>
+      <description>yeah that's pretty good xAI might be able to cook with Cursor data + 10T model</description>
+      <guid isPermaLink="false">twitter_elonmusk_f4a55d80</guid>
+      <pubDate>Mon, 18 May 2026 21:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: We've gotten really really good at RL. Composer 2.5 is fighting well-above its weight class. Very ex...</title>
+      <link>https://twitter.com/elonmusk/status/9e8e7a16</link>
+      <description>We've gotten really really good at RL. Composer 2.5 is fighting well-above its weight class. Very excited for the next release as we scale model sizes and FLOPs with@SpaceXAI!</description>
+      <guid isPermaLink="false">twitter_elonmusk_9e8e7a16</guid>
+      <pubDate>Mon, 18 May 2026 21:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Insane</title>
+      <link>https://twitter.com/elonmusk/status/acf790f2</link>
+      <description>Insane</description>
+      <guid isPermaLink="false">twitter_elonmusk_acf790f2</guid>
+      <pubDate>Mon, 18 May 2026 21:28:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: the team did an internal test of this model last week the whole company (bar a few exceptions) had a...</title>
+      <link>https://twitter.com/elonmusk/status/83467ef7</link>
+      <description>the team did an internal test of this model last week the whole company (bar a few exceptions) had all their cursor chats redirected to composer 2.5 for like 2 days. i didn't even notice, which I think is testament to the progress of this model. go use it, its very good.</description>
+      <guid isPermaLink="false">twitter_elonmusk_83467ef7</guid>
+      <pubDate>Mon, 18 May 2026 21:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Judge Yvonne Gonzalez Rogers basically waved off Elon’s OpenAI appeal, saying the jury’s statute of ...</title>
+      <link>https://twitter.com/elonmusk/status/3f290dff</link>
+      <description>Judge Yvonne Gonzalez Rogers basically waved off Elon’s OpenAI appeal, saying the jury’s statute of limitations ruling is tough to overturn. An activist judge letting Sam Altman skate after he hijacked a nonprofit charity — originally pledged to benefit all humanity — and turned it into his $150B+ personal for-profit empire? That’s not justice. Stealing a charity for profit is not OK. You don’t get to rewrite the mission, pocket the upside, and hide behind “time limits” while betraying the public trust. OpenAI’s founding promise was destroyed in broad daylight. This makes zero sense.</description>
+      <guid isPermaLink="false">twitter_elonmusk_3f290dff</guid>
+      <pubDate>Mon, 18 May 2026 21:38:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Regarding the OpenAI case, the judge &amp; jury never actually ruled on the merits of the case, just on ...</title>
+      <link>https://twitter.com/elonmusk/status/2085e54c</link>
+      <description>Regarding the OpenAI case, the judge &amp; jury never actually ruled on the merits of the case, just on a calendar technicality. There is no question to anyone following the case in detail that Altman &amp; Brockman did in fact enrich themselves by stealing a charity. The only question is WHEN they did it! I will be filing an appeal with the Ninth Circuit, because creating a precedent to loot charities is incredibly destructive to charitable giving in America. OpenAI was founded to benefit all of humanity.</description>
+      <guid isPermaLink="false">twitter_elonmusk_2085e54c</guid>
+      <pubDate>Mon, 18 May 2026 21:43:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
