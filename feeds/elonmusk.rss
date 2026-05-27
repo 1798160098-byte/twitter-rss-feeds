@@ -3,18 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-05-27 17:39 UTC | 来源实例: none</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-05-27 20:04 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 17:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:04:27 +0000</lastBuildDate>
     <item>
-      <title>@elonmusk - 暂无新推文或获取失败</title>
-      <link>https://twitter.com/elonmusk</link>
-      <description>更新时间: 2026-05-27 17:39 UTC
-尝试的实例: none</description>
-      <guid isPermaLink="false">placeholder_elonmusk_1779903543</guid>
-      <pubDate>Wed, 27 May 2026 17:39:03 +0000</pubDate>
+      <title>@elonmusk: NASA has just launched a new website for its Moon Base missions, which aims to build a permanent $20...</title>
+      <link>https://twitter.com/elonmusk/status/401c6bc8</link>
+      <description>NASA has just launched a new website for its Moon Base missions, which aims to build a permanent $20 billion U.S. base on the Moon.@SpaceX's Starship rocket will play a big role in these missions. "The Moon Base is a home away from Earth for Artemis astronauts who will live and work at humanity’s first lunar outpost. NASA is leading global teams of innovators across international space agencies, industry, and academia to build the Moon Base and establish an enduring human presence near the lunar South Pole for the benefit of all. Phase One (Now–2029): Experiment and Learn NASA will begin with a rapid series of robotic missions to scout the lunar South Pole region, test technologies, and prepare for surface operations ahead of future astronaut missions.: • A major increase in lunar activity, with up to 25 missions, including 21 landings. • Crewed and autonomous rovers for mobility demonstrations and surface preparation, along with four drones known as MoonFall and communications relay and observation satellites. • Early demonstrations of power, navigation, communications, and nuclear radioisotope heater unit technologies designed to endure the long lunar night. • Scientific payload opportunities integrated across landers and rovers. • The first tangible footprint of Moon Base effort, with four tons of payload delivered to test what works on the lunar surface. Phase Two (2029–2032): Early Habitation By 2029, NASA will transition to assembling semi-permanent infrastructure and initiating early habitation and logistics operations: • Deployment of expanded solar power systems and initial nuclear surface power capabilities, potentially including fission reactors and radioisotope power systems. • Upgraded rovers, potential advanced MoonFall drones, and early habitation elements. • Enhanced surface-to-orbit communications networks to provide reliable connectivity across the lunar South Pole region. • Delivery of up to 60 tons of cargo through as many as 24 landings using low-, medium-, and heavy-class cargo landers. Phase Three (2032 and Beyond): Sustained Human Presence This phase will scale operations to achieve a true enduring presence, with routine crew rotations and continuous surface activity. This is when living and working on the Moon becomes a reality: • Semi-permanent habitation modules with spacious interior for crew living and operations. • Operational fission surface power systems capable of delivering steady, reliable energy through the long lunar nights, leveraging in situ resource manufacturing. • Advanced logistics networks supported by crewed and autonomous rovers to keep the base supplied and functioning year-round. • Delivery of up to 38 tons of cargo annually to sustain habitats, power systems, logistics operations, and major science outposts, enabled by low-cost reusable heavy-lift capabilities." Moon base website:nasa.gov/moonbase/</description>
+      <guid isPermaLink="false">twitter_elonmusk_401c6bc8</guid>
+      <pubDate>Wed, 27 May 2026 18:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Time to build major base on the Moon!</title>
+      <link>https://twitter.com/elonmusk/status/c3d0c1a9</link>
+      <description>Time to build major base on the Moon!</description>
+      <guid isPermaLink="false">twitter_elonmusk_c3d0c1a9</guid>
+      <pubDate>Wed, 27 May 2026 18:44:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Inspiring!</title>
+      <link>https://twitter.com/elonmusk/status/d00d43b4</link>
+      <description>Inspiring!</description>
+      <guid isPermaLink="false">twitter_elonmusk_d00d43b4</guid>
+      <pubDate>Wed, 27 May 2026 18:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Thank you so much for all the feedback on the Grok Build Beta. Some of you reported hitting limits q...</title>
+      <link>https://twitter.com/elonmusk/status/45007bf9</link>
+      <description>Thank you so much for all the feedback on the Grok Build Beta. Some of you reported hitting limits quickly. Our team found areas to improve caching, so we've reset Grok Build usage limits for all accounts. Please keep sharing feedback - the team is here to help.</description>
+      <guid isPermaLink="false">twitter_elonmusk_45007bf9</guid>
+      <pubDate>Wed, 27 May 2026 18:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate...</title>
+      <link>https://twitter.com/elonmusk/status/d700ee47</link>
+      <description>Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate, data-driven political speech about mass migration — as this ruling appears to explicitly contemplate. Doing so means that people willing to be convicted of “racism” get a monopoly on making arguments that strike large segments of the public as important and true.</description>
+      <guid isPermaLink="false">twitter_elonmusk_d700ee47</guid>
+      <pubDate>Wed, 27 May 2026 18:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI) - add “Yes, and ...</title>
+      <link>https://twitter.com/elonmusk/status/8bdd6ef8</link>
+      <description>Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI) - add “Yes, and don't ask again for anything (always-approve mode)" - add alpha/stable to welcome screen - JetBrains/JediTerm terminal detection so TUI does not get confused and detect it as some other terminal - persist model ID instead of display name for default_model - clamp Q&amp;A height to prevent ratatui buffer overflow - better UX for tmux inside ssh copy-paste issues - store vim mode persistently in the config.toml to prevent restart loss - memory usage improvements for managing chat history on the hot path</description>
+      <guid isPermaLink="false">twitter_elonmusk_8bdd6ef8</guid>
+      <pubDate>Wed, 27 May 2026 19:04:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Thank Heaven for the First Amendment in America!</title>
+      <link>https://twitter.com/elonmusk/status/1e8f7dfc</link>
+      <description>Thank Heaven for the First Amendment in America!</description>
+      <guid isPermaLink="false">twitter_elonmusk_1e8f7dfc</guid>
+      <pubDate>Wed, 27 May 2026 19:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Wise words</title>
+      <link>https://twitter.com/elonmusk/status/47c8838b</link>
+      <description>Wise words</description>
+      <guid isPermaLink="false">twitter_elonmusk_47c8838b</guid>
+      <pubDate>Wed, 27 May 2026 19:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Elon Musk’s goal for The Boring Company is to solve one of the most miserable daily experiences on E...</title>
+      <link>https://twitter.com/elonmusk/status/31f6c6a8</link>
+      <description>Elon Musk’s goal for The Boring Company is to solve one of the most miserable daily experiences on Earth: traffic Cities are three-dimensional But transportation is still mostly trapped in a two-dimensional surface network Roads, intersections, bottlenecks, traffic lights, accidents, construction, weather - everything gets stacked on the same flat layer until the entire system chokes The Boring Company’s answer is simple but radical: Go underground Build fast, low-cost tunnel networks under major cities and turn transportation into true 3D infrastructure Right now, the focus is on making tunneling dramatically faster and cheaper with machines like Prufrock, which is designed to mine continuously while installing tunnel liner at the same time But the long-term vision goes much further Local Loop tunnels could move people across cities without surface traffic, while future Hyperloop-style systems could connect entire cities at ultra-high speed Imagine going from Los Angeles to San Francisco, New York to Washington D.C., or Dubai to Abu Dhabi in a fraction of today’s travel time - underground, electric, direct, and protected from surface congestion That is the real mission: Building the missing third dimension of transportation This is how you actually attack soul-destroying traffic at civilization scale</description>
+      <guid isPermaLink="false">twitter_elonmusk_31f6c6a8</guid>
+      <pubDate>Wed, 27 May 2026 19:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Prices are critical information without an economy cannot function</title>
+      <link>https://twitter.com/elonmusk/status/67858028</link>
+      <description>Prices are critical information without an economy cannot function</description>
+      <guid isPermaLink="false">twitter_elonmusk_67858028</guid>
+      <pubDate>Wed, 27 May 2026 19:24:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: "Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was st...</title>
+      <link>https://twitter.com/elonmusk/status/d40d816a</link>
+      <description>"Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was still working. I think he must have gone till 2am. So I don't know anybody who works as hard as him. He's really in the technical details of it." 一 David Sacks</description>
+      <guid isPermaLink="false">twitter_elonmusk_d40d816a</guid>
+      <pubDate>Wed, 27 May 2026 19:29:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Elon Musk on why humanity must become multiplanetary: “I think it's important for the long-term pres...</title>
+      <link>https://twitter.com/elonmusk/status/dfb87660</link>
+      <description>Elon Musk on why humanity must become multiplanetary: “I think it's important for the long-term preservation and ultimately the expansion and extension of the scope and scale of consciousness... that we must become a multi-planet species Because there are all these risks that we can't control existential risks. There's asteroids, super volcanoes, we could have a World War III... History does not suggest that civilization lasts forever” Elon is optimistic about the future, but he is also realistic Civilization has survived so far but history shows that catastrophic events eventually happen. The only chance is becoming a multi-planet species</description>
+      <guid isPermaLink="false">twitter_elonmusk_dfb87660</guid>
+      <pubDate>Wed, 27 May 2026 19:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Meanwhile, officer To Thao spent nearly half a decade in prison for simply being nearby as George Fl...</title>
+      <link>https://twitter.com/elonmusk/status/dac2211c</link>
+      <description>Meanwhile, officer To Thao spent nearly half a decade in prison for simply being nearby as George Floyd overdosed on fentanyl</description>
+      <guid isPermaLink="false">twitter_elonmusk_dac2211c</guid>
+      <pubDate>Wed, 27 May 2026 19:39:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Below is a common error. Here are the facts: Dr. Andrew Baker, the Chief Medical Examiner for Hennep...</title>
+      <link>https://twitter.com/elonmusk/status/770c31df</link>
+      <description>Below is a common error. Here are the facts: Dr. Andrew Baker, the Chief Medical Examiner for Hennepin County (who was the only person that conducted the autopsy of George Floyd) did not agree with the prosecution’s evolving theories of the cause of Floyd’s death. He did not find that Floyd died from a vascular restraint (blood choke), which was the prosecution’s theory at the beginning of trial. And he did not agree that Floyd died of positional asphyxia, which became the prosecution’s fall back theory when, in the middle of trial and to prosecutors’ utter surprise, their blood choke theory imploded in real time (due to it being physiologically impossible to kill somebody by compressing only one of their carotid arteries). Baker’s autopsy provided zero evidentiary support for everything the prosecutors wanted the jury to believe. But it’s worse than that. Baker also found a lack of evidence where one would expect to find evidence had the prosecution’s theories been correct. Baker called this absence of evidence the “pertinent negatives,” and they all - ALL - worked against the prosecution.</description>
+      <guid isPermaLink="false">twitter_elonmusk_770c31df</guid>
+      <pubDate>Wed, 27 May 2026 19:44:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Been using Grok Build these past few days, and the thing that really got me hooked is Imagine and Im...</title>
+      <link>https://twitter.com/elonmusk/status/50340372</link>
+      <description>Been using Grok Build these past few days, and the thing that really got me hooked is Imagine and Imagine Video. I built a full dinosaur encyclopedia site — every image, every video clip on it, all generated by Grok itself. One prompt: "build a dinosaur encyclopedia site, generate matching images and videos, add them in" — visuals, video, copy, layout, the whole thing done in one flow. No jumping between a dozen tools. It's perfect for building science and education sites for kids — dinosaurs, space, animals, history, geography… Grok generates vivid visuals and videos that make knowledge way easier to grasp, more visual, more fun.</description>
+      <guid isPermaLink="false">twitter_elonmusk_50340372</guid>
+      <pubDate>Wed, 27 May 2026 19:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The near impossible is becoming possible. We are building toward a sustained human presence at the l...</title>
+      <link>https://twitter.com/elonmusk/status/19545015</link>
+      <description>The near impossible is becoming possible. We are building toward a sustained human presence at the lunar South Pole. It begins with Phase 1: CLPS landers and LTV rovers testing the “science of survival” on the lunar surface before heavy HLS cargo landers deliver the mass and infrastructure needed for an enduring presence. We are building the Moon Base for all we will learn, the innovation that will improve life on Earth, the inspiration for the next generation of explorers, and to master the skills needed for where we will inevitably go next...Mars. The Golden Age of lunar exploration has begun.</description>
+      <guid isPermaLink="false">twitter_elonmusk_19545015</guid>
+      <pubDate>Wed, 27 May 2026 19:54:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: @NASAMoonBaseis the stepping stone towards everything that comes next.</title>
+      <link>https://twitter.com/elonmusk/status/4d1317af</link>
+      <description>@NASAMoonBaseis the stepping stone towards everything that comes next.</description>
+      <guid isPermaLink="false">twitter_elonmusk_4d1317af</guid>
+      <pubDate>Wed, 27 May 2026 19:59:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other...</title>
+      <link>https://twitter.com/elonmusk/status/397e5919</link>
+      <description>Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies. We cannot just focus on Earth, because there are irreducible external (eg massive meteor) and internal (eg global nuclear war) cataclysmic risks. The Moon is faster to make self-growing, but is more susceptible to problems on Earth. Mars will take longer to make self-growing, because it is so hard to reach, but is more secure from Earth disasters for that same reason. Both the Moon and Mars should have self-growing civilizations. Making this happen is the prime directive of SpaceX.</description>
+      <guid isPermaLink="false">twitter_elonmusk_397e5919</guid>
+      <pubDate>Wed, 27 May 2026 20:04:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
