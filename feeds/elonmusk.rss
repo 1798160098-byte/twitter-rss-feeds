@@ -3,143 +3,150 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-05-28 02:30 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-05-28 06:46 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 02:30:24 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate...</title>
-      <link>https://twitter.com/elonmusk/status/14442891</link>
-      <description>Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate, data-driven political speech about mass migration — as this ruling appears to explicitly contemplate. Doing so means that people willing to be convicted of “racism” get a monopoly on making arguments that strike large segments of the public as important and true.</description>
-      <guid isPermaLink="false">twitter_elonmusk_14442891</guid>
-      <pubDate>Thu, 28 May 2026 01:00:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI) - add “Yes, and ...</title>
-      <link>https://twitter.com/elonmusk/status/1a74d0e6</link>
-      <description>Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI) - add “Yes, and don't ask again for anything (always-approve mode)" - add alpha/stable to welcome screen - JetBrains/JediTerm terminal detection so TUI does not get confused and detect it as some other terminal - persist model ID instead of display name for default_model - clamp Q&amp;A height to prevent ratatui buffer overflow - better UX for tmux inside ssh copy-paste issues - store vim mode persistently in the config.toml to prevent restart loss - memory usage improvements for managing chat history on the hot path</description>
-      <guid isPermaLink="false">twitter_elonmusk_1a74d0e6</guid>
-      <pubDate>Thu, 28 May 2026 01:05:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 06:46:47 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Thank Heaven for the First Amendment in America!</title>
-      <link>https://twitter.com/elonmusk/status/9b90ac93</link>
+      <link>https://twitter.com/elonmusk/status/f6223339</link>
       <description>Thank Heaven for the First Amendment in America!</description>
-      <guid isPermaLink="false">twitter_elonmusk_9b90ac93</guid>
-      <pubDate>Thu, 28 May 2026 01:10:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f6223339</guid>
+      <pubDate>Thu, 28 May 2026 05:11:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Wise words</title>
-      <link>https://twitter.com/elonmusk/status/cffeb560</link>
+      <link>https://twitter.com/elonmusk/status/236cd076</link>
       <description>Wise words</description>
-      <guid isPermaLink="false">twitter_elonmusk_cffeb560</guid>
-      <pubDate>Thu, 28 May 2026 01:15:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_236cd076</guid>
+      <pubDate>Thu, 28 May 2026 05:16:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Elon Musk’s goal for The Boring Company is to solve one of the most miserable daily experiences on E...</title>
-      <link>https://twitter.com/elonmusk/status/bde2aedd</link>
+      <link>https://twitter.com/elonmusk/status/fc9e99c0</link>
       <description>Elon Musk’s goal for The Boring Company is to solve one of the most miserable daily experiences on Earth: traffic Cities are three-dimensional But transportation is still mostly trapped in a two-dimensional surface network Roads, intersections, bottlenecks, traffic lights, accidents, construction, weather - everything gets stacked on the same flat layer until the entire system chokes The Boring Company’s answer is simple but radical: Go underground Build fast, low-cost tunnel networks under major cities and turn transportation into true 3D infrastructure Right now, the focus is on making tunneling dramatically faster and cheaper with machines like Prufrock, which is designed to mine continuously while installing tunnel liner at the same time But the long-term vision goes much further Local Loop tunnels could move people across cities without surface traffic, while future Hyperloop-style systems could connect entire cities at ultra-high speed Imagine going from Los Angeles to San Francisco, New York to Washington D.C., or Dubai to Abu Dhabi in a fraction of today’s travel time - underground, electric, direct, and protected from surface congestion That is the real mission: Building the missing third dimension of transportation This is how you actually attack soul-destroying traffic at civilization scale</description>
-      <guid isPermaLink="false">twitter_elonmusk_bde2aedd</guid>
-      <pubDate>Thu, 28 May 2026 01:20:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fc9e99c0</guid>
+      <pubDate>Thu, 28 May 2026 05:21:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Prices are critical information without an economy cannot function</title>
-      <link>https://twitter.com/elonmusk/status/cfcae924</link>
+      <link>https://twitter.com/elonmusk/status/f37a290c</link>
       <description>Prices are critical information without an economy cannot function</description>
-      <guid isPermaLink="false">twitter_elonmusk_cfcae924</guid>
-      <pubDate>Thu, 28 May 2026 01:25:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f37a290c</guid>
+      <pubDate>Thu, 28 May 2026 05:26:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: "Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was st...</title>
-      <link>https://twitter.com/elonmusk/status/6333cb73</link>
+      <link>https://twitter.com/elonmusk/status/56833d4b</link>
       <description>"Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was still working. I think he must have gone till 2am. So I don't know anybody who works as hard as him. He's really in the technical details of it." 一 David Sacks</description>
-      <guid isPermaLink="false">twitter_elonmusk_6333cb73</guid>
-      <pubDate>Thu, 28 May 2026 01:30:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_56833d4b</guid>
+      <pubDate>Thu, 28 May 2026 05:31:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Elon Musk on why humanity must become multiplanetary: “I think it's important for the long-term pres...</title>
-      <link>https://twitter.com/elonmusk/status/97b8d9f3</link>
+      <link>https://twitter.com/elonmusk/status/de822aa7</link>
       <description>Elon Musk on why humanity must become multiplanetary: “I think it's important for the long-term preservation and ultimately the expansion and extension of the scope and scale of consciousness... that we must become a multi-planet species Because there are all these risks that we can't control existential risks. There's asteroids, super volcanoes, we could have a World War III... History does not suggest that civilization lasts forever” Elon is optimistic about the future, but he is also realistic Civilization has survived so far but history shows that catastrophic events eventually happen. The only chance is becoming a multi-planet species</description>
-      <guid isPermaLink="false">twitter_elonmusk_97b8d9f3</guid>
-      <pubDate>Thu, 28 May 2026 01:35:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_de822aa7</guid>
+      <pubDate>Thu, 28 May 2026 05:36:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Meanwhile, officer To Thao spent nearly half a decade in prison for simply being nearby as George Fl...</title>
-      <link>https://twitter.com/elonmusk/status/73be290a</link>
+      <link>https://twitter.com/elonmusk/status/fb30b92f</link>
       <description>Meanwhile, officer To Thao spent nearly half a decade in prison for simply being nearby as George Floyd overdosed on fentanyl</description>
-      <guid isPermaLink="false">twitter_elonmusk_73be290a</guid>
-      <pubDate>Thu, 28 May 2026 01:40:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fb30b92f</guid>
+      <pubDate>Thu, 28 May 2026 05:41:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Below is a common error. Here are the facts: Dr. Andrew Baker, the Chief Medical Examiner for Hennep...</title>
-      <link>https://twitter.com/elonmusk/status/1e7f38f4</link>
+      <link>https://twitter.com/elonmusk/status/c52696bb</link>
       <description>Below is a common error. Here are the facts: Dr. Andrew Baker, the Chief Medical Examiner for Hennepin County (who was the only person that conducted the autopsy of George Floyd) did not agree with the prosecution’s evolving theories of the cause of Floyd’s death. He did not find that Floyd died from a vascular restraint (blood choke), which was the prosecution’s theory at the beginning of trial. And he did not agree that Floyd died of positional asphyxia, which became the prosecution’s fall back theory when, in the middle of trial and to prosecutors’ utter surprise, their blood choke theory imploded in real time (due to it being physiologically impossible to kill somebody by compressing only one of their carotid arteries). Baker’s autopsy provided zero evidentiary support for everything the prosecutors wanted the jury to believe. But it’s worse than that. Baker also found a lack of evidence where one would expect to find evidence had the prosecution’s theories been correct. Baker called this absence of evidence the “pertinent negatives,” and they all - ALL - worked against the prosecution.</description>
-      <guid isPermaLink="false">twitter_elonmusk_1e7f38f4</guid>
-      <pubDate>Thu, 28 May 2026 01:45:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_c52696bb</guid>
+      <pubDate>Thu, 28 May 2026 05:46:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Been using Grok Build these past few days, and the thing that really got me hooked is Imagine and Im...</title>
-      <link>https://twitter.com/elonmusk/status/9efb128e</link>
+      <link>https://twitter.com/elonmusk/status/a4d4cb72</link>
       <description>Been using Grok Build these past few days, and the thing that really got me hooked is Imagine and Imagine Video. I built a full dinosaur encyclopedia site — every image, every video clip on it, all generated by Grok itself. One prompt: "build a dinosaur encyclopedia site, generate matching images and videos, add them in" — visuals, video, copy, layout, the whole thing done in one flow. No jumping between a dozen tools. It's perfect for building science and education sites for kids — dinosaurs, space, animals, history, geography… Grok generates vivid visuals and videos that make knowledge way easier to grasp, more visual, more fun.</description>
-      <guid isPermaLink="false">twitter_elonmusk_9efb128e</guid>
-      <pubDate>Thu, 28 May 2026 01:50:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a4d4cb72</guid>
+      <pubDate>Thu, 28 May 2026 05:51:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The near impossible is becoming possible. We are building toward a sustained human presence at the l...</title>
-      <link>https://twitter.com/elonmusk/status/d3eb07c0</link>
+      <link>https://twitter.com/elonmusk/status/86d1ebdb</link>
       <description>The near impossible is becoming possible. We are building toward a sustained human presence at the lunar South Pole. It begins with Phase 1: CLPS landers and LTV rovers testing the “science of survival” on the lunar surface before heavy HLS cargo landers deliver the mass and infrastructure needed for an enduring presence. We are building the Moon Base for all we will learn, the innovation that will improve life on Earth, the inspiration for the next generation of explorers, and to master the skills needed for where we will inevitably go next...Mars. The Golden Age of lunar exploration has begun.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d3eb07c0</guid>
-      <pubDate>Thu, 28 May 2026 01:55:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_86d1ebdb</guid>
+      <pubDate>Thu, 28 May 2026 05:56:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: @NASAMoonBaseis the stepping stone towards everything that comes next.</title>
-      <link>https://twitter.com/elonmusk/status/18d95da0</link>
+      <link>https://twitter.com/elonmusk/status/b61143b4</link>
       <description>@NASAMoonBaseis the stepping stone towards everything that comes next.</description>
-      <guid isPermaLink="false">twitter_elonmusk_18d95da0</guid>
-      <pubDate>Thu, 28 May 2026 02:00:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_b61143b4</guid>
+      <pubDate>Thu, 28 May 2026 06:01:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: .@elonmuskis a patriot who loves America, &amp;@SpaceXhas been a good-faith partner of the War Departmen...</title>
-      <link>https://twitter.com/elonmusk/status/eee15c47</link>
+      <link>https://twitter.com/elonmusk/status/8672c139</link>
       <description>.@elonmuskis a patriot who loves America, &amp;@SpaceXhas been a good-faith partner of the War Department.</description>
-      <guid isPermaLink="false">twitter_elonmusk_eee15c47</guid>
-      <pubDate>Thu, 28 May 2026 02:05:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8672c139</guid>
+      <pubDate>Thu, 28 May 2026 06:06:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: NASA Administrator Jared Isaacman: "@SpaceXis probably our greatest commercial space company, hands ...</title>
-      <link>https://twitter.com/elonmusk/status/ecc74825</link>
+      <link>https://twitter.com/elonmusk/status/e65dbde4</link>
       <description>NASA Administrator Jared Isaacman: "@SpaceXis probably our greatest commercial space company, hands down. We rely on SpaceX heavily to put our astronauts to and from the international space station."</description>
-      <guid isPermaLink="false">twitter_elonmusk_ecc74825</guid>
-      <pubDate>Thu, 28 May 2026 02:10:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e65dbde4</guid>
+      <pubDate>Thu, 28 May 2026 06:11:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: We spent a ton of time making worktrees actually work well for agent swarms and large repos. When yo...</title>
-      <link>https://twitter.com/elonmusk/status/5578f8cf</link>
+      <link>https://twitter.com/elonmusk/status/bb839752</link>
       <description>We spent a ton of time making worktrees actually work well for agent swarms and large repos. When you’re running 10s of agents that ship, you quickly realize you need worktree, but git’s defaults are brutal at this scale. Slow creation, every agent copying the whole repo, can’t check out the same branch twice. So we fixed those problems in Grok Build. Now agents can spin up, reset, and go wild constantly. Worktrees are faster than normal Git, everything shares the same base, and it doesn’t eat your disk or grind your SSD. Try it: grok -w &lt;label&gt; → new session in a worktree grok -w &lt;label&gt; -r &lt;session_id&gt; → resume one grok worktree ... → manage them</description>
-      <guid isPermaLink="false">twitter_elonmusk_5578f8cf</guid>
-      <pubDate>Thu, 28 May 2026 02:15:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bb839752</guid>
+      <pubDate>Thu, 28 May 2026 06:16:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I just found something interesting hidden on the SpaceX website Go to:SpaceX.com→ Human Spaceflight ...</title>
-      <link>https://twitter.com/elonmusk/status/9615257a</link>
+      <link>https://twitter.com/elonmusk/status/2dab6f32</link>
       <description>I just found something interesting hidden on the SpaceX website Go to:SpaceX.com→ Human Spaceflight → Space Station → scroll all the way down → “Play Now” It’s a live Dragon docking simulator where you try docking with the ISS yourself And really… this game is way trickier than it looks You think it’ll be simple until the capsule starts drifting sideways and rotating at the same time 😭 Made me realize how insanely precise real docking actually is. The controls, timing, movement… everything has to be perfect</description>
-      <guid isPermaLink="false">twitter_elonmusk_9615257a</guid>
-      <pubDate>Thu, 28 May 2026 02:20:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2dab6f32</guid>
+      <pubDate>Thu, 28 May 2026 06:21:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mo...</title>
-      <link>https://twitter.com/elonmusk/status/424ec066</link>
+      <link>https://twitter.com/elonmusk/status/8d67eb21</link>
       <description>You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mode</description>
-      <guid isPermaLink="false">twitter_elonmusk_424ec066</guid>
-      <pubDate>Thu, 28 May 2026 02:25:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8d67eb21</guid>
+      <pubDate>Thu, 28 May 2026 06:26:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The entire event yesterday, launching missions, landers, rovers, tech demos building a Moon Base, an...</title>
+      <link>https://twitter.com/elonmusk/status/0e1e786d</link>
+      <description>The entire event yesterday, launching missions, landers, rovers, tech demos building a Moon Base, and sci-fi capabilities like MoonFall, brought to you by those who Dare Mighty Things. Just the very beginning. What a time 🇺🇸</description>
+      <guid isPermaLink="false">twitter_elonmusk_0e1e786d</guid>
+      <pubDate>Thu, 28 May 2026 06:31:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Build improvements</title>
+      <link>https://twitter.com/elonmusk/status/05727061</link>
+      <description>Grok Build improvements</description>
+      <guid isPermaLink="false">twitter_elonmusk_05727061</guid>
+      <pubDate>Thu, 28 May 2026 06:36:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220...</title>
+      <link>https://twitter.com/elonmusk/status/644e3eb5</link>
+      <description>SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible. The potential speed improvement vs JAX for large training runs is over an order of magnitude.</description>
+      <guid isPermaLink="false">twitter_elonmusk_644e3eb5</guid>
+      <pubDate>Thu, 28 May 2026 06:41:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other...</title>
       <link>https://twitter.com/elonmusk/status/397e5919</link>
       <description>Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies. We cannot just focus on Earth, because there are irreducible external (eg massive meteor) and internal (eg global nuclear war) cataclysmic risks. The Moon is faster to make self-growing, but is more susceptible to problems on Earth. Mars will take longer to make self-growing, because it is so hard to reach, but is more secure from Earth disasters for that same reason. Both the Moon and Mars should have self-growing civilizations. Making this happen is the prime directive of SpaceX.</description>
       <guid isPermaLink="false">twitter_elonmusk_397e5919</guid>
-      <pubDate>Thu, 28 May 2026 02:30:24 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 06:46:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
