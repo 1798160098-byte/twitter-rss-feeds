@@ -3,150 +3,143 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-05-28 23:47 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-05-29 02:34 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 23:47:47 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: The near impossible is becoming possible. We are building toward a sustained human presence at the l...</title>
-      <link>https://twitter.com/elonmusk/status/e16a89eb</link>
-      <description>The near impossible is becoming possible. We are building toward a sustained human presence at the lunar South Pole. It begins with Phase 1: CLPS landers and LTV rovers testing the “science of survival” on the lunar surface before heavy HLS cargo landers deliver the mass and infrastructure needed for an enduring presence. We are building the Moon Base for all we will learn, the innovation that will improve life on Earth, the inspiration for the next generation of explorers, and to master the skills needed for where we will inevitably go next...Mars. The Golden Age of lunar exploration has begun.</description>
-      <guid isPermaLink="false">twitter_elonmusk_e16a89eb</guid>
-      <pubDate>Thu, 28 May 2026 22:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: @NASAMoonBaseis the stepping stone towards everything that comes next.</title>
-      <link>https://twitter.com/elonmusk/status/f92462ae</link>
-      <description>@NASAMoonBaseis the stepping stone towards everything that comes next.</description>
-      <guid isPermaLink="false">twitter_elonmusk_f92462ae</guid>
-      <pubDate>Thu, 28 May 2026 22:17:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: .@elonmuskis a patriot who loves America, &amp;@SpaceXhas been a good-faith partner of the War Departmen...</title>
-      <link>https://twitter.com/elonmusk/status/3cc01a76</link>
-      <description>.@elonmuskis a patriot who loves America, &amp;@SpaceXhas been a good-faith partner of the War Department.</description>
-      <guid isPermaLink="false">twitter_elonmusk_3cc01a76</guid>
-      <pubDate>Thu, 28 May 2026 22:22:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: NASA Administrator Jared Isaacman: "@SpaceXis probably our greatest commercial space company, hands ...</title>
-      <link>https://twitter.com/elonmusk/status/cb6d6275</link>
-      <description>NASA Administrator Jared Isaacman: "@SpaceXis probably our greatest commercial space company, hands down. We rely on SpaceX heavily to put our astronauts to and from the international space station."</description>
-      <guid isPermaLink="false">twitter_elonmusk_cb6d6275</guid>
-      <pubDate>Thu, 28 May 2026 22:27:47 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 May 2026 02:34:47 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: We spent a ton of time making worktrees actually work well for agent swarms and large repos. When yo...</title>
-      <link>https://twitter.com/elonmusk/status/90b5e92e</link>
+      <link>https://twitter.com/elonmusk/status/eeb76e8f</link>
       <description>We spent a ton of time making worktrees actually work well for agent swarms and large repos. When you’re running 10s of agents that ship, you quickly realize you need worktree, but git’s defaults are brutal at this scale. Slow creation, every agent copying the whole repo, can’t check out the same branch twice. So we fixed those problems in Grok Build. Now agents can spin up, reset, and go wild constantly. Worktrees are faster than normal Git, everything shares the same base, and it doesn’t eat your disk or grind your SSD. Try it: grok -w &lt;label&gt; → new session in a worktree grok -w &lt;label&gt; -r &lt;session_id&gt; → resume one grok worktree ... → manage them</description>
-      <guid isPermaLink="false">twitter_elonmusk_90b5e92e</guid>
-      <pubDate>Thu, 28 May 2026 22:32:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_eeb76e8f</guid>
+      <pubDate>Fri, 29 May 2026 01:04:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I just found something interesting hidden on the SpaceX website Go to:SpaceX.com→ Human Spaceflight ...</title>
-      <link>https://twitter.com/elonmusk/status/fdd33101</link>
+      <link>https://twitter.com/elonmusk/status/f70d001a</link>
       <description>I just found something interesting hidden on the SpaceX website Go to:SpaceX.com→ Human Spaceflight → Space Station → scroll all the way down → “Play Now” It’s a live Dragon docking simulator where you try docking with the ISS yourself And really… this game is way trickier than it looks You think it’ll be simple until the capsule starts drifting sideways and rotating at the same time 😭 Made me realize how insanely precise real docking actually is. The controls, timing, movement… everything has to be perfect</description>
-      <guid isPermaLink="false">twitter_elonmusk_fdd33101</guid>
-      <pubDate>Thu, 28 May 2026 22:37:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f70d001a</guid>
+      <pubDate>Fri, 29 May 2026 01:09:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mo...</title>
-      <link>https://twitter.com/elonmusk/status/45275dee</link>
+      <link>https://twitter.com/elonmusk/status/3b923e3c</link>
       <description>You haven't experienced real self-driving until you've tried Tesla Self-Driving 14.3.3 in Mad Max mode</description>
-      <guid isPermaLink="false">twitter_elonmusk_45275dee</guid>
-      <pubDate>Thu, 28 May 2026 22:42:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_3b923e3c</guid>
+      <pubDate>Fri, 29 May 2026 01:14:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The entire event yesterday, launching missions, landers, rovers, tech demos building a Moon Base, an...</title>
-      <link>https://twitter.com/elonmusk/status/44452cb3</link>
+      <link>https://twitter.com/elonmusk/status/9c1e3b18</link>
       <description>The entire event yesterday, launching missions, landers, rovers, tech demos building a Moon Base, and sci-fi capabilities like MoonFall, brought to you by those who Dare Mighty Things. Just the very beginning. What a time 🇺🇸</description>
-      <guid isPermaLink="false">twitter_elonmusk_44452cb3</guid>
-      <pubDate>Thu, 28 May 2026 22:47:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9c1e3b18</guid>
+      <pubDate>Fri, 29 May 2026 01:19:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Build improvements</title>
-      <link>https://twitter.com/elonmusk/status/b4a0eb2d</link>
+      <link>https://twitter.com/elonmusk/status/755cc3af</link>
       <description>Grok Build improvements</description>
-      <guid isPermaLink="false">twitter_elonmusk_b4a0eb2d</guid>
-      <pubDate>Thu, 28 May 2026 22:52:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_755cc3af</guid>
+      <pubDate>Fri, 29 May 2026 01:24:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220...</title>
-      <link>https://twitter.com/elonmusk/status/5d759758</link>
+      <link>https://twitter.com/elonmusk/status/fb2ad39f</link>
       <description>SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible. The potential speed improvement vs JAX for large training runs is over an order of magnitude.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5d759758</guid>
-      <pubDate>Thu, 28 May 2026 22:57:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fb2ad39f</guid>
+      <pubDate>Fri, 29 May 2026 01:29:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The rarest object type in the universe isn't black holes. It's us. Conscious matter. The flame of li...</title>
-      <link>https://twitter.com/elonmusk/status/1d959208</link>
+      <link>https://twitter.com/elonmusk/status/bebec505</link>
       <description>The rarest object type in the universe isn't black holes. It's us. Conscious matter. The flame of life. We have a duty to expand it in scope and scale in order to preserve it.</description>
-      <guid isPermaLink="false">twitter_elonmusk_1d959208</guid>
-      <pubDate>Thu, 28 May 2026 23:02:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bebec505</guid>
+      <pubDate>Fri, 29 May 2026 01:34:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: For the first year on record, wind and solar produced more electricity than coal in the U.S.</title>
-      <link>https://twitter.com/elonmusk/status/d5d8d78b</link>
+      <link>https://twitter.com/elonmusk/status/5aaab1aa</link>
       <description>For the first year on record, wind and solar produced more electricity than coal in the U.S.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d5d8d78b</guid>
-      <pubDate>Thu, 28 May 2026 23:07:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5aaab1aa</guid>
+      <pubDate>Fri, 29 May 2026 01:39:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Next will be writing the inference stack in C for simultaneous high-speed RL across a large block of...</title>
-      <link>https://twitter.com/elonmusk/status/85104cde</link>
+      <link>https://twitter.com/elonmusk/status/afcd640a</link>
       <description>Next will be writing the inference stack in C for simultaneous high-speed RL across a large block of GB300s. (We do use a little C++ tbh, but not much)</description>
-      <guid isPermaLink="false">twitter_elonmusk_85104cde</guid>
-      <pubDate>Thu, 28 May 2026 23:12:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_afcd640a</guid>
+      <pubDate>Fri, 29 May 2026 01:44:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: ANNOUNCEMENT: WE’RE SAVING SCIENCE! We’re often told that science is “self-correcting.” But that’s n...</title>
-      <link>https://twitter.com/elonmusk/status/0a05534c</link>
+      <link>https://twitter.com/elonmusk/status/7a12cf91</link>
       <description>ANNOUNCEMENT: WE’RE SAVING SCIENCE! We’re often told that science is “self-correcting.” But that’s not really true. Science doesn’t correct itself like a thermostat adjusting the temperature in your house. Science is a human institution run by human beings. And human beings are vulnerable to career incentives, groupthink, moral fads, political pressure, and fear. And when those forces capture academic journals, peer review stops being a filter for bad ideas and starts becoming more of a credentialing system for fashionable nonsense. This isn’t exactly new. In 1996, the physicist Alan Sokal managed to publish a totally gibberish article in the journal Social Text full of trendy postmodern jargon. His point was simple: if you flatter the ideological commitments of certain academic editors, nonsense can pass as real scholarship. Two decades later,@ConceptualJames,@HPluckrose, and@peterboghossianpulled off the “grievance studies” hoax, placing over a half dozen absurd papers in peer-reviewed journals. One paper used dog parks to analyze rape culture and queer performativity. Another rewrote parts of Mein Kampf in the language of feminist theory. The problem wasn’t just that fake papers got published. It was that they were completely indistinguishable from the real thing. And today, the problem is even worse. We now have serious SCIENCE journals publishing papers about feminist lesbians marrying brine shrimp. We have disturbing papers that aim to “queer” and sexualize infants. We have scholarship on “lesbian-queer-trans-canine relationalities” and “trans-dog intimacies.” But while Clown World papers are concerning because it makes a complete mockery of academia, the same broken, ideologically captured system is also publishing research in legitimate science and medical journals that pushes sex and gender pseudoscience, relies on deeply flawed data, and influences policies on the medical transition of children and young adults. That’s not funny. That affects real people. It affects medicine. It affects law. It affects children. And when critics try to respond, they often discover there’s no serious mechanism for correction. Submitted Letters to the Editor often go completely ignored. Contrary evidence is rejected without comment. As a result, the best critiques are often relegated to personal blog posts, social media threads, or newspaper op-eds, while the original paper remains in the literature wearing the armor of “peer review.” That is untenable. So Kevin McCaffree, editor-in-chief of Theory and Society (@Theory_Society), and I decided to do something about it. Today, in the Wall Street Journal, we announced a first-of-its-kind article type called “Peer Review.” The idea is simple: publication should be the beginning of academic scrutiny, not the end of it. A Peer Review article can critique a paper from any scholarly journal. It can address problems with methods, evidence, logic, definitions, theory, or interpretation. But it has to focus on the claims and arguments, not personal attacks. Submissions are capped at 2,500 words and go through a straightforward merit review instead of endless gatekeeping and ideological screening. We ask just one basic question: Is this critique coherent, serious, reasonable, or even popular enough to deserve scholarly attention? If yes, it gets published. And the authors of the original paper get a built-in right of reply, so readers can see the critique and the response in a legitimate academic venue. That’s how science is supposed to work. Science becomes self-correcting only when real people build the mechanisms that allow correction to happen. That’s what we’ve done. Now it’s time for academics to use it. Read our announcement on the@WSJbelow. 🔗wsj.com/opinion/a-way-to-cha…</description>
-      <guid isPermaLink="false">twitter_elonmusk_0a05534c</guid>
-      <pubDate>Thu, 28 May 2026 23:17:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_7a12cf91</guid>
+      <pubDate>Fri, 29 May 2026 01:49:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Note, I am posted this to encourage those who enjoy getting incredible performance out of hardware t...</title>
-      <link>https://twitter.com/elonmusk/status/33ebcbf7</link>
+      <link>https://twitter.com/elonmusk/status/6a31c57a</link>
       <description>Note, I am posted this to encourage those who enjoy getting incredible performance out of hardware to join SpaceX</description>
-      <guid isPermaLink="false">twitter_elonmusk_33ebcbf7</guid>
-      <pubDate>Thu, 28 May 2026 23:22:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6a31c57a</guid>
+      <pubDate>Fri, 29 May 2026 01:54:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Today, we remember a legend. On this day in history, Harambe would have celebrated another birthday....</title>
-      <link>https://twitter.com/elonmusk/status/5eba206c</link>
+      <link>https://twitter.com/elonmusk/status/078a8331</link>
       <description>Today, we remember a legend. On this day in history, Harambe would have celebrated another birthday. An icon that became part of internet history, American culture, and an entire generation’s timeline. Tomorrow marks 10 years since we lost him. Ten years since the moment the world stopped scrolling and collectively mourned something bigger than a meme. He became a symbol of loyalty, strength, chaos, unity, and the strange beauty of the internet bringing millions of people together for one cause: never forgetting Harambe. Everyone remembers where they were when they heard the news. And somehow, a decade later, his legacy still lives on. Gone, but never forgotten. Rest easy to a true patriot. 🕊️🇺🇸 May 27, 1999 — May 28, 2016 Forever in our hearts.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5eba206c</guid>
-      <pubDate>Thu, 28 May 2026 23:27:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_078a8331</guid>
+      <pubDate>Fri, 29 May 2026 01:59:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Cybercab driving itself out of the GigaTexas factory</title>
-      <link>https://twitter.com/elonmusk/status/23944688</link>
+      <link>https://twitter.com/elonmusk/status/db9499f1</link>
       <description>Cybercab driving itself out of the GigaTexas factory</description>
-      <guid isPermaLink="false">twitter_elonmusk_23944688</guid>
-      <pubDate>Thu, 28 May 2026 23:32:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_db9499f1</guid>
+      <pubDate>Fri, 29 May 2026 02:04:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink has connected 167K@unitedflights and counting, delivering seamless internet gate to gate🛰️✈...</title>
-      <link>https://twitter.com/elonmusk/status/eaa39155</link>
+      <link>https://twitter.com/elonmusk/status/b7719178</link>
       <description>Starlink has connected 167K@unitedflights and counting, delivering seamless internet gate to gate🛰️✈️</description>
-      <guid isPermaLink="false">twitter_elonmusk_eaa39155</guid>
-      <pubDate>Thu, 28 May 2026 23:37:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_b7719178</guid>
+      <pubDate>Fri, 29 May 2026 02:09:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Good value for money</title>
-      <link>https://twitter.com/elonmusk/status/1a65ee74</link>
+      <link>https://twitter.com/elonmusk/status/807076fb</link>
       <description>Good value for money</description>
-      <guid isPermaLink="false">twitter_elonmusk_1a65ee74</guid>
-      <pubDate>Thu, 28 May 2026 23:42:47 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_807076fb</guid>
+      <pubDate>Fri, 29 May 2026 02:14:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Check out the daily Grok Build version updates atx.ai/build/changelog</title>
+      <link>https://twitter.com/elonmusk/status/6bbc2e40</link>
+      <description>Check out the daily Grok Build version updates atx.ai/build/changelog</description>
+      <guid isPermaLink="false">twitter_elonmusk_6bbc2e40</guid>
+      <pubDate>Fri, 29 May 2026 02:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Release the Henry Nowak police body camera footage so people can see what real systemic racism looks...</title>
+      <link>https://twitter.com/elonmusk/status/62bd05ac</link>
+      <description>Release the Henry Nowak police body camera footage so people can see what real systemic racism looks like. They let an innocent kid bleed out over it. Anything less is unacceptable.</description>
+      <guid isPermaLink="false">twitter_elonmusk_62bd05ac</guid>
+      <pubDate>Fri, 29 May 2026 02:24:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Starlink powers the world’s biggest satellite constellation in low Earth orbit. What does that mean ...</title>
+      <link>https://twitter.com/elonmusk/status/3b40e417</link>
+      <description>Starlink powers the world’s biggest satellite constellation in low Earth orbit. What does that mean for you? We're rolling out the world’s fastest, most reliable high-speed inflight Wi-Fi now — with waaaaay more on the horizon. By the end of this year, we expect that 880+ United planes will have@Starlinkon board. And it's free for MileagePlus members.</description>
+      <guid isPermaLink="false">twitter_elonmusk_3b40e417</guid>
+      <pubDate>Fri, 29 May 2026 02:29:47 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other...</title>
       <link>https://twitter.com/elonmusk/status/397e5919</link>
       <description>Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies. We cannot just focus on Earth, because there are irreducible external (eg massive meteor) and internal (eg global nuclear war) cataclysmic risks. The Moon is faster to make self-growing, but is more susceptible to problems on Earth. Mars will take longer to make self-growing, because it is so hard to reach, but is more secure from Earth disasters for that same reason. Both the Moon and Mars should have self-growing civilizations. Making this happen is the prime directive of SpaceX.</description>
       <guid isPermaLink="false">twitter_elonmusk_397e5919</guid>
-      <pubDate>Thu, 28 May 2026 23:47:47 +0000</pubDate>
+      <pubDate>Fri, 29 May 2026 02:34:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
