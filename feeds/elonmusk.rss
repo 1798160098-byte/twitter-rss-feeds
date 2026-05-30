@@ -3,136 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-05-30 11:50 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-05-30 15:59 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 11:50:28 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Elon Musk: “I don't think most people understand just how quickly machine intelligence is advancing....</title>
-      <link>https://twitter.com/elonmusk/status/e249eeea</link>
-      <description>Elon Musk: “I don't think most people understand just how quickly machine intelligence is advancing. It's much faster than almost anyone realizes, even within Silicon Valley and certainly outside Silicon Valley. People really have no idea.”</description>
-      <guid isPermaLink="false">twitter_elonmusk_e249eeea</guid>
-      <pubDate>Sat, 30 May 2026 10:25:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 30 May 2026 15:59:32 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: 🟥 W toku procesu wycieka coraz więcej szczegółów. Zabójca, Vickrum Digwa, zadzwonił na policje, a ni...</title>
-      <link>https://twitter.com/elonmusk/status/6d25f20c</link>
+      <link>https://twitter.com/elonmusk/status/77a45863</link>
       <description>🟥 W toku procesu wycieka coraz więcej szczegółów. Zabójca, Vickrum Digwa, zadzwonił na policje, a nie na pogotowie i skłamał, że to Henry go zaatakował, był pijany, obraził go rasistowsko i strącił mu turban. Policja Hampshire przyjechała (trzy policjantki) i natychmiast zakuli Henry’ego w kajdanki, mimo że leżał w kałuży krwi z ranami kłutymi klatki piersiowej i nóg. Wielokrotnie powtarzał: „I’ve been stabbed” („Zostałem dźgnięty”), „I can’t breathe” („Nie mogę oddychać”). Na nagraniu z kamery osobistej słychać głos policjanta: „I don’t think you have, mate” („Nie sądzę, koleś”). Policjant, który zakuł Henry’ego w kajdanki, śmiał się, gdy ten powiedział, że został dźgnięty. Potem wleczono go po żwirze i trzymano skutego, gdy się wykrwawiał. Dopiero gdy stracił przytomność, funkcjonariusze zdjęli kajdanki i zaczęli reanimację. Henry zmarł na miejscu. Ponadto policja zabrała telefon Henry’ego i jego taty i przeczytała wszystkie wiadomości w poszukiwaniu rasistowskich komentarzy lub żartów. Teraz policja z Hampshire wydała publiczne przeprosiny: „Przepraszamy, że Henry został zakuty i aresztowany w momencie, gdy tracił przytomność. Zostaliśmy okłamani przez sprawcę…” Mimo to ani sad, ani policja nie ujawniły dotąd nagrań z kamer. Trwa dochodzenie IOPC (niezależny organ ds. skarg na policję). Wielu domaga się dymisji funkcjonariuszy, którzy byli na miejscu. Trzy policjantki podobno odeszły ze służby (niepotwierdzone).</description>
-      <guid isPermaLink="false">twitter_elonmusk_6d25f20c</guid>
-      <pubDate>Sat, 30 May 2026 10:30:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_77a45863</guid>
+      <pubDate>Sat, 30 May 2026 14:34:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Having Grok Build sub-agents to iterate several ideas for me on data loading, batching, inference, a...</title>
-      <link>https://twitter.com/elonmusk/status/5d65cee8</link>
+      <link>https://twitter.com/elonmusk/status/308b245e</link>
       <description>Having Grok Build sub-agents to iterate several ideas for me on data loading, batching, inference, and writing results to files for dense datasets before I went to sleep. It gave me a nice summary of trade-offs and validation in the morning. The same idea can be extended to almost anything as long as gradient descent and stochastic sampling apply. Looking forward to how you utilize the sub-agents.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5d65cee8</guid>
-      <pubDate>Sat, 30 May 2026 10:35:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_308b245e</guid>
+      <pubDate>Sat, 30 May 2026 14:39:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: grok-build-0.1 is now available via the xAI API in public beta. This is the same model that powers t...</title>
-      <link>https://twitter.com/elonmusk/status/3536c064</link>
+      <link>https://twitter.com/elonmusk/status/289204fc</link>
       <description>grok-build-0.1 is now available via the xAI API in public beta. This is the same model that powers the Grok Build CLI and excels at agentic coding. Priced at $1/m input and $2/m output, it’s extremely cost effective, intelligent, and fast.</description>
-      <guid isPermaLink="false">twitter_elonmusk_3536c064</guid>
-      <pubDate>Sat, 30 May 2026 10:40:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_289204fc</guid>
+      <pubDate>Sat, 30 May 2026 14:44:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Tip on Grok Build + Grok 4.3 VLM One of my critical tasks is to keep Grok VLM in the loop. Throwing ...</title>
-      <link>https://twitter.com/elonmusk/status/c2da1e05</link>
+      <link>https://twitter.com/elonmusk/status/279847ec</link>
       <description>Tip on Grok Build + Grok 4.3 VLM One of my critical tasks is to keep Grok VLM in the loop. Throwing a default system prompt usually yields poor results due to lack of context. Here is how to scale: - Curate a small but diverse evaluation set that can be rapidly iterated on. - Enter the prompt: “Make a plan to design and execute a task that a) takes input per entry from: &lt;input&gt;, b) generates output per entry to: &lt;output&gt;, c) the ground truth of output: &lt;ground truth&gt;. Launch sub-agents to iterate on strategy to optimize recall and precision against ground truth until both metrics reach &lt;threshold&gt;.” Done. Watch your research agents do the work.</description>
-      <guid isPermaLink="false">twitter_elonmusk_c2da1e05</guid>
-      <pubDate>Sat, 30 May 2026 10:45:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_279847ec</guid>
+      <pubDate>Sat, 30 May 2026 14:49:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Lee Kuan Yew abolished trial by jury in Singapore after determining that it was too easy for defence...</title>
-      <link>https://twitter.com/elonmusk/status/12d2757f</link>
+      <link>https://twitter.com/elonmusk/status/540465e5</link>
       <description>Lee Kuan Yew abolished trial by jury in Singapore after determining that it was too easy for defence lawyers to appeal to racial and religious biases of juries in multicultural Singapore. He writes in his memoirs how as a young lawyer he was able to get three clients acquitted who he was sure did commit murder. LKY writes that he "worked on the weaknesses of the jury -- their biases, their prejudices, their reluctance really to find four Muslims guilty of killing in cold blood or in a heat of great passion, religious passion, an RAF officer, his wife and child." He writes "The judge was thoroughly disgusted. I went home feeling quite sick because I knew I'd discharged my duty as required of me, but I knew I had done wrong.” Study after study shows that in multi ethnic societies, there is significant in-group bias on juries.</description>
-      <guid isPermaLink="false">twitter_elonmusk_12d2757f</guid>
-      <pubDate>Sat, 30 May 2026 10:50:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_540465e5</guid>
+      <pubDate>Sat, 30 May 2026 14:54:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: “I’ll kill your whole f–king family. Your whole f–king family is dead. Your children, your wife, all...</title>
-      <link>https://twitter.com/elonmusk/status/6d224301</link>
+      <link>https://twitter.com/elonmusk/status/326ad203</link>
       <description>“I’ll kill your whole f–king family. Your whole f–king family is dead. Your children, your wife, all dead." A left-wing activist in Newark was caught on camera shouting those words at an unmasked ICE officer as protests outside the Delaney ICE facility turned chaotic. Acting AG Todd Blanche is now firing back, promising that the "disgusting" activist will be caught and charged, emphasizing that threatening a federal officer and their family is a federal crime. “That is disgusting … and we see his face and I promise you we will find him, and when we find him, we will arrest him."</description>
-      <guid isPermaLink="false">twitter_elonmusk_6d224301</guid>
-      <pubDate>Sat, 30 May 2026 10:55:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_326ad203</guid>
+      <pubDate>Sat, 30 May 2026 14:59:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: You literally admitted on national television that you tried to put Rupert Lowe in prison because of...</title>
-      <link>https://twitter.com/elonmusk/status/fae69748</link>
+      <link>https://twitter.com/elonmusk/status/7e336bf1</link>
       <description>You literally admitted on national television that you tried to put Rupert Lowe in prison because of political differences. He wanted to deport Pakistani child rapists and their accomplice wives. So you then rang the police. Nobody is forgetting that.</description>
-      <guid isPermaLink="false">twitter_elonmusk_fae69748</guid>
-      <pubDate>Sat, 30 May 2026 11:00:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_7e336bf1</guid>
+      <pubDate>Sat, 30 May 2026 15:04:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: RUD (rapid unscheduled disassembly) events are not unusual in the rocket world</title>
-      <link>https://twitter.com/elonmusk/status/35ae7b95</link>
+      <link>https://twitter.com/elonmusk/status/9646415c</link>
       <description>RUD (rapid unscheduled disassembly) events are not unusual in the rocket world</description>
-      <guid isPermaLink="false">twitter_elonmusk_35ae7b95</guid>
-      <pubDate>Sat, 30 May 2026 11:05:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9646415c</guid>
+      <pubDate>Sat, 30 May 2026 15:09:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Both men said “I can’t breathe”, but only one man’s death was covered relentlessly by the media. The...</title>
-      <link>https://twitter.com/elonmusk/status/8ae45051</link>
+      <link>https://twitter.com/elonmusk/status/affe477f</link>
       <description>Both men said “I can’t breathe”, but only one man’s death was covered relentlessly by the media. The only conclusion that can be drawn is that the legacy mainstream media is incredibly, hatefully racist against Whites.</description>
-      <guid isPermaLink="false">twitter_elonmusk_8ae45051</guid>
-      <pubDate>Sat, 30 May 2026 11:10:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_affe477f</guid>
+      <pubDate>Sat, 30 May 2026 15:14:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: On the remarkable return on capital potential for Starlink on Starship. Including customer acquisiti...</title>
-      <link>https://twitter.com/elonmusk/status/bd09c016</link>
+      <link>https://twitter.com/elonmusk/status/b314e71c</link>
       <description>On the remarkable return on capital potential for Starlink on Starship. Including customer acquisition cost, ground station capex, and an expendable top stage, we think SpaceX should be able to launch its 10th commercial starship rocket for ~$500m. The bandwidth it launches could yield $1.2 billion in revenue annually for as long as the satellites are in orbit. 13x cash on cash return. For a time (100 launches or so) cash requirements per kg (and per tbps) of launch should roughly keep pace with the revenue decay in monetizing incremental orbital comms throughput. Basically, their per launch cost decline, driven by rocket upsizing, satellite manufacturing efficiency and full re-useability, should out-compete declining ARPU (or at least keep pace). Net, very crudely, it works to the company being able to deploy $50b in capital building satellites, launching rockets and acquiring customers at a ~13x cash on cash return over a few years. This is a business without precedent.</description>
-      <guid isPermaLink="false">twitter_elonmusk_bd09c016</guid>
-      <pubDate>Sat, 30 May 2026 11:15:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_b314e71c</guid>
+      <pubDate>Sat, 30 May 2026 15:19:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Happy 1st Birthday, Starbase. One year ago today, Starbase officially became a city. In that time, w...</title>
-      <link>https://twitter.com/elonmusk/status/6c7d25a8</link>
+      <link>https://twitter.com/elonmusk/status/8fbd564e</link>
       <description>Happy 1st Birthday, Starbase. One year ago today, Starbase officially became a city. In that time, we’ve hosted multiple Starship flight tests, grown our community of people building the future of spaceflight, and worked to protect our beaches and natural resources for generations to come. Next year will be even bigger. More launches. More progress. And we’re just getting started! Thank you to everyone who has been part of Starbase’s first year as a city.</description>
-      <guid isPermaLink="false">twitter_elonmusk_6c7d25a8</guid>
-      <pubDate>Sat, 30 May 2026 11:20:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8fbd564e</guid>
+      <pubDate>Sat, 30 May 2026 15:24:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 90% of hate speech targets Men and Whites</title>
-      <link>https://twitter.com/elonmusk/status/aedf28a7</link>
+      <link>https://twitter.com/elonmusk/status/d7e9d6c7</link>
       <description>90% of hate speech targets Men and Whites</description>
-      <guid isPermaLink="false">twitter_elonmusk_aedf28a7</guid>
-      <pubDate>Sat, 30 May 2026 11:25:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d7e9d6c7</guid>
+      <pubDate>Sat, 30 May 2026 15:29:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Build is moving fast</title>
-      <link>https://twitter.com/elonmusk/status/807feaeb</link>
+      <link>https://twitter.com/elonmusk/status/31c7fb7c</link>
       <description>Grok Build is moving fast</description>
-      <guid isPermaLink="false">twitter_elonmusk_807feaeb</guid>
-      <pubDate>Sat, 30 May 2026 11:30:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_31c7fb7c</guid>
+      <pubDate>Sat, 30 May 2026 15:34:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: In the UK, you can stab a white person to death and get them arrested while they bleed to death, bec...</title>
-      <link>https://twitter.com/elonmusk/status/03bf7161</link>
+      <link>https://twitter.com/elonmusk/status/6359b64e</link>
       <description>In the UK, you can stab a white person to death and get them arrested while they bleed to death, because racism. In the UK, you can brutally assault police officers on video and go free, because racism. In the UK, "anti-racism" has become far more dangerous than racism.</description>
-      <guid isPermaLink="false">twitter_elonmusk_03bf7161</guid>
-      <pubDate>Sat, 30 May 2026 11:35:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6359b64e</guid>
+      <pubDate>Sat, 30 May 2026 15:39:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Frank is right</title>
-      <link>https://twitter.com/elonmusk/status/c4cfe924</link>
+      <link>https://twitter.com/elonmusk/status/19ad140a</link>
       <description>Frank is right</description>
-      <guid isPermaLink="false">twitter_elonmusk_c4cfe924</guid>
-      <pubDate>Sat, 30 May 2026 11:40:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_19ad140a</guid>
+      <pubDate>Sat, 30 May 2026 15:44:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: TERAFAB IS GOING TO BE INSANE. We’re targeting 100–200 billion custom AI + memory chips per year at ...</title>
-      <link>https://twitter.com/elonmusk/status/7ed032a2</link>
+      <link>https://twitter.com/elonmusk/status/0f2b1e80</link>
       <description>TERAFAB IS GOING TO BE INSANE. We’re targeting 100–200 billion custom AI + memory chips per year at full ramp that’s 1 terawatt (1,000 GW) of annual AI compute capacity. Roughly 50x current global AI chip output. This isn’t incremental. This is the kind of scale that actually moves the needle on civilization. Breakdown: - 80% (~160 billion chips / 800 GW) → radiation-hardened D3 chips for orbital data centers. Space-based compute at massive scale, powered by solar, low latency for Earth, immune to most terrestrial risks. - 20% (~40 billion chips / 200 GW) → terrestrial AI5 &amp; AI6 edge inference processors for Tesla vehicle fleets and Optimus robots. Facility plan: start at 100k wafer-starts/month, scale to 1 million wafers/month. Everything design, EUV lithography, fab, memory, packaging, test under one roof. That recursive self-improvement loop is the real unlock. Small-batch AI5 chips in 2026. High-volume Terafab output targeted for mid-2028/2029. This is how we make AI abundant, affordable, and truly useful for making life multi-planetary and maximizing human potential. The future is going to be ridiculously bright.</description>
-      <guid isPermaLink="false">twitter_elonmusk_7ed032a2</guid>
-      <pubDate>Sat, 30 May 2026 11:45:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0f2b1e80</guid>
+      <pubDate>Sat, 30 May 2026 15:49:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Release the body camera videos</title>
+      <link>https://twitter.com/elonmusk/status/6730c461</link>
+      <description>Release the body camera videos</description>
+      <guid isPermaLink="false">twitter_elonmusk_6730c461</guid>
+      <pubDate>Sat, 30 May 2026 15:54:32 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other...</title>
       <link>https://twitter.com/elonmusk/status/397e5919</link>
       <description>Mostly true. What matters is securing the long-term future of consciousness, both on Earth and other heavenly bodies. We cannot just focus on Earth, because there are irreducible external (eg massive meteor) and internal (eg global nuclear war) cataclysmic risks. The Moon is faster to make self-growing, but is more susceptible to problems on Earth. Mars will take longer to make self-growing, because it is so hard to reach, but is more secure from Earth disasters for that same reason. Both the Moon and Mars should have self-growing civilizations. Making this happen is the prime directive of SpaceX.</description>
       <guid isPermaLink="false">twitter_elonmusk_397e5919</guid>
-      <pubDate>Sat, 30 May 2026 11:50:28 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 15:59:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
