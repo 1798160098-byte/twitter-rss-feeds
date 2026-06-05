@@ -3,18 +3,18 @@
   <channel>
     <title>Twitter - @yueya_eth</title>
     <link>https://twitter.com/yueya_eth</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-06-04 19:15 UTC | 来源实例: none</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-06-05 21:05 UTC | 来源实例: none</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 19:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 21:05:04 +0000</lastBuildDate>
     <item>
       <title>@yueya_eth - 暂无新推文或获取失败</title>
       <link>https://twitter.com/yueya_eth</link>
-      <description>更新时间: 2026-06-04 19:15 UTC
+      <description>更新时间: 2026-06-05 21:05 UTC
 尝试的实例: none</description>
-      <guid isPermaLink="false">placeholder_yueya_eth_1780600550</guid>
-      <pubDate>Thu, 04 Jun 2026 19:15:50 +0000</pubDate>
+      <guid isPermaLink="false">placeholder_yueya_eth_1780693504</guid>
+      <pubDate>Fri, 05 Jun 2026 21:05:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
