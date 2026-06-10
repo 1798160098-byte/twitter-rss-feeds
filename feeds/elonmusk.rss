@@ -3,136 +3,122 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-06-10 14:32 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-06-10 20:17 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 14:32:56 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: We must stop harbouring those who wish to decapitate children. A vast number of people need to be re...</title>
-      <link>https://twitter.com/elonmusk/status/4161530e</link>
-      <description>We must stop harbouring those who wish to decapitate children. A vast number of people need to be removed from our country - when I say vast, I mean it. Millions and millions need to leave or be made to leave.</description>
-      <guid isPermaLink="false">twitter_elonmusk_4161530e</guid>
-      <pubDate>Wed, 10 Jun 2026 13:07:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Major improvement in safety statistics with FSD turned on in the Netherlands!</title>
-      <link>https://twitter.com/elonmusk/status/b65099db</link>
-      <description>Major improvement in safety statistics with FSD turned on in the Netherlands!</description>
-      <guid isPermaLink="false">twitter_elonmusk_b65099db</guid>
-      <pubDate>Wed, 10 Jun 2026 13:12:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: 🇰🇪 Starlink helping schools in Kenya 🇰🇪</title>
-      <link>https://twitter.com/elonmusk/status/ebbb3424</link>
-      <description>🇰🇪 Starlink helping schools in Kenya 🇰🇪</description>
-      <guid isPermaLink="false">twitter_elonmusk_ebbb3424</guid>
-      <pubDate>Wed, 10 Jun 2026 13:17:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: In Chile’s remote southern mountains, Starlink is providing reliable connectivity to a helicopter bu...</title>
-      <link>https://twitter.com/elonmusk/status/2dd7e96c</link>
-      <description>In Chile’s remote southern mountains, Starlink is providing reliable connectivity to a helicopter business for critical missions 🛰️🚁 →starlink.com/stories-chile</description>
-      <guid isPermaLink="false">twitter_elonmusk_2dd7e96c</guid>
-      <pubDate>Wed, 10 Jun 2026 13:22:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Indeed</title>
-      <link>https://twitter.com/elonmusk/status/667170ff</link>
-      <description>Indeed</description>
-      <guid isPermaLink="false">twitter_elonmusk_667170ff</guid>
-      <pubDate>Wed, 10 Jun 2026 13:27:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 20:17:21 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Tesla AI chip design engineering reviews are so great! Team is awesome. Our AI6 chip might set a rec...</title>
-      <link>https://twitter.com/elonmusk/status/aeefcbb8</link>
+      <link>https://twitter.com/elonmusk/status/487784fe</link>
       <description>Tesla AI chip design engineering reviews are so great! Team is awesome. Our AI6 chip might set a record for most amount of usable intelligence from a wafer when factoring in yield.</description>
-      <guid isPermaLink="false">twitter_elonmusk_aeefcbb8</guid>
-      <pubDate>Wed, 10 Jun 2026 13:32:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_487784fe</guid>
+      <pubDate>Wed, 10 Jun 2026 19:02:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: There has been a lot of hand wringing on the appropriate valuation of SpaceX. Some large institution...</title>
-      <link>https://twitter.com/elonmusk/status/d70b2331</link>
+      <link>https://twitter.com/elonmusk/status/4b3287ee</link>
       <description>There has been a lot of hand wringing on the appropriate valuation of SpaceX. Some large institutions believe SpaceX can only be valued at half what the market seems to be willing to pay for it. Others are claiming it has 15X appreciation ahead of it. Almost all of this difference of opinion comes down to how comfortable you are modeling beyond 2030 and what valuation method you use. 2030 valuation using a traditional Gordan DCF produces a very different result than a 2040 EV/EBITDA Multiple. Both have pros and cons. Most analysts don’t really discuss this and lead with a headline number. We are very comfortable modeling out to 2040, as large portions of what SpaceX is proposing is real world infrastructure, which provides modelable physics constraints to anchor against. The analysis we released today explores this in-depth, its open to the public all the way through IPO. I highly encourage you check it out prior to then.research.33fg.com/analysis/s…We’ve run 5,000 monte carlo runs across 500 variables (real number, even though it sounds fake) and three valuation methods. This video is of a 3D cloud chart showing every simulation outcome expected in valuation output across two of the most impactful variables to the model when using an EV/EBITDA multiple from 2026 to 2040. The horizontal axis is the steepness of the orbital data center demand S-curve. The vertical axis is the rate at which chip compute efficiency becomes cheaper. Each of the 5,000 dots is one simulated future; green dots are the ones where SpaceX's 2040 value clears the $1.77T IPO line, over time. Under EV/EBITDA valuation through 2040, 96% of our simulated futures clear the expected IPO price once the bell rings Friday. We aren’t publishing this publicly to tell investors what the stock is worth, we’re publishing this to help investors understand the world of outcomes, what the fundamentals suggest through 2040, and what frankly most analysis simply won’t share. SpaceX is a generational company working on long term infrastructure harnessing a domain no one has been able to tap in so far: space. It deserves doing the work as an investor. because this in not financial advice. The cleanest way to hold SpaceX is a bond stapled to a call option (AI-Compute); Starlink is the bond, the near term SatCom annuity that funds the next flywheel. Understand the world of outcomes and take your position accordingly. Comparables and P/E won't take you far enough.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d70b2331</guid>
-      <pubDate>Wed, 10 Jun 2026 13:37:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_4b3287ee</guid>
+      <pubDate>Wed, 10 Jun 2026 19:07:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BREAKING: A Sudanese immigrant tried to behead a man in Northern Ireland After the attack, flash pro...</title>
-      <link>https://twitter.com/elonmusk/status/14e8872e</link>
+      <link>https://twitter.com/elonmusk/status/82eab408</link>
       <description>BREAKING: A Sudanese immigrant tried to behead a man in Northern Ireland After the attack, flash protests were announced in at least 70 LOCATIONS across the UK by tonight</description>
-      <guid isPermaLink="false">twitter_elonmusk_14e8872e</guid>
-      <pubDate>Wed, 10 Jun 2026 13:42:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_82eab408</guid>
+      <pubDate>Wed, 10 Jun 2026 19:12:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: They call for calm in the face of horror. This is inhuman and manipulative. The proportionate and na...</title>
-      <link>https://twitter.com/elonmusk/status/3cba8dbc</link>
+      <link>https://twitter.com/elonmusk/status/2dc73360</link>
       <description>They call for calm in the face of horror. This is inhuman and manipulative. The proportionate and natural response to an horrific incident is disgust, fear and anger. They want to downplay the horror to dodge their own political responsibility for it.</description>
-      <guid isPermaLink="false">twitter_elonmusk_3cba8dbc</guid>
-      <pubDate>Wed, 10 Jun 2026 13:47:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2dc73360</guid>
+      <pubDate>Wed, 10 Jun 2026 19:17:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: This is the UK</title>
-      <link>https://twitter.com/elonmusk/status/2497ea83</link>
+      <link>https://twitter.com/elonmusk/status/75839895</link>
       <description>This is the UK</description>
-      <guid isPermaLink="false">twitter_elonmusk_2497ea83</guid>
-      <pubDate>Wed, 10 Jun 2026 13:52:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_75839895</guid>
+      <pubDate>Wed, 10 Jun 2026 19:22:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Build is pretty good at optimizing my code in one shot. Prompt: I want you to optimize it entir...</title>
-      <link>https://twitter.com/elonmusk/status/afd4c056</link>
+      <link>https://twitter.com/elonmusk/status/9f536f2c</link>
       <description>Grok Build is pretty good at optimizing my code in one shot. Prompt: I want you to optimize it entirely on GPU to speed it up. Measure two metrics: the result must compare with the golden image (CPU) and be nearly identical (PSNR &gt; 40dB), with fast pixels per second. Make a plan to a) write GPU equivalent code, b) write a benchmark suite to measure PSNR and pixels per second, c) execute various optimization strategies. Go!</description>
-      <guid isPermaLink="false">twitter_elonmusk_afd4c056</guid>
-      <pubDate>Wed, 10 Jun 2026 13:57:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9f536f2c</guid>
+      <pubDate>Wed, 10 Jun 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: For those impacted by the earthquake in the Philippines, Starlink Mobile is providing free connectiv...</title>
-      <link>https://twitter.com/elonmusk/status/86cf9a08</link>
+      <link>https://twitter.com/elonmusk/status/63665a05</link>
       <description>For those impacted by the earthquake in the Philippines, Starlink Mobile is providing free connectivity to@enjoyGlobecustomers in the affected regions. Families, communities and businesses with compatible LTE smartphones can now stay connected through select apps and SMS even if terrestrial networks are not available</description>
-      <guid isPermaLink="false">twitter_elonmusk_86cf9a08</guid>
-      <pubDate>Wed, 10 Jun 2026 14:02:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_63665a05</guid>
+      <pubDate>Wed, 10 Jun 2026 19:32:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Millions must go.</title>
-      <link>https://twitter.com/elonmusk/status/72e08796</link>
+      <link>https://twitter.com/elonmusk/status/7bd0d1e1</link>
       <description>Millions must go.</description>
-      <guid isPermaLink="false">twitter_elonmusk_72e08796</guid>
-      <pubDate>Wed, 10 Jun 2026 14:07:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_7bd0d1e1</guid>
+      <pubDate>Wed, 10 Jun 2026 19:37:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Exactly</title>
-      <link>https://twitter.com/elonmusk/status/5e6fef63</link>
+      <link>https://twitter.com/elonmusk/status/3ef9f7d6</link>
       <description>Exactly</description>
-      <guid isPermaLink="false">twitter_elonmusk_5e6fef63</guid>
-      <pubDate>Wed, 10 Jun 2026 14:12:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_3ef9f7d6</guid>
+      <pubDate>Wed, 10 Jun 2026 19:42:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The evidence of two tier policing and judiciary is clear for all to see.</title>
-      <link>https://twitter.com/elonmusk/status/a020197e</link>
+      <link>https://twitter.com/elonmusk/status/70a5e8c1</link>
       <description>The evidence of two tier policing and judiciary is clear for all to see.</description>
-      <guid isPermaLink="false">twitter_elonmusk_a020197e</guid>
-      <pubDate>Wed, 10 Jun 2026 14:17:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_70a5e8c1</guid>
+      <pubDate>Wed, 10 Jun 2026 19:47:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: They ruled Iryna’s killer is incompetent to stand trial. The same system ruled this man was plenty c...</title>
-      <link>https://twitter.com/elonmusk/status/ba13559a</link>
+      <link>https://twitter.com/elonmusk/status/1dcd8edf</link>
       <description>They ruled Iryna’s killer is incompetent to stand trial. The same system ruled this man was plenty competent enough to be released back into society dozens of times. It’s past time to remove these left wing activist judges.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ba13559a</guid>
-      <pubDate>Wed, 10 Jun 2026 14:22:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1dcd8edf</guid>
+      <pubDate>Wed, 10 Jun 2026 19:52:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Nothing else matters if civilization falls</title>
-      <link>https://twitter.com/elonmusk/status/ccb9b41c</link>
+      <link>https://twitter.com/elonmusk/status/53683bce</link>
       <description>Nothing else matters if civilization falls</description>
-      <guid isPermaLink="false">twitter_elonmusk_ccb9b41c</guid>
-      <pubDate>Wed, 10 Jun 2026 14:27:56 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_53683bce</guid>
+      <pubDate>Wed, 10 Jun 2026 19:57:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The core missions of Elon’s companies are always about maximizing the agency of humans. If you have ...</title>
+      <link>https://twitter.com/elonmusk/status/c6e4430c</link>
+      <description>The core missions of Elon’s companies are always about maximizing the agency of humans. If you have trouble driving, the car takes you where you want to go safely. If you need care, Optimus will be there. If you want to avoid traffic, there is Boring. If you need connectivity, Starlink provides it. If you want to go to space, Starship lowers the barrier to entry. If you are paralyzed, Neuralink restores your agency. If you want to be heard, X is there for your voice. If you want to build something, Grok Build realizes your ideas. By doing so, it inspires others to build. I am inspired to create a world where my kid has better access to agency than I do.</description>
+      <guid isPermaLink="false">twitter_elonmusk_c6e4430c</guid>
+      <pubDate>Wed, 10 Jun 2026 20:02:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Murderous migrants beheading innocent people in their home town is what’s making people angry, not “...</title>
+      <link>https://twitter.com/elonmusk/status/2ab893d7</link>
+      <description>Murderous migrants beheading innocent people in their home town is what’s making people angry, not “social media”!</description>
+      <guid isPermaLink="false">twitter_elonmusk_2ab893d7</guid>
+      <pubDate>Wed, 10 Jun 2026 20:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: What Sowell said is exactly right and needs to stop.</title>
+      <link>https://twitter.com/elonmusk/status/a4e0072a</link>
+      <description>What Sowell said is exactly right and needs to stop.</description>
+      <guid isPermaLink="false">twitter_elonmusk_a4e0072a</guid>
+      <pubDate>Wed, 10 Jun 2026 20:12:21 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceX AI Satellites</title>
       <link>https://twitter.com/elonmusk/status/e9f06a72</link>
       <description>SpaceX AI Satellites</description>
       <guid isPermaLink="false">twitter_elonmusk_e9f06a72</guid>
-      <pubDate>Wed, 10 Jun 2026 14:32:56 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 20:17:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
