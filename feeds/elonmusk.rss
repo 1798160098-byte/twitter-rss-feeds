@@ -3,136 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-06-19 20:12 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-06-20 04:48 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 20:12:13 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Afghan Army commanders brought their child sex slaves onto US bases; Marines got PTSD from hearing t...</title>
-      <link>https://twitter.com/elonmusk/status/33631a58</link>
-      <description>Afghan Army commanders brought their child sex slaves onto US bases; Marines got PTSD from hearing them get raped at night The governor of the district I deployed to had a basement rape dungeon And these were our allies, the “good guys” People have no idea how bad it is there</description>
-      <guid isPermaLink="false">twitter_elonmusk_33631a58</guid>
-      <pubDate>Fri, 19 Jun 2026 18:47:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Elon warned about the AI energy bottleneck before most people even understood it was coming “I can’t...</title>
-      <link>https://twitter.com/elonmusk/status/cc85f1cf</link>
-      <description>Elon warned about the AI energy bottleneck before most people even understood it was coming “I can’t emphasize enough - we need more electricity. However much electricity you think you need, it’s more than that” Now if look at what is happening. AI labs are raising billions, buying tons of GPUs, and announcing giant clusters But then reality hits: Where do you plug them in? This is why the AI race is really an energy race. Even the most sophisticated labs can have the money, the chips, and the models but none of it scales without the grid capacity to feed it The bottleneck is not just GPUs anymore. It is electricity, substations, transmission, permitting, and the ability to actually plug these massive clusters into the real world Elon saw this years ago and now everyone else is catching up</description>
-      <guid isPermaLink="false">twitter_elonmusk_cc85f1cf</guid>
-      <pubDate>Fri, 19 Jun 2026 18:52:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Jun 2026 04:48:28 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Announcing a new division of Midjourney called "Midjourney Medical"</title>
-      <link>https://twitter.com/elonmusk/status/5e04e503</link>
+      <link>https://twitter.com/elonmusk/status/24930f6f</link>
       <description>Announcing a new division of Midjourney called "Midjourney Medical"</description>
-      <guid isPermaLink="false">twitter_elonmusk_5e04e503</guid>
-      <pubDate>Fri, 19 Jun 2026 18:57:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_24930f6f</guid>
+      <pubDate>Sat, 20 Jun 2026 03:23:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Here’s everything you need to know about Grok Build’s changelog since release Grok Build is moving f...</title>
-      <link>https://twitter.com/elonmusk/status/5bfb7a14</link>
+      <link>https://twitter.com/elonmusk/status/8ad57551</link>
       <description>Here’s everything you need to know about Grok Build’s changelog since release Grok Build is moving fast from a coding CLI into a full terminal-native agent workspace Since launch, it has added or improved plan/review/approve workflows, clean diffs, project-aware context through AGENTS.md, skills, hooks, plugins, MCP servers, parallel subagents, headless mode, ACP support, web/X search, image and video tools, compaction, memory handling, and long-running sessions The biggest upgrade people should not miss is the rendering layer Grok Build can now keep more technical output directly inside the terminal: math, formulas, LaTeX, Mermaid diagrams, ER diagrams, UML/class diagrams, state diagrams, sequence diagrams, tables, media outputs, and richer terminal views That matters a lot for research, ML, simulations, algorithms, database design, infra diagrams, paper implementation, and serious code review The terminal is no longer just where you run commands. It is becoming the place where you understand the work, inspect the logic, review diagrams, and keep moving without constantly copying output into another app The workspace layer is also got much more serious upgrades Agent Dashboard lets you manage multiple coding sessions from one screen, see what is working, idle, blocked, or waiting for input, peek at the latest output, reply inline, and dispatch new work without jumping between sessions The Plugin Marketplace turns Grok Build into an extensible developer environment Plugins can bundle skills, slash commands, agents, hooks, MCP servers, and LSPs. Launch partners include MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers. Plugin installs can now resolve directly from registered marketplaces instead of only local paths The latest releases are mostly about making all of this reliable during real work Long responses can resume after network blips. MCP servers recover better after drops or noisy output. Compaction no longer hangs forever. Notifications only fire when user attention is actually needed. Linux clipboard support is stronger. Windows and iTerm rendering are cleaner. Very long sessions can scroll, resume, and quit without falling apart Grok Build is becoming a full terminal-native agent workspace: multi-session, plugin-driven, MCP-connected, diagram-aware, math-capable, media-capable, long-context, and built for developers who actually live in the terminal</description>
-      <guid isPermaLink="false">twitter_elonmusk_5bfb7a14</guid>
-      <pubDate>Fri, 19 Jun 2026 19:02:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8ad57551</guid>
+      <pubDate>Sat, 20 Jun 2026 03:28:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: It has been so long since the hobbits faced real danger in the Shire that they have forgotten how to...</title>
-      <link>https://twitter.com/elonmusk/status/26e4cc30</link>
+      <link>https://twitter.com/elonmusk/status/c37a6aca</link>
       <description>It has been so long since the hobbits faced real danger in the Shire that they have forgotten how to defend themselves</description>
-      <guid isPermaLink="false">twitter_elonmusk_26e4cc30</guid>
-      <pubDate>Fri, 19 Jun 2026 19:07:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_c37a6aca</guid>
+      <pubDate>Sat, 20 Jun 2026 03:33:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Falcon 9 launches NROL-179 to orbit from pad 4E in California</title>
-      <link>https://twitter.com/elonmusk/status/cef5a3c6</link>
+      <link>https://twitter.com/elonmusk/status/2b2dccb8</link>
       <description>Falcon 9 launches NROL-179 to orbit from pad 4E in California</description>
-      <guid isPermaLink="false">twitter_elonmusk_cef5a3c6</guid>
-      <pubDate>Fri, 19 Jun 2026 19:12:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2b2dccb8</guid>
+      <pubDate>Sat, 20 Jun 2026 03:38:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Falcon 9’s first stage lands on LZ-4</title>
-      <link>https://twitter.com/elonmusk/status/19f87246</link>
+      <link>https://twitter.com/elonmusk/status/927cf52f</link>
       <description>Falcon 9’s first stage lands on LZ-4</description>
-      <guid isPermaLink="false">twitter_elonmusk_19f87246</guid>
-      <pubDate>Fri, 19 Jun 2026 19:17:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_927cf52f</guid>
+      <pubDate>Sat, 20 Jun 2026 03:43:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🚨Important Announcement: Puberty Blockers Judicial Review🚨 Following months of radio silence, I’m sa...</title>
-      <link>https://twitter.com/elonmusk/status/ca9b742f</link>
+      <link>https://twitter.com/elonmusk/status/ec733892</link>
       <description>🚨Important Announcement: Puberty Blockers Judicial Review🚨 Following months of radio silence, I’m saddened to report that the government has announced that it is pushing forward with the puberty blockers trial, regardless of the significant ethical concerns raised that led to the temporary pause. Most troubling of all is that they are now refusing to halt recruitment of children until the end of the Judicial Review that we are bringing. As such, we have no choice but to seek an emergency injunction to block a single child being recruited and given this poison. There will be a hearing at the end of July to determine this. Please rest assured that I and the entire team will be pursuing this Judicial Review all the way.@jamesmurray_ldn- Just as with your predecessor, Wes Streeting, we implore you to do the right thing and pull the plug on this monstrosity of a trial. If you don’t, we will see you in Court.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ca9b742f</guid>
-      <pubDate>Fri, 19 Jun 2026 19:22:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ec733892</guid>
+      <pubDate>Sat, 20 Jun 2026 03:48:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Q1 tonnage to orbit by launch provider. Once Starship is flying hourly, SpaceX’s mass to orbit will ...</title>
-      <link>https://twitter.com/elonmusk/status/754f961f</link>
+      <link>https://twitter.com/elonmusk/status/875a3f89</link>
       <description>Q1 tonnage to orbit by launch provider. Once Starship is flying hourly, SpaceX’s mass to orbit will be about 100 times more than everyone else combined, even if they triple their current launch rate.</description>
-      <guid isPermaLink="false">twitter_elonmusk_754f961f</guid>
-      <pubDate>Fri, 19 Jun 2026 19:27:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_875a3f89</guid>
+      <pubDate>Sat, 20 Jun 2026 03:53:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Fauci committed so many evil crimes</title>
-      <link>https://twitter.com/elonmusk/status/553dfd61</link>
+      <link>https://twitter.com/elonmusk/status/ab0df071</link>
       <description>Fauci committed so many evil crimes</description>
-      <guid isPermaLink="false">twitter_elonmusk_553dfd61</guid>
-      <pubDate>Fri, 19 Jun 2026 19:32:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ab0df071</guid>
+      <pubDate>Sat, 20 Jun 2026 03:58:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: In the future, a trillion times a trillion dollars will be spent on making antimatter to travel to o...</title>
-      <link>https://twitter.com/elonmusk/status/462ec006</link>
+      <link>https://twitter.com/elonmusk/status/e45d845f</link>
       <description>In the future, a trillion times a trillion dollars will be spent on making antimatter to travel to other star systems</description>
-      <guid isPermaLink="false">twitter_elonmusk_462ec006</guid>
-      <pubDate>Fri, 19 Jun 2026 19:37:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e45d845f</guid>
+      <pubDate>Sat, 20 Jun 2026 04:03:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: So let me get this straight: in the UK, a 15-year-old can’t be trusted with social media, but an 11-...</title>
-      <link>https://twitter.com/elonmusk/status/89b97deb</link>
+      <link>https://twitter.com/elonmusk/status/5f5283b7</link>
       <description>So let me get this straight: in the UK, a 15-year-old can’t be trusted with social media, but an 11-year-old can be trusted to make life-altering medical decisions that could leave them infertile for life. To protect the children, of course.</description>
-      <guid isPermaLink="false">twitter_elonmusk_89b97deb</guid>
-      <pubDate>Fri, 19 Jun 2026 19:42:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5f5283b7</guid>
+      <pubDate>Sat, 20 Jun 2026 04:08:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Things won’t be measure in dollars then, just mass &amp; energy</title>
-      <link>https://twitter.com/elonmusk/status/9e04740a</link>
+      <link>https://twitter.com/elonmusk/status/2c4a963a</link>
       <description>Things won’t be measure in dollars then, just mass &amp; energy</description>
-      <guid isPermaLink="false">twitter_elonmusk_9e04740a</guid>
-      <pubDate>Fri, 19 Jun 2026 19:47:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2c4a963a</guid>
+      <pubDate>Sat, 20 Jun 2026 04:13:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Asmongold read the entire UK rape gang report live to hundreds of thousands of viewers on a 7-hour s...</title>
-      <link>https://twitter.com/elonmusk/status/bfb6e3ba</link>
+      <link>https://twitter.com/elonmusk/status/a3981873</link>
       <description>Asmongold read the entire UK rape gang report live to hundreds of thousands of viewers on a 7-hour stream. Single-handedly, he has done more to expose the grooming gangs and protect vulnerable girls than the entire modern feminist movement combined.</description>
-      <guid isPermaLink="false">twitter_elonmusk_bfb6e3ba</guid>
-      <pubDate>Fri, 19 Jun 2026 19:52:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a3981873</guid>
+      <pubDate>Sat, 20 Jun 2026 04:18:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The reason they call me a Nazi is to encourage people to murder me</title>
-      <link>https://twitter.com/elonmusk/status/d87496b3</link>
+      <link>https://twitter.com/elonmusk/status/27a151cd</link>
       <description>The reason they call me a Nazi is to encourage people to murder me</description>
-      <guid isPermaLink="false">twitter_elonmusk_d87496b3</guid>
-      <pubDate>Fri, 19 Jun 2026 19:57:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_27a151cd</guid>
+      <pubDate>Sat, 20 Jun 2026 04:23:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: On her way out,@TulsiGabbarddropped bombshell documents proving Dr. Fauci colluded with a politicize...</title>
-      <link>https://twitter.com/elonmusk/status/7bcc7dde</link>
+      <link>https://twitter.com/elonmusk/status/d5333257</link>
       <description>On her way out,@TulsiGabbarddropped bombshell documents proving Dr. Fauci colluded with a politicized intel community to bury the lab-leak truth and lie to Congress. I've referred him to the DOJ multiple times for prosecution. The evidence keeps mounting, but more will be coming soon.</description>
-      <guid isPermaLink="false">twitter_elonmusk_7bcc7dde</guid>
-      <pubDate>Fri, 19 Jun 2026 20:02:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d5333257</guid>
+      <pubDate>Sat, 20 Jun 2026 04:28:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Well, it worked with Charlie Kirk, didn’t it?</title>
-      <link>https://twitter.com/elonmusk/status/78b2c279</link>
+      <link>https://twitter.com/elonmusk/status/aaf636bc</link>
       <description>Well, it worked with Charlie Kirk, didn’t it?</description>
-      <guid isPermaLink="false">twitter_elonmusk_78b2c279</guid>
-      <pubDate>Fri, 19 Jun 2026 20:07:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_aaf636bc</guid>
+      <pubDate>Sat, 20 Jun 2026 04:33:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: You want me to be mad that 250,000 British girls were raped by brown invaders. But I want to know wh...</title>
+      <link>https://twitter.com/elonmusk/status/3a8c324b</link>
+      <description>You want me to be mad that 250,000 British girls were raped by brown invaders. But I want to know why the same outrage wasn’t seen when it was just 25 British girls. And I’ll tell you this - You, the men of Britain, will even tolerate 2.5 million of your women being raped and trafficked by the brown invaders, or more! Why? Because you are waiting for permission from someone to do what needs to be done and that permission will never come. The problem isn’t so much the invader (don’t get me wrong, they are a problem), the problem is there is something faulty with our psychology. We have become the dumb, obedient golden retriever of the races of man. This mindset has to be erased from us, forever, or we will be wiped out.</description>
+      <guid isPermaLink="false">twitter_elonmusk_3a8c324b</guid>
+      <pubDate>Sat, 20 Jun 2026 04:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Starlink in Lesotho! 🇱🇸</title>
+      <link>https://twitter.com/elonmusk/status/950da83e</link>
+      <description>Starlink in Lesotho! 🇱🇸</description>
+      <guid isPermaLink="false">twitter_elonmusk_950da83e</guid>
+      <pubDate>Sat, 20 Jun 2026 04:43:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars</title>
       <link>https://twitter.com/elonmusk/status/8f0288e5</link>
       <description>Make our Sun sentient to understand the Universe and extend the light of consciousness to the stars</description>
       <guid isPermaLink="false">twitter_elonmusk_8f0288e5</guid>
-      <pubDate>Fri, 19 Jun 2026 20:12:13 +0000</pubDate>
+      <pubDate>Sat, 20 Jun 2026 04:48:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
