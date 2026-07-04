@@ -3,122 +3,122 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-07-04 21:27 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-07-04 22:26 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 21:27:21 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Looking forward to the long weekend</title>
-      <link>https://twitter.com/elonmusk/status/283ee91d</link>
-      <description>Looking forward to the long weekend</description>
-      <guid isPermaLink="false">twitter_elonmusk_283ee91d</guid>
-      <pubDate>Sat, 04 Jul 2026 20:12:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Jul 2026 22:26:28 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Finally, Grok’s Speech-to-Text is now live in Grok Build You can now just dictate prompts directly t...</title>
-      <link>https://twitter.com/elonmusk/status/484d0e04</link>
+      <link>https://twitter.com/elonmusk/status/7162704d</link>
       <description>Finally, Grok’s Speech-to-Text is now live in Grok Build You can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice Just talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to work instead of stopping to type every instruction This makes it so much easier to: • Brainstorm ideas while coding • Describe complex changes conversationally • Stay in flow without switching between keyboard and voice • Interact with coding agents more naturally As AI coding assistants get more capable, voice is becoming a first-class workflow in Grok Build Huge unlock for anyone who thinks out loud or hates context switching</description>
-      <guid isPermaLink="false">twitter_elonmusk_484d0e04</guid>
-      <pubDate>Sat, 04 Jul 2026 20:17:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_7162704d</guid>
+      <pubDate>Sat, 04 Jul 2026 21:11:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Q2 2026 Production: 451,758 Deliveries: 480,126 Energy storage deployments: 13.5 GWh Our Q2 Company ...</title>
-      <link>https://twitter.com/elonmusk/status/3d1bc08c</link>
+      <link>https://twitter.com/elonmusk/status/40890ce4</link>
       <description>Q2 2026 Production: 451,758 Deliveries: 480,126 Energy storage deployments: 13.5 GWh Our Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT →ir.tesla.com/press-release/t…</description>
-      <guid isPermaLink="false">twitter_elonmusk_3d1bc08c</guid>
-      <pubDate>Sat, 04 Jul 2026 20:22:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_40890ce4</guid>
+      <pubDate>Sat, 04 Jul 2026 21:16:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: First builds of Model Y Long Wheelbase at Giga Texas</title>
-      <link>https://twitter.com/elonmusk/status/8f7fe676</link>
+      <link>https://twitter.com/elonmusk/status/ad9d9e2e</link>
       <description>First builds of Model Y Long Wheelbase at Giga Texas</description>
-      <guid isPermaLink="false">twitter_elonmusk_8f7fe676</guid>
-      <pubDate>Sat, 04 Jul 2026 20:27:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ad9d9e2e</guid>
+      <pubDate>Sat, 04 Jul 2026 21:21:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Another major Grok Build update just landed, packed with new features, extensive bug fixes, and mean...</title>
-      <link>https://twitter.com/elonmusk/status/59a0da77</link>
+      <link>https://twitter.com/elonmusk/status/75e3f6a0</link>
       <description>Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements Release Notes: v0.2.84 — 2026-07-03 Features: • Announcements now update live during active sessions without restart or /new. • Hiding an announcement no longer suppresses later criticals; new ones reappear automatically. • run_terminal_cmd now requires a one-sentence description rationale in every invocation. • ask_user_question timeout policy is now configurable in config.toml and /settings. • Ask-Question timeout can now be toggled from /settings (Agent &amp; Approval). • Thinking/reasoning blocks are now shown by default while the model is working. • Critical announcements now show a red title with a clickable [hide] button and aligned message. • Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments. Bug Fixes: • Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation. • Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count. • Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name. • Copy now succeeds when running inside containers even when the terminal brand cannot be detected. • Tool result previews no longer paint opaque panels in grok --minimal. • grok wrap now correctly handles quoted strings and shell aliases. • Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain. • Fixed a freeze that could occur when editing and sending the last message in the queue. • Fixed a startup crash on minimal Linux systems lacking system CA certificates. Performance: • Grep now stops early on broad searches, returning faster results with far less memory use. • Idle CPU and memory usage after long sessions or resume is now dramatically lower.</description>
-      <guid isPermaLink="false">twitter_elonmusk_59a0da77</guid>
-      <pubDate>Sat, 04 Jul 2026 20:32:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_75e3f6a0</guid>
+      <pubDate>Sat, 04 Jul 2026 21:26:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Turbo America. 🇺🇸🚀</title>
-      <link>https://twitter.com/elonmusk/status/2d4fd077</link>
+      <link>https://twitter.com/elonmusk/status/d5742005</link>
       <description>Turbo America. 🇺🇸🚀</description>
-      <guid isPermaLink="false">twitter_elonmusk_2d4fd077</guid>
-      <pubDate>Sat, 04 Jul 2026 20:37:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d5742005</guid>
+      <pubDate>Sat, 04 Jul 2026 21:31:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BREAKING: Tesla Model Y was the best-selling vehicle overall in New Zealand for the month of June.</title>
-      <link>https://twitter.com/elonmusk/status/6b66c871</link>
+      <link>https://twitter.com/elonmusk/status/ad3a7ff8</link>
       <description>BREAKING: Tesla Model Y was the best-selling vehicle overall in New Zealand for the month of June.</description>
-      <guid isPermaLink="false">twitter_elonmusk_6b66c871</guid>
-      <pubDate>Sat, 04 Jul 2026 20:42:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ad3a7ff8</guid>
+      <pubDate>Sat, 04 Jul 2026 21:36:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Good explanation of why some people find “wealth” inexplicable</title>
-      <link>https://twitter.com/elonmusk/status/4abff10d</link>
+      <link>https://twitter.com/elonmusk/status/6080406c</link>
       <description>Good explanation of why some people find “wealth” inexplicable</description>
-      <guid isPermaLink="false">twitter_elonmusk_4abff10d</guid>
-      <pubDate>Sat, 04 Jul 2026 20:47:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6080406c</guid>
+      <pubDate>Sat, 04 Jul 2026 21:41:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Uranus is finally getting the attention it deserves 🔵😄 Scientists want to send a mission called Uran...</title>
-      <link>https://twitter.com/elonmusk/status/fd82ba0a</link>
+      <link>https://twitter.com/elonmusk/status/a153b959</link>
       <description>Uranus is finally getting the attention it deserves 🔵😄 Scientists want to send a mission called Uranus Orbiter and Probe — a spacecraft that would travel all the way to Uranus, drop a probe into its atmosphere, and then stay behind in orbit to study the planet, its rings, moons, magnetic field, and what’s going on deep inside. Why Uranus? Because we’ve barely seen it up close. The only spacecraft to visit it was Voyager 2 in 1986, and that was just a quick flyby. Since then, Uranus has remained one of the Solar System’s biggest mysteries. And it’s a weird one: 💙 it spins almost on its side 🧊 it’s one of the coldest planets in the Solar System 💎 diamonds rain down on Uranus’ core 🌀 and its magnetic field is exceptionally chaotic, tilted, and lopsided This mission could help scientists understand not only Uranus itself, but also a whole class of planets called ice giants — which may be common around other stars, too. So yes, NASA really does want to go much deeper into Uranus. Would you want to see a mission like this finally launch? 🚀</description>
-      <guid isPermaLink="false">twitter_elonmusk_fd82ba0a</guid>
-      <pubDate>Sat, 04 Jul 2026 20:52:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a153b959</guid>
+      <pubDate>Sat, 04 Jul 2026 21:46:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: America needs to build again, and it is building. We kick off our@corememory4th of July American man...</title>
-      <link>https://twitter.com/elonmusk/status/3405abba</link>
+      <link>https://twitter.com/elonmusk/status/5f55dedf</link>
       <description>America needs to build again, and it is building. We kick off our@corememory4th of July American manufacturing extravaganza with the latest temple to metal built by@elonmuskand the@tesla_semiteam. This is an hour+ tour of the Tesla Semi factory in Nevada alongside@danWpriestley.</description>
-      <guid isPermaLink="false">twitter_elonmusk_3405abba</guid>
-      <pubDate>Sat, 04 Jul 2026 20:57:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5f55dedf</guid>
+      <pubDate>Sat, 04 Jul 2026 21:51:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments...</title>
-      <link>https://twitter.com/elonmusk/status/0aa89891</link>
+      <link>https://twitter.com/elonmusk/status/dcd773c0</link>
       <description>Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds. Total tunnel weight: ~100 million pounds!</description>
-      <guid isPermaLink="false">twitter_elonmusk_0aa89891</guid>
-      <pubDate>Sat, 04 Jul 2026 21:02:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_dcd773c0</guid>
+      <pubDate>Sat, 04 Jul 2026 21:56:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Happy Birthday America, Land of the Free. Don’t give up on the First, Second, Fourth, and Ninth Amen...</title>
-      <link>https://twitter.com/elonmusk/status/463a8e83</link>
+      <link>https://twitter.com/elonmusk/status/03c052e3</link>
       <description>Happy Birthday America, Land of the Free. Don’t give up on the First, Second, Fourth, and Ninth Amendments. They’re unique, and your freedom - and the worlds’ - depends on them.</description>
-      <guid isPermaLink="false">twitter_elonmusk_463a8e83</guid>
-      <pubDate>Sat, 04 Jul 2026 21:07:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_03c052e3</guid>
+      <pubDate>Sat, 04 Jul 2026 22:01:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: God bless America.</title>
-      <link>https://twitter.com/elonmusk/status/40a251a2</link>
+      <link>https://twitter.com/elonmusk/status/0d7d3ec5</link>
       <description>God bless America.</description>
-      <guid isPermaLink="false">twitter_elonmusk_40a251a2</guid>
-      <pubDate>Sat, 04 Jul 2026 21:12:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0d7d3ec5</guid>
+      <pubDate>Sat, 04 Jul 2026 22:06:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Project Hail Mary is now on Prime Video, free for Prime members everywhere. It’s my favorite movie t...</title>
-      <link>https://twitter.com/elonmusk/status/becd91b3</link>
+      <link>https://twitter.com/elonmusk/status/24cbd690</link>
       <description>Project Hail Mary is now on Prime Video, free for Prime members everywhere. It’s my favorite movie that I've seen in a long time. Truly outstanding and unique. Phil Lord and Chris Miller pulled off something remarkable, Ryan Gosling is amazing, and none of this happens without Andy Weir’s compelling book. If you missed it in theaters, now's your chance. And, if you already saw it, it's an easy way to rewatch. Think you'll enjoy.</description>
-      <guid isPermaLink="false">twitter_elonmusk_becd91b3</guid>
-      <pubDate>Sat, 04 Jul 2026 21:17:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_24cbd690</guid>
+      <pubDate>Sat, 04 Jul 2026 22:11:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Teslas are the most American-made cars 🇺🇸 Happy 250th birthday, America 🇺🇸</title>
-      <link>https://twitter.com/elonmusk/status/d69e9b8c</link>
+      <link>https://twitter.com/elonmusk/status/9615ccbe</link>
       <description>Teslas are the most American-made cars 🇺🇸 Happy 250th birthday, America 🇺🇸</description>
-      <guid isPermaLink="false">twitter_elonmusk_d69e9b8c</guid>
-      <pubDate>Sat, 04 Jul 2026 21:22:21 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9615ccbe</guid>
+      <pubDate>Sat, 04 Jul 2026 22:16:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Elon Musk is an American by blood His grandfather, Joshua Haldeman (6’6”) and father to Maye Musk, w...</title>
+      <link>https://twitter.com/elonmusk/status/4032bcc7</link>
+      <description>Elon Musk is an American by blood His grandfather, Joshua Haldeman (6’6”) and father to Maye Musk, was born in 1902 in Pequot Lakes, Minnesota, and even paid his way through college by competing in rodeos, the most American thing imaginable.</description>
+      <guid isPermaLink="false">twitter_elonmusk_4032bcc7</guid>
+      <pubDate>Sat, 04 Jul 2026 22:21:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: God Bless America</title>
       <link>https://twitter.com/elonmusk/status/d1185427</link>
       <description>God Bless America</description>
       <guid isPermaLink="false">twitter_elonmusk_d1185427</guid>
-      <pubDate>Sat, 04 Jul 2026 21:27:21 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 22:26:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
