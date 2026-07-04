@@ -3,122 +3,122 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-07-04 08:08 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-07-04 20:27 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 20:27:37 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Model Y long wheelbase now available to order in the US</title>
       <link>https://twitter.com/elonmusk/status/ea409f6b</link>
       <description>Model Y long wheelbase now available to order in the US</description>
       <guid isPermaLink="false">twitter_elonmusk_ea409f6b</guid>
-      <pubDate>Sat, 04 Jul 2026 06:53:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:12:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Looking forward to the long weekend</title>
       <link>https://twitter.com/elonmusk/status/0efab001</link>
       <description>Looking forward to the long weekend</description>
       <guid isPermaLink="false">twitter_elonmusk_0efab001</guid>
-      <pubDate>Sat, 04 Jul 2026 06:58:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:17:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Finally, Grok’s Speech-to-Text is now live in Grok Build You can now just dictate prompts directly t...</title>
       <link>https://twitter.com/elonmusk/status/aeac00b1</link>
       <description>Finally, Grok’s Speech-to-Text is now live in Grok Build You can now just dictate prompts directly to your coding agents using /voice or Ctrl + Space, powered by Grok Voice Just talk naturally for like 15 minutes straight. Grok transcribes everything in real-time and gets to work instead of stopping to type every instruction This makes it so much easier to: • Brainstorm ideas while coding • Describe complex changes conversationally • Stay in flow without switching between keyboard and voice • Interact with coding agents more naturally As AI coding assistants get more capable, voice is becoming a first-class workflow in Grok Build Huge unlock for anyone who thinks out loud or hates context switching</description>
       <guid isPermaLink="false">twitter_elonmusk_aeac00b1</guid>
-      <pubDate>Sat, 04 Jul 2026 07:03:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:22:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Q2 2026 Production: 451,758 Deliveries: 480,126 Energy storage deployments: 13.5 GWh Our Q2 Company ...</title>
       <link>https://twitter.com/elonmusk/status/67667103</link>
       <description>Q2 2026 Production: 451,758 Deliveries: 480,126 Energy storage deployments: 13.5 GWh Our Q2 Company Update will be streamed live on X on July 22 at 4:30pm CT →ir.tesla.com/press-release/t…</description>
       <guid isPermaLink="false">twitter_elonmusk_67667103</guid>
-      <pubDate>Sat, 04 Jul 2026 07:08:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:27:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: First builds of Model Y Long Wheelbase at Giga Texas</title>
       <link>https://twitter.com/elonmusk/status/381c8574</link>
       <description>First builds of Model Y Long Wheelbase at Giga Texas</description>
       <guid isPermaLink="false">twitter_elonmusk_381c8574</guid>
-      <pubDate>Sat, 04 Jul 2026 07:13:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:32:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Another major Grok Build update just landed, packed with new features, extensive bug fixes, and mean...</title>
       <link>https://twitter.com/elonmusk/status/4318942e</link>
       <description>Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements Release Notes: v0.2.84 — 2026-07-03 Features: • Announcements now update live during active sessions without restart or /new. • Hiding an announcement no longer suppresses later criticals; new ones reappear automatically. • run_terminal_cmd now requires a one-sentence description rationale in every invocation. • ask_user_question timeout policy is now configurable in config.toml and /settings. • Ask-Question timeout can now be toggled from /settings (Agent &amp; Approval). • Thinking/reasoning blocks are now shown by default while the model is working. • Critical announcements now show a red title with a clickable [hide] button and aligned message. • Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments. Bug Fixes: • Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation. • Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count. • Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name. • Copy now succeeds when running inside containers even when the terminal brand cannot be detected. • Tool result previews no longer paint opaque panels in grok --minimal. • grok wrap now correctly handles quoted strings and shell aliases. • Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain. • Fixed a freeze that could occur when editing and sending the last message in the queue. • Fixed a startup crash on minimal Linux systems lacking system CA certificates. Performance: • Grep now stops early on broad searches, returning faster results with far less memory use. • Idle CPU and memory usage after long sessions or resume is now dramatically lower.</description>
       <guid isPermaLink="false">twitter_elonmusk_4318942e</guid>
-      <pubDate>Sat, 04 Jul 2026 07:18:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:37:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Turbo America. 🇺🇸🚀</title>
       <link>https://twitter.com/elonmusk/status/ace09f73</link>
       <description>Turbo America. 🇺🇸🚀</description>
       <guid isPermaLink="false">twitter_elonmusk_ace09f73</guid>
-      <pubDate>Sat, 04 Jul 2026 07:23:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:42:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BREAKING: Tesla Model Y was the best-selling vehicle overall in New Zealand for the month of June.</title>
       <link>https://twitter.com/elonmusk/status/95de8fb7</link>
       <description>BREAKING: Tesla Model Y was the best-selling vehicle overall in New Zealand for the month of June.</description>
       <guid isPermaLink="false">twitter_elonmusk_95de8fb7</guid>
-      <pubDate>Sat, 04 Jul 2026 07:28:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:47:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Good explanation of why some people find “wealth” inexplicable</title>
       <link>https://twitter.com/elonmusk/status/fb8a7495</link>
       <description>Good explanation of why some people find “wealth” inexplicable</description>
       <guid isPermaLink="false">twitter_elonmusk_fb8a7495</guid>
-      <pubDate>Sat, 04 Jul 2026 07:33:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:52:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Uranus is finally getting the attention it deserves 🔵😄 Scientists want to send a mission called Uran...</title>
       <link>https://twitter.com/elonmusk/status/a8940d98</link>
       <description>Uranus is finally getting the attention it deserves 🔵😄 Scientists want to send a mission called Uranus Orbiter and Probe — a spacecraft that would travel all the way to Uranus, drop a probe into its atmosphere, and then stay behind in orbit to study the planet, its rings, moons, magnetic field, and what’s going on deep inside. Why Uranus? Because we’ve barely seen it up close. The only spacecraft to visit it was Voyager 2 in 1986, and that was just a quick flyby. Since then, Uranus has remained one of the Solar System’s biggest mysteries. And it’s a weird one: 💙 it spins almost on its side 🧊 it’s one of the coldest planets in the Solar System 💎 diamonds rain down on Uranus’ core 🌀 and its magnetic field is exceptionally chaotic, tilted, and lopsided This mission could help scientists understand not only Uranus itself, but also a whole class of planets called ice giants — which may be common around other stars, too. So yes, NASA really does want to go much deeper into Uranus. Would you want to see a mission like this finally launch? 🚀</description>
       <guid isPermaLink="false">twitter_elonmusk_a8940d98</guid>
-      <pubDate>Sat, 04 Jul 2026 07:38:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 19:57:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: America needs to build again, and it is building. We kick off our@corememory4th of July American man...</title>
       <link>https://twitter.com/elonmusk/status/67d0209d</link>
       <description>America needs to build again, and it is building. We kick off our@corememory4th of July American manufacturing extravaganza with the latest temple to metal built by@elonmuskand the@tesla_semiteam. This is an hour+ tour of the Tesla Semi factory in Nevada alongside@danWpriestley.</description>
       <guid isPermaLink="false">twitter_elonmusk_67d0209d</guid>
-      <pubDate>Sat, 04 Jul 2026 07:43:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 20:02:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments...</title>
       <link>https://twitter.com/elonmusk/status/18bb1d9e</link>
       <description>Precast concrete operation at TBC Dubai. The first phase of Dubai Loop will utilize ~25,000 segments, each weighing ~4,000 pounds. Total tunnel weight: ~100 million pounds!</description>
       <guid isPermaLink="false">twitter_elonmusk_18bb1d9e</guid>
-      <pubDate>Sat, 04 Jul 2026 07:48:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 20:07:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Happy Birthday America, Land of the Free. Don’t give up on the First, Second, Fourth, and Ninth Amen...</title>
       <link>https://twitter.com/elonmusk/status/0218a90f</link>
       <description>Happy Birthday America, Land of the Free. Don’t give up on the First, Second, Fourth, and Ninth Amendments. They’re unique, and your freedom - and the worlds’ - depends on them.</description>
       <guid isPermaLink="false">twitter_elonmusk_0218a90f</guid>
-      <pubDate>Sat, 04 Jul 2026 07:53:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 20:12:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: God bless America.</title>
       <link>https://twitter.com/elonmusk/status/ac4298d2</link>
       <description>God bless America.</description>
       <guid isPermaLink="false">twitter_elonmusk_ac4298d2</guid>
-      <pubDate>Sat, 04 Jul 2026 07:58:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 20:17:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Project Hail Mary is now on Prime Video, free for Prime members everywhere. It’s my favorite movie t...</title>
       <link>https://twitter.com/elonmusk/status/b7faf7b9</link>
       <description>Project Hail Mary is now on Prime Video, free for Prime members everywhere. It’s my favorite movie that I've seen in a long time. Truly outstanding and unique. Phil Lord and Chris Miller pulled off something remarkable, Ryan Gosling is amazing, and none of this happens without Andy Weir’s compelling book. If you missed it in theaters, now's your chance. And, if you already saw it, it's an easy way to rewatch. Think you'll enjoy.</description>
       <guid isPermaLink="false">twitter_elonmusk_b7faf7b9</guid>
-      <pubDate>Sat, 04 Jul 2026 08:03:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 20:22:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: God Bless America</title>
       <link>https://twitter.com/elonmusk/status/d1185427</link>
       <description>God Bless America</description>
       <guid isPermaLink="false">twitter_elonmusk_d1185427</guid>
-      <pubDate>Sat, 04 Jul 2026 08:08:12 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 20:27:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
