@@ -3,136 +3,143 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-07-15 04:44 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-07-15 07:08 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 04:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:08:30 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you fo...</title>
-      <link>https://twitter.com/elonmusk/status/d06872eb</link>
+      <link>https://twitter.com/elonmusk/status/7bcdab2b</link>
       <description>We're rolling out a small tweak to boost visibility of your posts to your mutuals (people who you follow back). We noticed this data was missing from the algo and it made your friends appear less in your replies. This resulted in the reply section feeling more like a battleground with people you don't recognize. This should also help clusters form around interests more easily, which many people have asked for.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d06872eb</guid>
-      <pubDate>Wed, 15 Jul 2026 03:19:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_7bcdab2b</guid>
+      <pubDate>Wed, 15 Jul 2026 05:38:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is r...</title>
-      <link>https://twitter.com/elonmusk/status/63b66302</link>
+      <link>https://twitter.com/elonmusk/status/fa7498c7</link>
       <description>The default in Grok Build is off. You can also run /privacy and any synced data is deleted. ZDR is respected for both headless and interactive use as well.</description>
-      <guid isPermaLink="false">twitter_elonmusk_63b66302</guid>
-      <pubDate>Wed, 15 Jul 2026 03:24:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fa7498c7</guid>
+      <pubDate>Wed, 15 Jul 2026 05:43:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Crazy what you can build with Grok 4.5 and Grok Build in minutes.</title>
-      <link>https://twitter.com/elonmusk/status/9aa86193</link>
+      <link>https://twitter.com/elonmusk/status/048084de</link>
       <description>Crazy what you can build with Grok 4.5 and Grok Build in minutes.</description>
-      <guid isPermaLink="false">twitter_elonmusk_9aa86193</guid>
-      <pubDate>Wed, 15 Jul 2026 03:29:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_048084de</guid>
+      <pubDate>Wed, 15 Jul 2026 05:48:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fun...</title>
-      <link>https://twitter.com/elonmusk/status/89f7279d</link>
+      <link>https://twitter.com/elonmusk/status/a0bafeff</link>
       <description>SpaceX was founded on one powerful belief: A future where humanity is out exploring the stars is fundamentally more exciting than one where we are not Every Falcon launch, every Starship test, and every step toward Mars is built around that belief The goal is not just to reach space It is to build a future where humanity becomes a multiplanetary civilization</description>
-      <guid isPermaLink="false">twitter_elonmusk_89f7279d</guid>
-      <pubDate>Wed, 15 Jul 2026 03:34:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a0bafeff</guid>
+      <pubDate>Wed, 15 Jul 2026 05:53:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The woke mob had turned Twitter into Wormtongue to the World</title>
-      <link>https://twitter.com/elonmusk/status/8f601f54</link>
+      <link>https://twitter.com/elonmusk/status/8efaaa6a</link>
       <description>The woke mob had turned Twitter into Wormtongue to the World</description>
-      <guid isPermaLink="false">twitter_elonmusk_8f601f54</guid>
-      <pubDate>Wed, 15 Jul 2026 03:39:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8efaaa6a</guid>
+      <pubDate>Wed, 15 Jul 2026 05:58:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time...</title>
-      <link>https://twitter.com/elonmusk/status/ba377ad4</link>
+      <link>https://twitter.com/elonmusk/status/ed4bdf39</link>
       <description>Just a reminder that deepseek v3 came out 18 months ago and was considered revolutionary at the time but is basically unusable today There was a fierce debate at the time about vibe coding and the argument was that LLMs can never create anything new because they are limited by their training data Those engineers were partly right and vibe coding was a real nightmare, I cannot believe what we used to put ourselves through with Sonnet 3.5, but we also knew real new things could be made and that the detractors were wrong I guess us non-engineers saw it most clearly (I would like to think so at least) because we were astonished at the new things we could do without the programming background, and we had nothing to lose and everything to gain in our enthusiasm Then came Opus 4.5 earlier this year which changed everything Suddenly real production code became possible with so much less friction and headache Everyone complained endlessly about models being nerfed or quantized but there was a steady march of progress from 4.5 to 4.8 Now a completely new crop of models is coming out that is not quite a 4.5 moment but something close We are not only getting more polish but things are becoming a little freaky, entire isolated domains become possible to combine with small teams or even just one person into new applications that would have required large infusions of time and capital in the past My wife back in 2021 told me about AI but I was in healthcare, I thought she was being a little nutty, and she talked like something from a science fiction film was coming and she got involved in it early on She never stops letting me know that she was right, and she was The next year is going to be wild, the world is truly going to change over the next few years, the scale of disruption will be a combination of astonishing and awesome, but also catastrophic There are many amazing things ahead and extraordinary challenges and opportunities We are living inside one of one of the biggest revolutions in human history</description>
-      <guid isPermaLink="false">twitter_elonmusk_ba377ad4</guid>
-      <pubDate>Wed, 15 Jul 2026 03:44:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ed4bdf39</guid>
+      <pubDate>Wed, 15 Jul 2026 06:03:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench</title>
-      <link>https://twitter.com/elonmusk/status/74fec414</link>
+      <link>https://twitter.com/elonmusk/status/771e336c</link>
       <description>Grok 4.5 reaches #1 position on Long-Horizon Terminal-Bench</description>
-      <guid isPermaLink="false">twitter_elonmusk_74fec414</guid>
-      <pubDate>Wed, 15 Jul 2026 03:49:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_771e336c</guid>
+      <pubDate>Wed, 15 Jul 2026 06:08:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Right-wing wave in Europe. France 🇫🇷: Marine Le Pen now leading polls to be next President. Austria ...</title>
-      <link>https://twitter.com/elonmusk/status/f439db2d</link>
+      <link>https://twitter.com/elonmusk/status/44559043</link>
       <description>Right-wing wave in Europe. France 🇫🇷: Marine Le Pen now leading polls to be next President. Austria 🇦🇹: the Freedom Party is leading the polls massively at almost 40% Germany 🇩🇪: The AfD party now consistently number ONE in polls. Norway 🇳🇴: The Libertarian FrP party leading the polls by a wide margin. Something is changing in Europe.</description>
-      <guid isPermaLink="false">twitter_elonmusk_f439db2d</guid>
-      <pubDate>Wed, 15 Jul 2026 03:54:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_44559043</guid>
+      <pubDate>Wed, 15 Jul 2026 06:13:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink will provide high-speed, low-latency connectivity onboard@FlyFrontier, transforming every f...</title>
-      <link>https://twitter.com/elonmusk/status/1ec778b0</link>
+      <link>https://twitter.com/elonmusk/status/7f0b0574</link>
       <description>Starlink will provide high-speed, low-latency connectivity onboard@FlyFrontier, transforming every flight into a fully connected experience 🛰️✈️</description>
-      <guid isPermaLink="false">twitter_elonmusk_1ec778b0</guid>
-      <pubDate>Wed, 15 Jul 2026 03:59:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_7f0b0574</guid>
+      <pubDate>Wed, 15 Jul 2026 06:18:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok is the Flow LLM. Grok 4.5’s biggest advantage is its speed. It’s smart enough to be comparable ...</title>
-      <link>https://twitter.com/elonmusk/status/d2223d9e</link>
+      <link>https://twitter.com/elonmusk/status/3536f178</link>
       <description>Grok is the Flow LLM. Grok 4.5’s biggest advantage is its speed. It’s smart enough to be comparable to the other models on most things. But that speed allows you to make little tweaks to your system so that the output is PERFECT. With the other models, it takes FOREVER to do this, and you constantly end up outside of a flow state, which makes it way way way harder to do this. It’s now my preferred model.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d2223d9e</guid>
-      <pubDate>Wed, 15 Jul 2026 04:04:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_3536f178</guid>
+      <pubDate>Wed, 15 Jul 2026 06:23:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Falcon 9 launches 27@Starlinksatellites from California</title>
-      <link>https://twitter.com/elonmusk/status/163cc24e</link>
+      <link>https://twitter.com/elonmusk/status/01afc427</link>
       <description>Falcon 9 launches 27@Starlinksatellites from California</description>
-      <guid isPermaLink="false">twitter_elonmusk_163cc24e</guid>
-      <pubDate>Wed, 15 Jul 2026 04:09:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_01afc427</guid>
+      <pubDate>Wed, 15 Jul 2026 06:28:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Ancient times</title>
-      <link>https://twitter.com/elonmusk/status/77916ec9</link>
+      <link>https://twitter.com/elonmusk/status/e45be0e5</link>
       <description>Ancient times</description>
-      <guid isPermaLink="false">twitter_elonmusk_77916ec9</guid>
-      <pubDate>Wed, 15 Jul 2026 04:14:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e45be0e5</guid>
+      <pubDate>Wed, 15 Jul 2026 06:33:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours S...</title>
-      <link>https://twitter.com/elonmusk/status/b785cac2</link>
+      <link>https://twitter.com/elonmusk/status/38f9b257</link>
       <description>SpaceX just launched two Falcon 9 rockets carrying 56 Starlink satellites in less than eight hours SpaceX is moving at light speed right now First: • 27 Starlink satellites from Vandenberg Then, just 7 hours and 42 minutes later: • 29 more Starlink satellites from Florida Two coasts, two rockets, 56 satellites, less than eight hours For most space programs, one launch is a major national achievement SpaceX launched twice in one day and was already preparing for the next mission SpaceX is basically running an orbital assembly line</description>
-      <guid isPermaLink="false">twitter_elonmusk_b785cac2</guid>
-      <pubDate>Wed, 15 Jul 2026 04:19:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_38f9b257</guid>
+      <pubDate>Wed, 15 Jul 2026 06:38:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: People may disagree on which frontier model is best, but they all seem to agree the current X algori...</title>
-      <link>https://twitter.com/elonmusk/status/de56470a</link>
+      <link>https://twitter.com/elonmusk/status/acc9f1e6</link>
       <description>People may disagree on which frontier model is best, but they all seem to agree the current X algorithm is superb.</description>
-      <guid isPermaLink="false">twitter_elonmusk_de56470a</guid>
-      <pubDate>Wed, 15 Jul 2026 04:24:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_acc9f1e6</guid>
+      <pubDate>Wed, 15 Jul 2026 06:43:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Order the Starlink V5 terminal!</title>
-      <link>https://twitter.com/elonmusk/status/3df9266b</link>
+      <link>https://twitter.com/elonmusk/status/216ea781</link>
       <description>Order the Starlink V5 terminal!</description>
-      <guid isPermaLink="false">twitter_elonmusk_3df9266b</guid>
-      <pubDate>Wed, 15 Jul 2026 04:29:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_216ea781</guid>
+      <pubDate>Wed, 15 Jul 2026 06:48:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.5 Usage reset to 0% time to build.</title>
-      <link>https://twitter.com/elonmusk/status/1ce62e8a</link>
+      <link>https://twitter.com/elonmusk/status/34b6ba61</link>
       <description>Grok 4.5 Usage reset to 0% time to build.</description>
-      <guid isPermaLink="false">twitter_elonmusk_1ce62e8a</guid>
-      <pubDate>Wed, 15 Jul 2026 04:34:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_34b6ba61</guid>
+      <pubDate>Wed, 15 Jul 2026 06:53:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4. • Size: 384 × 306 mm vs 594 × ...</title>
-      <link>https://twitter.com/elonmusk/status/eab960fe</link>
+      <link>https://twitter.com/elonmusk/status/81d96295</link>
       <description>BREAKING: The new Starlink V5 is 48% smaller and 62% lighter than V4. • Size: 384 × 306 mm vs 594 × 383 mm • Weight: 1.1 kg vs 2.9 kg • Power: 35–50W vs 75–100W • Wind rating: 265 km/h vs 96+ km/h • Same 110° field of view • Speeds up to 375+ Mbps</description>
-      <guid isPermaLink="false">twitter_elonmusk_eab960fe</guid>
-      <pubDate>Wed, 15 Jul 2026 04:39:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_81d96295</guid>
+      <pubDate>Wed, 15 Jul 2026 06:58:30 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.5 is worth trying</title>
-      <link>https://twitter.com/elonmusk/status/4ea252ab</link>
+      <link>https://twitter.com/elonmusk/status/d1920429</link>
       <description>Grok 4.5 is worth trying</description>
-      <guid isPermaLink="false">twitter_elonmusk_4ea252ab</guid>
-      <pubDate>Wed, 15 Jul 2026 04:44:13 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d1920429</guid>
+      <pubDate>Wed, 15 Jul 2026 07:03:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Congrats to the@Starlinkteam on the release of the new Starlink V5 terminal, designed with high perf...</title>
+      <link>https://twitter.com/elonmusk/status/8469baac</link>
+      <description>Congrats to the@Starlinkteam on the release of the new Starlink V5 terminal, designed with high performance, reliability, and scalability in mind based on the learnings of our previous products. Also, designed and manufactured in the USA.</description>
+      <guid isPermaLink="false">twitter_elonmusk_8469baac</guid>
+      <pubDate>Wed, 15 Jul 2026 07:08:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
