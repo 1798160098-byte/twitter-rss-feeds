@@ -3,143 +3,150 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-07-16 20:03 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-07-16 22:30 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 20:03:46 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: We've appreciated your feedback on X. Limits are reset, Grok 4.5 is available in the EU, and Grok Bu...</title>
-      <link>https://twitter.com/elonmusk/status/cac5cc5c</link>
-      <description>We've appreciated your feedback on X. Limits are reset, Grok 4.5 is available in the EU, and Grok Build is now open source.</description>
-      <guid isPermaLink="false">twitter_elonmusk_cac5cc5c</guid>
-      <pubDate>Thu, 16 Jul 2026 18:33:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Build is now fully open source, and SpaceXAI has made its privacy-first approach even stronger ...</title>
-      <link>https://twitter.com/elonmusk/status/4243e67e</link>
-      <description>Grok Build is now fully open source, and SpaceXAI has made its privacy-first approach even stronger SpaceXAI has officially: • Open-sourced the Grok Build harness CLI • Reset usage limits for all users • Disabled data retention by default • Deleted all previously retained coding data • Made the harness fully local-first, allowing you to run it with your own inference Since launch, Grok Build has supported Zero Data Retention (ZDR) for users who opted in Now, based on community feedback, SpaceXAI has gone a step further: Data retention is now OFF by default for everyone Your coding sessions remain private by default, with retention entirely under your control By combining an open-source harness, local-first execution, zero retention by default, and the deletion of previously retained coding data, SpaceXAI is setting a new standard for privacy in AI coding tools Transparent, open, and built to give users complete control over their data</description>
-      <guid isPermaLink="false">twitter_elonmusk_4243e67e</guid>
-      <pubDate>Thu, 16 Jul 2026 18:38:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what h...</title>
-      <link>https://twitter.com/elonmusk/status/3b800615</link>
-      <description>The sheer amount of energy it takes to defeat gravity is humbling, but a powerful reminder of what humanity is capable of. My photography is to hopefully provide an optimistic perspective of humanity's future among the stars.</description>
-      <guid isPermaLink="false">twitter_elonmusk_3b800615</guid>
-      <pubDate>Thu, 16 Jul 2026 18:43:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: BREAKING: SpaceXAI sues Grok user accused of creating illegal deepfakes. Elon Musk previously warned...</title>
-      <link>https://twitter.com/elonmusk/status/ba7b7fe0</link>
-      <description>BREAKING: SpaceXAI sues Grok user accused of creating illegal deepfakes. Elon Musk previously warned that anyone using Grok to create illegal content would face the same consequences as someone uploading it. • A user created multiple accounts using false identities and repeatedly attempted to bypass Grok’s safeguards. • He uploaded photos of adults and minors and tried to turn them into CSAM. • SpaceXAI says its detection and reporting helped lead to his arrest. He now faces eight felony child-exploitation charges in South Carolina. • SpaceXAI has suspended 52,222 accounts and submitted 73,604 reports to NCMEC in 2026, contributing to at least 244 arrests.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ba7b7fe0</guid>
-      <pubDate>Thu, 16 Jul 2026 18:48:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: That’s how making a startup succeed goes</title>
-      <link>https://twitter.com/elonmusk/status/733aad1c</link>
-      <description>That’s how making a startup succeed goes</description>
-      <guid isPermaLink="false">twitter_elonmusk_733aad1c</guid>
-      <pubDate>Thu, 16 Jul 2026 18:53:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: "@elonmuskis working on the most important areas of A.I. xAI is working on foundation cognitive inte...</title>
-      <link>https://twitter.com/elonmusk/status/950daca5</link>
-      <description>"@elonmuskis working on the most important areas of A.I. xAI is working on foundation cognitive intelligence A.I., Tesla is working on autonomous vehicles. Optimus is for humanoid robotics. He is very optimistic about the future of A.I."</description>
-      <guid isPermaLink="false">twitter_elonmusk_950daca5</guid>
-      <pubDate>Thu, 16 Jul 2026 18:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to soluti...</title>
-      <link>https://twitter.com/elonmusk/status/aeb8fe99</link>
-      <description>I know I'm late but yeah ok Grok 4.5 is actually really good. It's super fast, direct path to solutions, and quite capable.</description>
-      <guid isPermaLink="false">twitter_elonmusk_aeb8fe99</guid>
-      <pubDate>Thu, 16 Jul 2026 19:03:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Arguing with NPCs is pointless</title>
-      <link>https://twitter.com/elonmusk/status/465b3dfd</link>
-      <description>Arguing with NPCs is pointless</description>
-      <guid isPermaLink="false">twitter_elonmusk_465b3dfd</guid>
-      <pubDate>Thu, 16 Jul 2026 19:08:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Jul 2026 22:30:08 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning</title>
-      <link>https://twitter.com/elonmusk/status/ea01a320</link>
+      <link>https://twitter.com/elonmusk/status/c216b98d</link>
       <description>This feels like a scene out of a sci-fi movie but it’s just my drive to work this morning</description>
-      <guid isPermaLink="false">twitter_elonmusk_ea01a320</guid>
-      <pubDate>Thu, 16 Jul 2026 19:13:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_c216b98d</guid>
+      <pubDate>Thu, 16 Jul 2026 20:55:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink and the@JAAGOFoundationin Bangladesh are providing connectivity to 30,000 students across r...</title>
-      <link>https://twitter.com/elonmusk/status/1e91f168</link>
+      <link>https://twitter.com/elonmusk/status/c9bf662c</link>
       <description>Starlink and the@JAAGOFoundationin Bangladesh are providing connectivity to 30,000 students across remote schools, giving each child the opportunity to develop digital skills that were not possible before 🛰️💓</description>
-      <guid isPermaLink="false">twitter_elonmusk_1e91f168</guid>
-      <pubDate>Thu, 16 Jul 2026 19:18:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_c9bf662c</guid>
+      <pubDate>Thu, 16 Jul 2026 21:00:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Buying a Tesla is easy Order within 2 mins on our website, then complete the entire process in the T...</title>
-      <link>https://twitter.com/elonmusk/status/b0b00849</link>
+      <link>https://twitter.com/elonmusk/status/6c8f47c2</link>
       <description>Buying a Tesla is easy Order within 2 mins on our website, then complete the entire process in the Tesla app</description>
-      <guid isPermaLink="false">twitter_elonmusk_b0b00849</guid>
-      <pubDate>Thu, 16 Jul 2026 19:23:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6c8f47c2</guid>
+      <pubDate>Thu, 16 Jul 2026 21:05:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: OH MY GOSH! The House just voted 215-211 in favor of a special rules resolution, which instructs for...</title>
-      <link>https://twitter.com/elonmusk/status/196b9caf</link>
+      <link>https://twitter.com/elonmusk/status/5d2af4c0</link>
       <description>OH MY GOSH! The House just voted 215-211 in favor of a special rules resolution, which instructs for the text of the SAVE America to be attached to the National Defense Authorization Act (NDAA). The House is doing its job.@SpeakerJohnsonis keeping his promise.</description>
-      <guid isPermaLink="false">twitter_elonmusk_196b9caf</guid>
-      <pubDate>Thu, 16 Jul 2026 19:28:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5d2af4c0</guid>
+      <pubDate>Thu, 16 Jul 2026 21:10:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Rick Scott Is Right</title>
-      <link>https://twitter.com/elonmusk/status/5ba49b85</link>
+      <link>https://twitter.com/elonmusk/status/1bffc780</link>
       <description>Rick Scott Is Right</description>
-      <guid isPermaLink="false">twitter_elonmusk_5ba49b85</guid>
-      <pubDate>Thu, 16 Jul 2026 19:33:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1bffc780</guid>
+      <pubDate>Thu, 16 Jul 2026 21:15:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Render mermaid charts in your CLI</title>
-      <link>https://twitter.com/elonmusk/status/93f92e5a</link>
+      <link>https://twitter.com/elonmusk/status/bce335e8</link>
       <description>Render mermaid charts in your CLI</description>
-      <guid isPermaLink="false">twitter_elonmusk_93f92e5a</guid>
-      <pubDate>Thu, 16 Jul 2026 19:38:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bce335e8</guid>
+      <pubDate>Thu, 16 Jul 2026 21:20:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to hav...</title>
-      <link>https://twitter.com/elonmusk/status/aa7789eb</link>
+      <link>https://twitter.com/elonmusk/status/0be5b837</link>
       <description>I swear, Grok Build adds about 60 points to my IQ which means I can experience what it's like to have an IQ in the top half of all humans while I'm using it.</description>
-      <guid isPermaLink="false">twitter_elonmusk_aa7789eb</guid>
-      <pubDate>Thu, 16 Jul 2026 19:43:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0be5b837</guid>
+      <pubDate>Thu, 16 Jul 2026 21:25:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing mom...</title>
-      <link>https://twitter.com/elonmusk/status/e0cba05d</link>
+      <link>https://twitter.com/elonmusk/status/2f61009b</link>
       <description>Starship Flight 13 is flying today, and once again it’s going to make history Throwback: Amazing moment when a SpaceX employee met Elon Musk, gave him a hug, and was very optimistic about the Starship Flight “We will make it,” the employee said to Elon</description>
-      <guid isPermaLink="false">twitter_elonmusk_e0cba05d</guid>
-      <pubDate>Thu, 16 Jul 2026 19:48:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2f61009b</guid>
+      <pubDate>Thu, 16 Jul 2026 21:30:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Stacking Starship for Flight 13</title>
-      <link>https://twitter.com/elonmusk/status/4b339aae</link>
+      <link>https://twitter.com/elonmusk/status/6d131655</link>
       <description>Stacking Starship for Flight 13</description>
-      <guid isPermaLink="false">twitter_elonmusk_4b339aae</guid>
-      <pubDate>Thu, 16 Jul 2026 19:53:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6d131655</guid>
+      <pubDate>Thu, 16 Jul 2026 21:35:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: It’s been very fast, and a pleasure to use. Nice work!</title>
-      <link>https://twitter.com/elonmusk/status/3e85c282</link>
+      <link>https://twitter.com/elonmusk/status/9fe37047</link>
       <description>It’s been very fast, and a pleasure to use. Nice work!</description>
-      <guid isPermaLink="false">twitter_elonmusk_3e85c282</guid>
-      <pubDate>Thu, 16 Jul 2026 19:58:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9fe37047</guid>
+      <pubDate>Thu, 16 Jul 2026 21:40:08 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink Mobile will be available in Italy with@FASTWEB. The service will keep customers connected v...</title>
-      <link>https://twitter.com/elonmusk/status/f29eb7a9</link>
+      <link>https://twitter.com/elonmusk/status/aed27384</link>
       <description>Starlink Mobile will be available in Italy with@FASTWEB. The service will keep customers connected via apps and text messaging in remote areas without signal 🛰️📱</description>
-      <guid isPermaLink="false">twitter_elonmusk_f29eb7a9</guid>
-      <pubDate>Thu, 16 Jul 2026 20:03:46 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_aed27384</guid>
+      <pubDate>Thu, 16 Jul 2026 21:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Extremely strong at CAD and spatial reasoning</title>
+      <link>https://twitter.com/elonmusk/status/c58c761b</link>
+      <description>Extremely strong at CAD and spatial reasoning</description>
+      <guid isPermaLink="false">twitter_elonmusk_c58c761b</guid>
+      <pubDate>Thu, 16 Jul 2026 21:50:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Starlink now available in Côte d'Ivoire!</title>
+      <link>https://twitter.com/elonmusk/status/4a1a2eb3</link>
+      <description>Starlink now available in Côte d'Ivoire!</description>
+      <guid isPermaLink="false">twitter_elonmusk_4a1a2eb3</guid>
+      <pubDate>Thu, 16 Jul 2026 21:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Love the new Starship Schematics T-shirt sold by SpaceX</title>
+      <link>https://twitter.com/elonmusk/status/d9884ca2</link>
+      <description>Love the new Starship Schematics T-shirt sold by SpaceX</description>
+      <guid isPermaLink="false">twitter_elonmusk_d9884ca2</guid>
+      <pubDate>Thu, 16 Jul 2026 22:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Tesla now in Uruguay</title>
+      <link>https://twitter.com/elonmusk/status/d3c63900</link>
+      <description>Tesla now in Uruguay</description>
+      <guid isPermaLink="false">twitter_elonmusk_d3c63900</guid>
+      <pubDate>Thu, 16 Jul 2026 22:05:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: We have Falcon and Starship taking off almost at the same time today (~2 hours apart) For other spac...</title>
+      <link>https://twitter.com/elonmusk/status/b2e36fea</link>
+      <description>We have Falcon and Starship taking off almost at the same time today (~2 hours apart) For other space programs, this is years' worth of launch cycle, and SpaceX does it in a day</description>
+      <guid isPermaLink="false">twitter_elonmusk_b2e36fea</guid>
+      <pubDate>Thu, 16 Jul 2026 22:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Today I’m really feeling the acceleration.</title>
+      <link>https://twitter.com/elonmusk/status/70d7fc4f</link>
+      <description>Today I’m really feeling the acceleration.</description>
+      <guid isPermaLink="false">twitter_elonmusk_70d7fc4f</guid>
+      <pubDate>Thu, 16 Jul 2026 22:15:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.</title>
+      <link>https://twitter.com/elonmusk/status/7d0ec911</link>
+      <description>A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.</description>
+      <guid isPermaLink="false">twitter_elonmusk_7d0ec911</guid>
+      <pubDate>Thu, 16 Jul 2026 22:20:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. B...</title>
+      <link>https://twitter.com/elonmusk/status/864afb4e</link>
+      <description>No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight's launch, see what we think SpaceX's master plan is.</description>
+      <guid isPermaLink="false">twitter_elonmusk_864afb4e</guid>
+      <pubDate>Thu, 16 Jul 2026 22:25:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Starship launch window opens at 5:45pm Texas time</title>
+      <link>https://twitter.com/elonmusk/status/f107f7f0</link>
+      <description>Starship launch window opens at 5:45pm Texas time</description>
+      <guid isPermaLink="false">twitter_elonmusk_f107f7f0</guid>
+      <pubDate>Thu, 16 Jul 2026 22:30:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
