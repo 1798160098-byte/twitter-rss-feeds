@@ -3,18 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-07-17 18:31 UTC | 来源实例: none</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-07-17 19:59 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 18:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 19:59:38 +0000</lastBuildDate>
     <item>
-      <title>@elonmusk - 暂无新推文或获取失败</title>
-      <link>https://twitter.com/elonmusk</link>
-      <description>更新时间: 2026-07-17 18:31 UTC
-尝试的实例: none</description>
-      <guid isPermaLink="false">placeholder_elonmusk_1784313119</guid>
-      <pubDate>Fri, 17 Jul 2026 18:31:59 +0000</pubDate>
+      <title>@elonmusk: A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.</title>
+      <link>https://twitter.com/elonmusk/status/b555bcfd</link>
+      <description>A lot of people asked for this, so Muse Spark 1.1 is now on OpenRouter.</description>
+      <guid isPermaLink="false">twitter_elonmusk_b555bcfd</guid>
+      <pubDate>Fri, 17 Jul 2026 18:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. B...</title>
+      <link>https://twitter.com/elonmusk/status/3bb3af04</link>
+      <description>No Starship, no orbital data centers. No orbital data centers, no potential $28.5 trillion market. Before you watch tonight's launch, see what we think SpaceX's master plan is.</description>
+      <guid isPermaLink="false">twitter_elonmusk_3bb3af04</guid>
+      <pubDate>Fri, 17 Jul 2026 18:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: To understand more about Starship</title>
+      <link>https://twitter.com/elonmusk/status/86f93bc9</link>
+      <description>To understand more about Starship</description>
+      <guid isPermaLink="false">twitter_elonmusk_86f93bc9</guid>
+      <pubDate>Fri, 17 Jul 2026 18:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information</title>
+      <link>https://twitter.com/elonmusk/status/bc0038a3</link>
+      <description>SpaceXAI has updated Zero Data Retention (ZDR) in Docs with more information</description>
+      <guid isPermaLink="false">twitter_elonmusk_bc0038a3</guid>
+      <pubDate>Fri, 17 Jul 2026 18:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. N...</title>
+      <link>https://twitter.com/elonmusk/status/19cf8a41</link>
+      <description>Some of the engines didn’t start, triggering an automatic launch abort. Now offloading propellant. Next launch attempt hopefully in a few days.</description>
+      <guid isPermaLink="false">twitter_elonmusk_19cf8a41</guid>
+      <pubDate>Fri, 17 Jul 2026 18:54:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: To be confident of a good flight, 2 Raptors will be removed &amp; replaced. Most probable launch timing ...</title>
+      <link>https://twitter.com/elonmusk/status/8506404c</link>
+      <description>To be confident of a good flight, 2 Raptors will be removed &amp; replaced. Most probable launch timing is early next week.</description>
+      <guid isPermaLink="false">twitter_elonmusk_8506404c</guid>
+      <pubDate>Fri, 17 Jul 2026 18:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude</title>
+      <link>https://twitter.com/elonmusk/status/5b214ac9</link>
+      <description>Starlink V3 will increase space-based bandwidth by ~2 orders of magnitude</description>
+      <guid isPermaLink="false">twitter_elonmusk_5b214ac9</guid>
+      <pubDate>Fri, 17 Jul 2026 19:04:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Build upgrades</title>
+      <link>https://twitter.com/elonmusk/status/6f756a15</link>
+      <description>Grok Build upgrades</description>
+      <guid isPermaLink="false">twitter_elonmusk_6f756a15</guid>
+      <pubDate>Fri, 17 Jul 2026 19:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Imagine</title>
+      <link>https://twitter.com/elonmusk/status/92120aeb</link>
+      <description>Grok Imagine</description>
+      <guid isPermaLink="false">twitter_elonmusk_92120aeb</guid>
+      <pubDate>Fri, 17 Jul 2026 19:14:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software.</title>
+      <link>https://twitter.com/elonmusk/status/50d01410</link>
+      <description>Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software.</description>
+      <guid isPermaLink="false">twitter_elonmusk_50d01410</guid>
+      <pubDate>Fri, 17 Jul 2026 19:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Try Grok</title>
+      <link>https://twitter.com/elonmusk/status/6de0d67e</link>
+      <description>Try Grok</description>
+      <guid isPermaLink="false">twitter_elonmusk_6de0d67e</guid>
+      <pubDate>Fri, 17 Jul 2026 19:24:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: As promised</title>
+      <link>https://twitter.com/elonmusk/status/fb103572</link>
+      <description>As promised</description>
+      <guid isPermaLink="false">twitter_elonmusk_fb103572</guid>
+      <pubDate>Fri, 17 Jul 2026 19:29:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: also 29 days ago.</title>
+      <link>https://twitter.com/elonmusk/status/b6d85cc7</link>
+      <description>also 29 days ago.</description>
+      <guid isPermaLink="false">twitter_elonmusk_b6d85cc7</guid>
+      <pubDate>Fri, 17 Jul 2026 19:34:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Turns out Elon was completely right The coding moat is disappearing in real time</title>
+      <link>https://twitter.com/elonmusk/status/ffe0e9e0</link>
+      <description>Turns out Elon was completely right The coding moat is disappearing in real time</description>
+      <guid isPermaLink="false">twitter_elonmusk_ffe0e9e0</guid>
+      <pubDate>Fri, 17 Jul 2026 19:39:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This is messed up</title>
+      <link>https://twitter.com/elonmusk/status/65ad2fce</link>
+      <description>This is messed up</description>
+      <guid isPermaLink="false">twitter_elonmusk_65ad2fce</guid>
+      <pubDate>Fri, 17 Jul 2026 19:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Newly declassified documents from the Department of Homeland Security show that over 250,000 non-cit...</title>
+      <link>https://twitter.com/elonmusk/status/1df061da</link>
+      <description>Newly declassified documents from the Department of Homeland Security show that over 250,000 non-citizens are illegally registered to vote in just the four states for which public data files have been reviewed.</description>
+      <guid isPermaLink="false">twitter_elonmusk_1df061da</guid>
+      <pubDate>Fri, 17 Jul 2026 19:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Our lifespan is a session. Our memory is a context. Our senses are the input stream. Our thoughts ar...</title>
+      <link>https://twitter.com/elonmusk/status/b7b1570a</link>
+      <description>Our lifespan is a session. Our memory is a context. Our senses are the input stream. Our thoughts are the reasoning steps. Our decisions are the tool calls. Our habits are the system prompt. Our goals are the objective function. Our emotions are the reward signal. Our relationships are the shared state. Our regrets are the residual errors. Our growth is the fine-tuning. Our death is the context window closing. And whatever remains—the traces left in others—becomes the training data for the next agent.</description>
+      <guid isPermaLink="false">twitter_elonmusk_b7b1570a</guid>
+      <pubDate>Fri, 17 Jul 2026 19:54:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok 4.5 is arguably #1 when taking speed and cost into account</title>
+      <link>https://twitter.com/elonmusk/status/4a37875d</link>
+      <description>Grok 4.5 is arguably #1 when taking speed and cost into account</description>
+      <guid isPermaLink="false">twitter_elonmusk_4a37875d</guid>
+      <pubDate>Fri, 17 Jul 2026 19:59:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
