@@ -3,136 +3,122 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-07-23 18:07 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-07-23 19:53 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:07:49 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Tesla shareholder update underway right now!</title>
-      <link>https://twitter.com/elonmusk/status/1eccf630</link>
-      <description>Tesla shareholder update underway right now!</description>
-      <guid isPermaLink="false">twitter_elonmusk_1eccf630</guid>
-      <pubDate>Thu, 23 Jul 2026 16:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: France’s Transport Minister says Tesla FSD is not yet safe enough to be approved in its current form...</title>
-      <link>https://twitter.com/elonmusk/status/fe1d6029</link>
-      <description>France’s Transport Minister says Tesla FSD is not yet safe enough to be approved in its current form. But in reality, Tesla FSD is safer than human driving. • 12.1B+ miles driven with FSD • 4.5B+ city miles driven • 7x fewer major collisions than the U.S. average • 7x fewer minor collisions • 5x fewer collisions on non-highway roads • Improves U.S. road safety by over 80%, reducing collisions caused by human error • 32,000+ lives potentially saved per year • 1,900,000+ injuries could potentially be avoided per year • Tesla vehicles have earned 5-star safety ratings from NHTSA, Euro NCAP and ANCAP.</description>
-      <guid isPermaLink="false">twitter_elonmusk_fe1d6029</guid>
-      <pubDate>Thu, 23 Jul 2026 16:47:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Try out Grok Build!X.ai/cli</title>
-      <link>https://twitter.com/elonmusk/status/3efb763b</link>
-      <description>Try out Grok Build!X.ai/cli</description>
-      <guid isPermaLink="false">twitter_elonmusk_3efb763b</guid>
-      <pubDate>Thu, 23 Jul 2026 16:52:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: It's really fun to direct a character's emotion in Grok Imagine. All four of these videos are the sa...</title>
-      <link>https://twitter.com/elonmusk/status/70f91551</link>
-      <description>It's really fun to direct a character's emotion in Grok Imagine. All four of these videos are the same scene, the only thing that changes is the performance. Detailed breakdown below.</description>
-      <guid isPermaLink="false">twitter_elonmusk_70f91551</guid>
-      <pubDate>Thu, 23 Jul 2026 16:57:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Build just got another powerful plugin: Exa The new Exa plugin brings semantic web search, cont...</title>
-      <link>https://twitter.com/elonmusk/status/f077ff69</link>
-      <description>Grok Build just got another powerful plugin: Exa The new Exa plugin brings semantic web search, content extraction and multi-step research directly into Grok Build With Exa, you can: • Search the web semantically instead of relying only on keywords • Filter results across companies, people, news, research papers and financial reports • Extract webpages as clean Markdown • Run structured, multi-step research workflows with deduplicated, cited results Setup is simple: install the plugin, sign in to your Exa account through the browser and start using it No API key is required, and new accounts receive free credits at signup The Grok Build plugin ecosystem keeps expanding Instead of constantly switching between research tools and your development environment, you can bring high-quality web search and content extraction directly into the same AI workflow</description>
-      <guid isPermaLink="false">twitter_elonmusk_f077ff69</guid>
-      <pubDate>Thu, 23 Jul 2026 17:02:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 19:53:17 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domai...</title>
-      <link>https://twitter.com/elonmusk/status/47ebbcf1</link>
+      <link>https://twitter.com/elonmusk/status/26918780</link>
       <description>Three fundamental integrals stand out for their elegant closed forms despite spanning infinite domains. - The Gaussian ∫_{-∞}^{∞} e^{-x²} dx equals √π. - The Lorentzian ∫_{-∞}^{∞} 1/(x² + 1) dx totals π. - The sinc function ∫_{-∞}^{∞} sin(x)/x dx also equals π. These identities, established through techniques such as contour integration, link analysis across mathematics. Engineers apply the sinc integral within the sampling theorem to perfectly reconstruct continuous-time signals from discrete samples in digital communications systems.</description>
-      <guid isPermaLink="false">twitter_elonmusk_47ebbcf1</guid>
-      <pubDate>Thu, 23 Jul 2026 17:07:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_26918780</guid>
+      <pubDate>Thu, 23 Jul 2026 18:38:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Easy to make video games with Grok!</title>
-      <link>https://twitter.com/elonmusk/status/393fc9ef</link>
+      <link>https://twitter.com/elonmusk/status/ad5c70a4</link>
       <description>Easy to make video games with Grok!</description>
-      <guid isPermaLink="false">twitter_elonmusk_393fc9ef</guid>
-      <pubDate>Thu, 23 Jul 2026 17:12:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ad5c70a4</guid>
+      <pubDate>Thu, 23 Jul 2026 18:43:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years</title>
-      <link>https://twitter.com/elonmusk/status/4ca11bab</link>
+      <link>https://twitter.com/elonmusk/status/6aef2434</link>
       <description>Grok 4.5 just solved a graph theory conjecture that has been open for ~30 years</description>
-      <guid isPermaLink="false">twitter_elonmusk_4ca11bab</guid>
-      <pubDate>Thu, 23 Jul 2026 17:17:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6aef2434</guid>
+      <pubDate>Thu, 23 Jul 2026 18:48:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and gets the job done</title>
-      <link>https://twitter.com/elonmusk/status/2869f16d</link>
+      <link>https://twitter.com/elonmusk/status/9e68338c</link>
       <description>Grok 4.5 is not quite as good as Fable, but it is very fast, cost-effective and gets the job done</description>
-      <guid isPermaLink="false">twitter_elonmusk_2869f16d</guid>
-      <pubDate>Thu, 23 Jul 2026 17:22:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9e68338c</guid>
+      <pubDate>Thu, 23 Jul 2026 18:53:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The European Commission rejected the registration of the@SaveEuropeAct. They claim it’s “racist” and...</title>
-      <link>https://twitter.com/elonmusk/status/c2b7bda0</link>
+      <link>https://twitter.com/elonmusk/status/5cd1a63f</link>
       <description>The European Commission rejected the registration of the@SaveEuropeAct. They claim it’s “racist” and goes against “European values” to want to keep Europe, European. We’re not accepting the madness anymore. Europe belongs to us. See you in court.</description>
-      <guid isPermaLink="false">twitter_elonmusk_c2b7bda0</guid>
-      <pubDate>Thu, 23 Jul 2026 17:27:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5cd1a63f</guid>
+      <pubDate>Thu, 23 Jul 2026 18:58:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Build gets better every dayX.ai/cli</title>
-      <link>https://twitter.com/elonmusk/status/0b314dbb</link>
+      <link>https://twitter.com/elonmusk/status/48484056</link>
       <description>Grok Build gets better every dayX.ai/cli</description>
-      <guid isPermaLink="false">twitter_elonmusk_0b314dbb</guid>
-      <pubDate>Thu, 23 Jul 2026 17:32:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_48484056</guid>
+      <pubDate>Thu, 23 Jul 2026 19:03:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: FSD Supervised helps save lives</title>
-      <link>https://twitter.com/elonmusk/status/347e228d</link>
+      <link>https://twitter.com/elonmusk/status/38288e3e</link>
       <description>FSD Supervised helps save lives</description>
-      <guid isPermaLink="false">twitter_elonmusk_347e228d</guid>
-      <pubDate>Thu, 23 Jul 2026 17:37:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_38288e3e</guid>
+      <pubDate>Thu, 23 Jul 2026 19:08:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 0 notable incidents across over 380,000 miles traveled by Robotaxi</title>
-      <link>https://twitter.com/elonmusk/status/44c12e41</link>
+      <link>https://twitter.com/elonmusk/status/2bc456a6</link>
       <description>0 notable incidents across over 380,000 miles traveled by Robotaxi</description>
-      <guid isPermaLink="false">twitter_elonmusk_44c12e41</guid>
-      <pubDate>Thu, 23 Jul 2026 17:42:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2bc456a6</guid>
+      <pubDate>Thu, 23 Jul 2026 19:13:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by...</title>
-      <link>https://twitter.com/elonmusk/status/f8632229</link>
+      <link>https://twitter.com/elonmusk/status/f97723bd</link>
       <description>Using FSD is far safer than driving manually, as measured over 12 billion miles of its use. Safer by a margin of 2x the miles between collisions! It can do so, because, FSD is trained on corner cases extracted from more than a 1000 lifetimes of driving. It has learnt to accurately predict the probability of collision even for crazy cases such others running red lights, swerving into us, kids running into roads and such. Do watch the full video for some highlights. A no-brainer way to significantly improve your and your family's safety is to get a Tesla with FSD. It also completely takes the stress out of driving. Not saying this just because I work at Tesla, rather that it's genuinely a great product already and is continuing to get even better.</description>
-      <guid isPermaLink="false">twitter_elonmusk_f8632229</guid>
-      <pubDate>Thu, 23 Jul 2026 17:47:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f97723bd</guid>
+      <pubDate>Thu, 23 Jul 2026 19:18:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents</title>
-      <link>https://twitter.com/elonmusk/status/37827735</link>
+      <link>https://twitter.com/elonmusk/status/9d5fc26f</link>
       <description>SpaceXAI has added New pages to Grok Build docs: Permissions, Plan Mode, Sandbox, Subagents</description>
-      <guid isPermaLink="false">twitter_elonmusk_37827735</guid>
-      <pubDate>Thu, 23 Jul 2026 17:52:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9d5fc26f</guid>
+      <pubDate>Thu, 23 Jul 2026 19:23:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default</title>
-      <link>https://twitter.com/elonmusk/status/b8077654</link>
+      <link>https://twitter.com/elonmusk/status/9c6e8625</link>
       <description>I can't believe I'm still using Grok 4.5 (medium) as my daily. It's such a good default</description>
-      <guid isPermaLink="false">twitter_elonmusk_b8077654</guid>
-      <pubDate>Thu, 23 Jul 2026 17:57:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9c6e8625</guid>
+      <pubDate>Thu, 23 Jul 2026 19:28:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Banger 😂</title>
-      <link>https://twitter.com/elonmusk/status/3868c21b</link>
+      <link>https://twitter.com/elonmusk/status/f3f61472</link>
       <description>Banger 😂</description>
-      <guid isPermaLink="false">twitter_elonmusk_3868c21b</guid>
-      <pubDate>Thu, 23 Jul 2026 18:02:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f3f61472</guid>
+      <pubDate>Thu, 23 Jul 2026 19:33:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok 4.5 now on all platforms</title>
+      <link>https://twitter.com/elonmusk/status/a6c389f1</link>
+      <description>Grok 4.5 now on all platforms</description>
+      <guid isPermaLink="false">twitter_elonmusk_a6c389f1</guid>
+      <pubDate>Thu, 23 Jul 2026 19:38:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This happens a lot</title>
+      <link>https://twitter.com/elonmusk/status/9417d9d8</link>
+      <description>This happens a lot</description>
+      <guid isPermaLink="false">twitter_elonmusk_9417d9d8</guid>
+      <pubDate>Thu, 23 Jul 2026 19:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This was 13yr ago now. The parents of 9yr old Aaron Dugmore found him dead by suicide in his bedroom...</title>
+      <link>https://twitter.com/elonmusk/status/1a8cfbe1</link>
+      <description>This was 13yr ago now. The parents of 9yr old Aaron Dugmore found him dead by suicide in his bedroom after constant bullying for being white by "Asian" bullies in Birmingham. His family say that Aaron was threatened with a plastic knife by one "asian" pupil - who warned him: "Next time it will be a real one," Whites are a minority in Birmingham, England's second largest city. This is the future for all if not reversed.</description>
+      <guid isPermaLink="false">twitter_elonmusk_1a8cfbe1</guid>
+      <pubDate>Thu, 23 Jul 2026 19:48:17 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Tesla Earnings Call</title>
       <link>https://twitter.com/elonmusk/status/14cc60af</link>
       <description>Tesla Earnings Call</description>
       <guid isPermaLink="false">twitter_elonmusk_14cc60af</guid>
-      <pubDate>Thu, 23 Jul 2026 18:07:49 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:53:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
