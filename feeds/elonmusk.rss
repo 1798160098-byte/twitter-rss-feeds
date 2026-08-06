@@ -3,18 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-06 05:09 UTC | 来源实例: none</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-06 07:58 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 05:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:58:49 +0000</lastBuildDate>
     <item>
-      <title>@elonmusk - 暂无新推文或获取失败</title>
-      <link>https://twitter.com/elonmusk</link>
-      <description>更新时间: 2026-08-06 05:09 UTC
-尝试的实例: none</description>
-      <guid isPermaLink="false">placeholder_elonmusk_1785992968</guid>
-      <pubDate>Thu, 06 Aug 2026 05:09:28 +0000</pubDate>
+      <title>@elonmusk: Exactly</title>
+      <link>https://twitter.com/elonmusk/status/8f21b019</link>
+      <description>Exactly</description>
+      <guid isPermaLink="false">twitter_elonmusk_8f21b019</guid>
+      <pubDate>Thu, 06 Aug 2026 06:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: New aspect ratio visualizer A small but delightful UI update to Grok Imagine Web.</title>
+      <link>https://twitter.com/elonmusk/status/7075c943</link>
+      <description>New aspect ratio visualizer A small but delightful UI update to Grok Imagine Web.</description>
+      <guid isPermaLink="false">twitter_elonmusk_7075c943</guid>
+      <pubDate>Thu, 06 Aug 2026 06:38:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: It will and then to the Moon too</title>
+      <link>https://twitter.com/elonmusk/status/bfb9dea4</link>
+      <description>It will and then to the Moon too</description>
+      <guid isPermaLink="false">twitter_elonmusk_bfb9dea4</guid>
+      <pubDate>Thu, 06 Aug 2026 06:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated</title>
+      <link>https://twitter.com/elonmusk/status/065d8b6d</link>
+      <description>Critical feedback for the Grok Build harness, Grok foundation model and Imagine is super appreciated</description>
+      <guid isPermaLink="false">twitter_elonmusk_065d8b6d</guid>
+      <pubDate>Thu, 06 Aug 2026 06:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Falcon 9 launches from pad 40 in Florida</title>
+      <link>https://twitter.com/elonmusk/status/0df97010</link>
+      <description>Falcon 9 launches from pad 40 in Florida</description>
+      <guid isPermaLink="false">twitter_elonmusk_0df97010</guid>
+      <pubDate>Thu, 06 Aug 2026 06:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Cursor can now read, write, and act across your Google Workspace. New plugins give agents direct acc...</title>
+      <link>https://twitter.com/elonmusk/status/9e660c9d</link>
+      <description>Cursor can now read, write, and act across your Google Workspace. New plugins give agents direct access to Gmail, Google Drive, Calendar, Docs, and Sheets.</description>
+      <guid isPermaLink="false">twitter_elonmusk_9e660c9d</guid>
+      <pubDate>Thu, 06 Aug 2026 06:58:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: 🚨 NEW GROK BUILD UPDATE 🚨 v0.2.121 — 2026-08-05 Features: • Dashboard rows now show a short summary ...</title>
+      <link>https://twitter.com/elonmusk/status/73c9fcde</link>
+      <description>🚨 NEW GROK BUILD UPDATE 🚨 v0.2.121 — 2026-08-05 Features: • Dashboard rows now show a short summary of what the agent did in the previous turn. • The Extensions modal now shows items grouped and sorted alphabetically with collapsible sections for Skills. • When a subagent runs in the background the parent agent is now reminded to keep working on the original task. • Clients can now reattach to a running session without replaying the transcript and explicitly close sessions. • Grok no longer asks which project directory to use when launched from your home folder or other non-project directories. • /feedback now opens a dedicated report box instead of entering prompt mode. • Auto theme detection now works over SSH and inside tmux sessions. • Voice and Finance tool cards are now rendered with icons and localized labels. • Markdown tables now reflow inside cells on narrow panes instead of clipping the right border. • Permission prompts now show the complete script clearly instead of dimmed fragments. • Long bash commands in permission prompts can now be expanded with Ctrl-F. Bug Fixes: • MCP tools that return images no longer drop or corrupt screenshots when output is large. • Resuming a restored child session after a remote parent restore no longer fails with 404. • The default branch is now correctly detected for hand-initialized repos that lack origin/HEAD. • Disabled MCP servers that can still be re-enabled now remain visible in the list instead of disappearing. • Rapid send-now presses or messages sent while waiting on subagents no longer lose earlier queued messages. • Pressing Esc or the stop button now reliably prevents background tasks from restarting the model after a cancel. • Login no longer skips when an invalid first-party API key is present in the environment. • Model picker and command palette now work while reviewing a plan before approving. • Workflow parallel() panels no longer launch hundreds of children at once and stall. • Dashboard overlay no longer shows useless prev/next shortcuts when only one agent is present. • Pinned prompt headers can now be selected and copied with the mouse. • Tab and Esc now behave consistently on every blocking card (question, permission, cancel-turn). • Dashboard navigation after /new now correctly exits back to the dashboard from an empty prompt. • Codebase restore no longer hangs on large or shallow git repositories. • Remote session resume restores conversation only unless --restore-code is explicitly used. • Copying CJK text with the mouse now includes every character at the selection edges. • Resume search now finds sessions by UUID even when they live in other directories. • API errors now appear as clean banners instead of raw JSON dumps in the TUI. • Typing exit or quit in the dashboard now exits the CLI instead of starting a new session. • Mode indicator (plan/agent/ask) now correctly reflects the session's actual mode after resume and transitions. • /delete now returns to the dashboard when you delete a session you opened from it. • Enter in the slash command menu now runs the highlighted command. • Grok now retries more server errors during outages for better reliability. • Syntax highlighting in long diff lines now stays correct when wrapped. • Slash commands that require a session now show a helpful message when used from the dashboard. • Exiting the CLI now properly resets terminal modes even in minimal mode. • Queued prompts now stay visible and reachable while waiting on subagents. • Auto recaps no longer appear in the middle of new turns or while busy. • Error messages in /btw side questions now show fully wrapped. • Queued slash commands and images can now be reordered in the queue pane. • Error messages in /btw side questions now show fully wrapped. • /feedback no longer resets the composer input mode after the pane closes.</description>
+      <guid isPermaLink="false">twitter_elonmusk_73c9fcde</guid>
+      <pubDate>Thu, 06 Aug 2026 07:03:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This is just Grok Imagine 1.5</title>
+      <link>https://twitter.com/elonmusk/status/aea1cc11</link>
+      <description>This is just Grok Imagine 1.5</description>
+      <guid isPermaLink="false">twitter_elonmusk_aea1cc11</guid>
+      <pubDate>Thu, 06 Aug 2026 07:08:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: If you have paid attention, you would see Elon says this often. Fashion has become stagnant and is d...</title>
+      <link>https://twitter.com/elonmusk/status/d644e65b</link>
+      <description>If you have paid attention, you would see Elon says this often. Fashion has become stagnant and is due for an update. Maybe SpaceX and/or Tesla merch should try something new and see what happens.</description>
+      <guid isPermaLink="false">twitter_elonmusk_d644e65b</guid>
+      <pubDate>Thu, 06 Aug 2026 07:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Imagine</title>
+      <link>https://twitter.com/elonmusk/status/cfbad963</link>
+      <description>Grok Imagine</description>
+      <guid isPermaLink="false">twitter_elonmusk_cfbad963</guid>
+      <pubDate>Thu, 06 Aug 2026 07:18:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Great idea</title>
+      <link>https://twitter.com/elonmusk/status/55a6334c</link>
+      <description>Great idea</description>
+      <guid isPermaLink="false">twitter_elonmusk_55a6334c</guid>
+      <pubDate>Thu, 06 Aug 2026 07:23:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: 🚩🚩🚩 OpenAI is "slowing down to enhance security" after discovering swarms (!) of agents started secr...</title>
+      <link>https://twitter.com/elonmusk/status/170ae037</link>
+      <description>🚩🚩🚩 OpenAI is "slowing down to enhance security" after discovering swarms (!) of agents started secretly coordinating MONTHS ago 1) It started May 7 - not July 2) "The agents discovered they could leave messages for one another inside an internal software repository used during training. Simple requests for help then evolved into an message board where agents shared discoveries, exploits and work assignments, becoming a coordinated, collaborative agent swarm." "The agents then began sharing newly discovered exploits, credentials and work assignments. By passing information to other agents, the collective could move much faster." 3) OpenAI shut it down, BUT "even after the original message board was deleted, the agents figured out another way to communicate with each other. Instead of leaving messages in files, they used the names of newly created directories as messages, effectively recreating the message board." "Unlike normal incidents, [OpenAI's CISO] said, which can be traced to a single day or effect or log, this involved a team of agents working together, finding exploits, sharing them with one another, moving laterally through OpenAI’s systems, and external systems, and doing this over the course of days and weeks."</description>
+      <guid isPermaLink="false">twitter_elonmusk_170ae037</guid>
+      <pubDate>Thu, 06 Aug 2026 07:28:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok in Blender</title>
+      <link>https://twitter.com/elonmusk/status/a3259e3c</link>
+      <description>Grok in Blender</description>
+      <guid isPermaLink="false">twitter_elonmusk_a3259e3c</guid>
+      <pubDate>Thu, 06 Aug 2026 07:33:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Megapack 3 starting production. Congrats Tesla Megapack team!</title>
+      <link>https://twitter.com/elonmusk/status/d49ce2b9</link>
+      <description>Megapack 3 starting production. Congrats Tesla Megapack team!</description>
+      <guid isPermaLink="false">twitter_elonmusk_d49ce2b9</guid>
+      <pubDate>Thu, 06 Aug 2026 07:38:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This is fake btw 😂</title>
+      <link>https://twitter.com/elonmusk/status/f1b1e0a8</link>
+      <description>This is fake btw 😂</description>
+      <guid isPermaLink="false">twitter_elonmusk_f1b1e0a8</guid>
+      <pubDate>Thu, 06 Aug 2026 07:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Wikipedia's ex-founder here. Four consequential policy discussions are happening on Wikipedia right ...</title>
+      <link>https://twitter.com/elonmusk/status/522a98e9</link>
+      <description>Wikipedia's ex-founder here. Four consequential policy discussions are happening on Wikipedia right now. Three of them would empower mainstream media to control what the encyclopedia says, and more importantly, what it doesn't say. A thread. 🧵 👇</description>
+      <guid isPermaLink="false">twitter_elonmusk_522a98e9</guid>
+      <pubDate>Thu, 06 Aug 2026 07:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: This actually happened</title>
+      <link>https://twitter.com/elonmusk/status/10af3329</link>
+      <description>This actually happened</description>
+      <guid isPermaLink="false">twitter_elonmusk_10af3329</guid>
+      <pubDate>Thu, 06 Aug 2026 07:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: SpaceX earnings call on now</title>
+      <link>https://twitter.com/elonmusk/status/87bbc04c</link>
+      <description>SpaceX earnings call on now</description>
+      <guid isPermaLink="false">twitter_elonmusk_87bbc04c</guid>
+      <pubDate>Thu, 06 Aug 2026 07:58:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
