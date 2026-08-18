@@ -3,122 +3,122 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-18 18:25 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-18 20:14 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:25:42 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Create with Grok Imagine</title>
-      <link>https://twitter.com/elonmusk/status/81a75c21</link>
-      <description>Create with Grok Imagine</description>
-      <guid isPermaLink="false">twitter_elonmusk_81a75c21</guid>
-      <pubDate>Tue, 18 Aug 2026 17:10:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok is very good at agentic tasks!</title>
-      <link>https://twitter.com/elonmusk/status/f49a7904</link>
-      <description>Grok is very good at agentic tasks!</description>
-      <guid isPermaLink="false">twitter_elonmusk_f49a7904</guid>
-      <pubDate>Tue, 18 Aug 2026 17:15:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: 1/2 the turns and 25% of the tokens. Task/Token is something to watch. Is Grok 4.6 inside Grok Bot? ...</title>
-      <link>https://twitter.com/elonmusk/status/4768caa3</link>
-      <description>1/2 the turns and 25% of the tokens. Task/Token is something to watch. Is Grok 4.6 inside Grok Bot? Has this been revealed yet? Have I missed it? I’ve been wondering what magic allows grok bot to just work so consistently.</description>
-      <guid isPermaLink="false">twitter_elonmusk_4768caa3</guid>
-      <pubDate>Tue, 18 Aug 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Create a full scene with Grok Imagine for a chance to win 👇</title>
-      <link>https://twitter.com/elonmusk/status/5215d534</link>
-      <description>Create a full scene with Grok Imagine for a chance to win 👇</description>
-      <guid isPermaLink="false">twitter_elonmusk_5215d534</guid>
-      <pubDate>Tue, 18 Aug 2026 17:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Sync to Origin</title>
-      <link>https://twitter.com/elonmusk/status/3d0ffc2e</link>
-      <description>Sync to Origin</description>
-      <guid isPermaLink="false">twitter_elonmusk_3d0ffc2e</guid>
-      <pubDate>Tue, 18 Aug 2026 17:30:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 20:14:14 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Grok@Bot</title>
-      <link>https://twitter.com/elonmusk/status/f5b8b8ac</link>
+      <link>https://twitter.com/elonmusk/status/3f5dfd83</link>
       <description>Grok@Bot</description>
-      <guid isPermaLink="false">twitter_elonmusk_f5b8b8ac</guid>
-      <pubDate>Tue, 18 Aug 2026 17:35:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_3f5dfd83</guid>
+      <pubDate>Tue, 18 Aug 2026 18:59:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.6 is my daily driver now. This is why: When I’m using interactive agents in a CLI/terminal (o...</title>
-      <link>https://twitter.com/elonmusk/status/5b34403a</link>
+      <link>https://twitter.com/elonmusk/status/89fc4cd6</link>
       <description>Grok 4.6 is my daily driver now. This is why: When I’m using interactive agents in a CLI/terminal (or even Slack), what matters most to me is speed &amp; token throughput. Intelligence and differences in performance on benchmarks is negligible to me when speed is sacrificed. If I am there to steer &amp; guide the agent, or make some quick fixes, then I don’t want to wait 5+ min per turn. Opus 5 (fast) is a good solution to this, but it is WAY too expensive. Grok 4.6 is perfect though, incredibly fast, almost as smart as Fable, and relatively much cheaper than anything else right now. On the flip side, for cloud agents working in Factories &amp; background tasks triggered on crons, I don’t mind using intelligent, slow models like Fable / Sol. I’d even opt for a model router for cloud tasks that biases to heavy, smart models. I guess the meta point I’m making here is that model choice is largely a function of whether there’s a human waiting in the loop.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5b34403a</guid>
-      <pubDate>Tue, 18 Aug 2026 17:40:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_89fc4cd6</guid>
+      <pubDate>Tue, 18 Aug 2026 19:04:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.6 takes top spot on this benchmark</title>
-      <link>https://twitter.com/elonmusk/status/e8b546f6</link>
+      <link>https://twitter.com/elonmusk/status/ed4eef45</link>
       <description>Grok 4.6 takes top spot on this benchmark</description>
-      <guid isPermaLink="false">twitter_elonmusk_e8b546f6</guid>
-      <pubDate>Tue, 18 Aug 2026 17:45:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ed4eef45</guid>
+      <pubDate>Tue, 18 Aug 2026 19:09:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starship Flight 13 is being recovered from sea</title>
-      <link>https://twitter.com/elonmusk/status/de9155ff</link>
+      <link>https://twitter.com/elonmusk/status/e737e31b</link>
       <description>Starship Flight 13 is being recovered from sea</description>
-      <guid isPermaLink="false">twitter_elonmusk_de9155ff</guid>
-      <pubDate>Tue, 18 Aug 2026 17:50:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e737e31b</guid>
+      <pubDate>Tue, 18 Aug 2026 19:14:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BREAKING: Starlink has now partnered with 48 airlines worldwide, covering more than 7,000 aircraft t...</title>
-      <link>https://twitter.com/elonmusk/status/7fec4ea6</link>
+      <link>https://twitter.com/elonmusk/status/099d0137</link>
       <description>BREAKING: Starlink has now partnered with 48 airlines worldwide, covering more than 7,000 aircraft that are already equipped, undergoing installation, or under contract.</description>
-      <guid isPermaLink="false">twitter_elonmusk_7fec4ea6</guid>
-      <pubDate>Tue, 18 Aug 2026 17:55:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_099d0137</guid>
+      <pubDate>Tue, 18 Aug 2026 19:19:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: So much has been built since then!</title>
-      <link>https://twitter.com/elonmusk/status/0f275407</link>
+      <link>https://twitter.com/elonmusk/status/f3883d19</link>
       <description>So much has been built since then!</description>
-      <guid isPermaLink="false">twitter_elonmusk_0f275407</guid>
-      <pubDate>Tue, 18 Aug 2026 18:00:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f3883d19</guid>
+      <pubDate>Tue, 18 Aug 2026 19:24:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: It will be much bigger</title>
-      <link>https://twitter.com/elonmusk/status/b197bfb6</link>
+      <link>https://twitter.com/elonmusk/status/ad45216a</link>
       <description>It will be much bigger</description>
-      <guid isPermaLink="false">twitter_elonmusk_b197bfb6</guid>
-      <pubDate>Tue, 18 Aug 2026 18:05:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ad45216a</guid>
+      <pubDate>Tue, 18 Aug 2026 19:29:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 73% of women on the titanic survived. Only 19% of men did. Read that again. Even the richest men ali...</title>
-      <link>https://twitter.com/elonmusk/status/161a25da</link>
+      <link>https://twitter.com/elonmusk/status/64334aef</link>
       <description>73% of women on the titanic survived. Only 19% of men did. Read that again. Even the richest men alive, class, power, status, all useless when the ship started sinking. Hierarchy collapsed. Gender didn’t. “Women and children first” Not a suggestion. A rule men didn’t break. Men stood there. No panic No begging. Just accepted it. They didn’t ask: “Do I know her?” “Is she worth it?” “Will she remember me?” No one asked if it was fair. No camera. No applause. No second chances. Zero return. Full cost. Understand this: When survival gets limited, a man’s life becomes negotiable. Men like that built the world. And today? Masculinity gets mocked. Call it whatever you want. But when everything collapsed, men paid first. This isn’t opinion. This is history.</description>
-      <guid isPermaLink="false">twitter_elonmusk_161a25da</guid>
-      <pubDate>Tue, 18 Aug 2026 18:10:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_64334aef</guid>
+      <pubDate>Tue, 18 Aug 2026 19:34:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.</title>
-      <link>https://twitter.com/elonmusk/status/1b5de539</link>
+      <link>https://twitter.com/elonmusk/status/2409382f</link>
       <description>Try Grok 4.6! Grok 4.7, which is a major upgrade, is coming soon.</description>
-      <guid isPermaLink="false">twitter_elonmusk_1b5de539</guid>
-      <pubDate>Tue, 18 Aug 2026 18:15:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2409382f</guid>
+      <pubDate>Tue, 18 Aug 2026 19:39:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🚨Starlink is providing free internet service through Sept. 17 to customers in Hawaii impacted by Hur...</title>
-      <link>https://twitter.com/elonmusk/status/37517950</link>
+      <link>https://twitter.com/elonmusk/status/8d8f9a54</link>
       <description>🚨Starlink is providing free internet service through Sept. 17 to customers in Hawaii impacted by Hurricane Lala. SpaceX is also working with local officials to deploy Starlink for emergency crews and residents in the hardest-hit areas. Thank you@elonmuskand@Starlink! 🇺🇸🇺🇸</description>
-      <guid isPermaLink="false">twitter_elonmusk_37517950</guid>
-      <pubDate>Tue, 18 Aug 2026 18:20:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8d8f9a54</guid>
+      <pubDate>Tue, 18 Aug 2026 19:44:14 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Wow, this is an all-star lineup!</title>
-      <link>https://twitter.com/elonmusk/status/a88d8097</link>
+      <link>https://twitter.com/elonmusk/status/59b312b6</link>
       <description>Wow, this is an all-star lineup!</description>
-      <guid isPermaLink="false">twitter_elonmusk_a88d8097</guid>
-      <pubDate>Tue, 18 Aug 2026 18:25:42 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_59b312b6</guid>
+      <pubDate>Tue, 18 Aug 2026 19:49:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Improvements to Grok@Bot</title>
+      <link>https://twitter.com/elonmusk/status/27d46e97</link>
+      <description>Improvements to Grok@Bot</description>
+      <guid isPermaLink="false">twitter_elonmusk_27d46e97</guid>
+      <pubDate>Tue, 18 Aug 2026 19:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Reporter: You good with mass migration? Dalai Lama: Nope lol</title>
+      <link>https://twitter.com/elonmusk/status/d1b56857</link>
+      <description>Reporter: You good with mass migration? Dalai Lama: Nope lol</description>
+      <guid isPermaLink="false">twitter_elonmusk_d1b56857</guid>
+      <pubDate>Tue, 18 Aug 2026 19:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Elon Musk and SpaceX have been true champions for Ukraine since day one of the full-scale invasion. ...</title>
+      <link>https://twitter.com/elonmusk/status/bb1c779a</link>
+      <description>Elon Musk and SpaceX have been true champions for Ukraine since day one of the full-scale invasion. Immediately after the russian attack became known, Elon ordered the dispatch of Starlink terminals. He didn't wait for a request from Ukraine and intervened to help the country before it was sent, something that not many people know. He activated Starlink, which restored vital connectivity when conventional networks were shattered. This resilient satellite internet became the backbone of Ukrainian resilience. Starlinks are powering frontline coordination, drone operations, hospitals, emergency services, and civilian life amid relentless attacks. Tens of thousands of terminals keep forces connected and effective. In 2026, Elon’s swift action to block unauthorized russian use of Starlink delivered game-changing results. It protected Ukraine’s air defenses, safeguarded the air force, and spared thousands of civilian lives, enabling the largest territorial gains in years. As former Defense Minister Mykhailo Fedorov has rightly said, Elon is “the most important tech person and entrepreneur in the world for our country” and a true friend of the Ukrainian people. Thank you, Elon and SpaceX, for standing firmly with freedom!</description>
+      <guid isPermaLink="false">twitter_elonmusk_bb1c779a</guid>
+      <pubDate>Tue, 18 Aug 2026 20:04:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: 🚨 BREAKING: The "trans" guy who traveled DC intending to KlLL Scott Bessent has been sentenced to 73...</title>
+      <link>https://twitter.com/elonmusk/status/7e9ab811</link>
+      <description>🚨 BREAKING: The "trans" guy who traveled DC intending to KlLL Scott Bessent has been sentenced to 73 months in prison Trans vioIence is COMPLETELY out of control Ryan Michael English, who pretends to be a woman, brought MOLOTOV COCKTAILS to the US Capitol, admitting he was going to throw them at Bessent's feet during his Senate confirmation vote This guy got off WAY too easy</description>
+      <guid isPermaLink="false">twitter_elonmusk_7e9ab811</guid>
+      <pubDate>Tue, 18 Aug 2026 20:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: I'm using Grok in the CLI and I've got to say: I'm delighted at its personality. The thinking keeps ...</title>
+      <link>https://twitter.com/elonmusk/status/1f118f1f</link>
+      <description>I'm using Grok in the CLI and I've got to say: I'm delighted at its personality. The thinking keeps showing comments like 'Wow, that country-FE result is striking!' and 'The quadratic adjustment left a ~15-25% residual. Guess that's why we use splines!' Grok is so happy!</description>
+      <guid isPermaLink="false">twitter_elonmusk_1f118f1f</guid>
+      <pubDate>Tue, 18 Aug 2026 20:14:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
