@@ -3,129 +3,122 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-18 03:14 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-18 05:34 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 03:14:12 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Intelligence/Joule will keep improving</title>
-      <link>https://twitter.com/elonmusk/status/ad07f5f8</link>
-      <description>Intelligence/Joule will keep improving</description>
-      <guid isPermaLink="false">twitter_elonmusk_ad07f5f8</guid>
-      <pubDate>Tue, 18 Aug 2026 01:54:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Tesla Model Y was China’s #1 best-selling midsize SUV last month. 🇨🇳 • 25,158 retail sales • #3 best...</title>
-      <link>https://twitter.com/elonmusk/status/bb44f6ff</link>
-      <description>Tesla Model Y was China’s #1 best-selling midsize SUV last month. 🇨🇳 • 25,158 retail sales • #3 best-selling vehicle overall • 197,671 sold from January through July Tesla China also recorded 93,579 wholesale sales, up 37.8% YoY.</description>
-      <guid isPermaLink="false">twitter_elonmusk_bb44f6ff</guid>
-      <pubDate>Tue, 18 Aug 2026 01:59:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Try Grok@Bot!</title>
-      <link>https://twitter.com/elonmusk/status/90d6a67a</link>
-      <description>Try Grok@Bot!</description>
-      <guid isPermaLink="false">twitter_elonmusk_90d6a67a</guid>
-      <pubDate>Tue, 18 Aug 2026 02:04:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Aug 2026 05:34:10 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Two major rocket launches almost simultaneously</title>
-      <link>https://twitter.com/elonmusk/status/2d48fd9b</link>
+      <link>https://twitter.com/elonmusk/status/30ffa363</link>
       <description>Two major rocket launches almost simultaneously</description>
-      <guid isPermaLink="false">twitter_elonmusk_2d48fd9b</guid>
-      <pubDate>Tue, 18 Aug 2026 02:09:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_30ffa363</guid>
+      <pubDate>Tue, 18 Aug 2026 04:19:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: For those impacted by the earthquake in Indonesia, Starlink is providing free service through Septem...</title>
-      <link>https://twitter.com/elonmusk/status/41b2f129</link>
+      <link>https://twitter.com/elonmusk/status/92610329</link>
       <description>For those impacted by the earthquake in Indonesia, Starlink is providing free service through September 16 to new and existing customers. We are coordinating with emergency response agencies to provide service and hardware to their teams in the hardest-hit areas, and activating donated Starlinks from previous responses to help restore connectivity →starlink.com/support/article…</description>
-      <guid isPermaLink="false">twitter_elonmusk_41b2f129</guid>
-      <pubDate>Tue, 18 Aug 2026 02:14:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_92610329</guid>
+      <pubDate>Tue, 18 Aug 2026 04:24:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: For those impacted by Hurricane Lala in Hawaii, Starlink is providing free service through September...</title>
-      <link>https://twitter.com/elonmusk/status/41bfbda2</link>
+      <link>https://twitter.com/elonmusk/status/ddb6f714</link>
       <description>For those impacted by Hurricane Lala in Hawaii, Starlink is providing free service through September 17 to new and existing customers. We are coordinating with local emergency officials to set up Starlink for crews on the ground in the worst-hit communities →starlink.com/support/article…</description>
-      <guid isPermaLink="false">twitter_elonmusk_41bfbda2</guid>
-      <pubDate>Tue, 18 Aug 2026 02:19:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ddb6f714</guid>
+      <pubDate>Tue, 18 Aug 2026 04:29:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Landing an orbital-class rocket was once considered almost impossible. SpaceX has now done it 650 ti...</title>
-      <link>https://twitter.com/elonmusk/status/42d06a88</link>
+      <link>https://twitter.com/elonmusk/status/11d96f37</link>
       <description>Landing an orbital-class rocket was once considered almost impossible. SpaceX has now done it 650 times First landing: December 21, 2015 650th landing: August 15, 2026</description>
-      <guid isPermaLink="false">twitter_elonmusk_42d06a88</guid>
-      <pubDate>Tue, 18 Aug 2026 02:24:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_11d96f37</guid>
+      <pubDate>Tue, 18 Aug 2026 04:34:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: This is literally my new workflow now: Realtime Research → Grok Bot Planning &amp; Orchestration→ Grok B...</title>
-      <link>https://twitter.com/elonmusk/status/38422ae0</link>
+      <link>https://twitter.com/elonmusk/status/3a4b8a1f</link>
       <description>This is literally my new workflow now: Realtime Research → Grok Bot Planning &amp; Orchestration→ Grok Bot Day-to-day Coding/Debug → Grok Build + Grok 4.6 Write &amp; Run Tests → Grok Build + Grok 4.6 Complex Coding/Debug → GPT-5.6 Sol Frontend → Fable 5 Bookmark this.</description>
-      <guid isPermaLink="false">twitter_elonmusk_38422ae0</guid>
-      <pubDate>Tue, 18 Aug 2026 02:29:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_3a4b8a1f</guid>
+      <pubDate>Tue, 18 Aug 2026 04:39:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: OMG. I asked my Chief Engineer on Grok@botto bring up the feature and it's done. 😳 I can text my@mat...</title>
-      <link>https://twitter.com/elonmusk/status/e82abb1a</link>
+      <link>https://twitter.com/elonmusk/status/99caa72a</link>
       <description>OMG. I asked my Chief Engineer on Grok@botto bring up the feature and it's done. 😳 I can text my@maticrobotsnow through my Grok@bot—anywhere and anytime.</description>
-      <guid isPermaLink="false">twitter_elonmusk_e82abb1a</guid>
-      <pubDate>Tue, 18 Aug 2026 02:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok@Bot</title>
-      <link>https://twitter.com/elonmusk/status/3d88913f</link>
-      <description>Grok@Bot</description>
-      <guid isPermaLink="false">twitter_elonmusk_3d88913f</guid>
-      <pubDate>Tue, 18 Aug 2026 02:39:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_99caa72a</guid>
+      <pubDate>Tue, 18 Aug 2026 04:44:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.6 is smart, super fast &amp; affordable</title>
-      <link>https://twitter.com/elonmusk/status/83fb5adc</link>
+      <link>https://twitter.com/elonmusk/status/d634c284</link>
       <description>Grok 4.6 is smart, super fast &amp; affordable</description>
-      <guid isPermaLink="false">twitter_elonmusk_83fb5adc</guid>
-      <pubDate>Tue, 18 Aug 2026 02:44:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d634c284</guid>
+      <pubDate>Tue, 18 Aug 2026 04:49:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The talent at SpaceXAI is insane 🔥</title>
-      <link>https://twitter.com/elonmusk/status/ba21ff1b</link>
+      <link>https://twitter.com/elonmusk/status/2fe0a9b4</link>
       <description>The talent at SpaceXAI is insane 🔥</description>
-      <guid isPermaLink="false">twitter_elonmusk_ba21ff1b</guid>
-      <pubDate>Tue, 18 Aug 2026 02:49:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2fe0a9b4</guid>
+      <pubDate>Tue, 18 Aug 2026 04:54:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: We’re working with Southaven officials on the development of a new police and fire training facility...</title>
-      <link>https://twitter.com/elonmusk/status/ec7ae47f</link>
+      <link>https://twitter.com/elonmusk/status/bd6912c0</link>
       <description>We’re working with Southaven officials on the development of a new police and fire training facility, investing $40 million to help strengthen the local emergency response systems that are critical for the safety and well-being of the communities we call home.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ec7ae47f</guid>
-      <pubDate>Tue, 18 Aug 2026 02:54:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bd6912c0</guid>
+      <pubDate>Tue, 18 Aug 2026 04:59:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Create with Grok Imagine</title>
-      <link>https://twitter.com/elonmusk/status/dc217a0f</link>
+      <link>https://twitter.com/elonmusk/status/851cc4e6</link>
       <description>Create with Grok Imagine</description>
-      <guid isPermaLink="false">twitter_elonmusk_dc217a0f</guid>
-      <pubDate>Tue, 18 Aug 2026 02:59:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_851cc4e6</guid>
+      <pubDate>Tue, 18 Aug 2026 05:04:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok is very good at agentic tasks!</title>
-      <link>https://twitter.com/elonmusk/status/a5393c3e</link>
+      <link>https://twitter.com/elonmusk/status/f44921cc</link>
       <description>Grok is very good at agentic tasks!</description>
-      <guid isPermaLink="false">twitter_elonmusk_a5393c3e</guid>
-      <pubDate>Tue, 18 Aug 2026 03:04:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f44921cc</guid>
+      <pubDate>Tue, 18 Aug 2026 05:09:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 1/2 the turns and 25% of the tokens. Task/Token is something to watch. Is Grok 4.6 inside Grok Bot? ...</title>
-      <link>https://twitter.com/elonmusk/status/a262a17e</link>
+      <link>https://twitter.com/elonmusk/status/afc18408</link>
       <description>1/2 the turns and 25% of the tokens. Task/Token is something to watch. Is Grok 4.6 inside Grok Bot? Has this been revealed yet? Have I missed it? I’ve been wondering what magic allows grok bot to just work so consistently.</description>
-      <guid isPermaLink="false">twitter_elonmusk_a262a17e</guid>
-      <pubDate>Tue, 18 Aug 2026 03:09:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_afc18408</guid>
+      <pubDate>Tue, 18 Aug 2026 05:14:10 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Create a full scene with Grok Imagine for a chance to win 👇</title>
-      <link>https://twitter.com/elonmusk/status/54f474d3</link>
+      <link>https://twitter.com/elonmusk/status/286a02cf</link>
       <description>Create a full scene with Grok Imagine for a chance to win 👇</description>
-      <guid isPermaLink="false">twitter_elonmusk_54f474d3</guid>
-      <pubDate>Tue, 18 Aug 2026 03:14:12 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_286a02cf</guid>
+      <pubDate>Tue, 18 Aug 2026 05:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Sync to Origin</title>
+      <link>https://twitter.com/elonmusk/status/fd007ce6</link>
+      <description>Sync to Origin</description>
+      <guid isPermaLink="false">twitter_elonmusk_fd007ce6</guid>
+      <pubDate>Tue, 18 Aug 2026 05:24:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok@Bot</title>
+      <link>https://twitter.com/elonmusk/status/89bfdda9</link>
+      <description>Grok@Bot</description>
+      <guid isPermaLink="false">twitter_elonmusk_89bfdda9</guid>
+      <pubDate>Tue, 18 Aug 2026 05:29:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok 4.6 is my daily driver now. This is why: When I’m using interactive agents in a CLI/terminal (o...</title>
+      <link>https://twitter.com/elonmusk/status/f0236227</link>
+      <description>Grok 4.6 is my daily driver now. This is why: When I’m using interactive agents in a CLI/terminal (or even Slack), what matters most to me is speed &amp; token throughput. Intelligence and differences in performance on benchmarks is negligible to me when speed is sacrificed. If I am there to steer &amp; guide the agent, or make some quick fixes, then I don’t want to wait 5+ min per turn. Opus 5 (fast) is a good solution to this, but it is WAY too expensive. Grok 4.6 is perfect though, incredibly fast, almost as smart as Fable, and relatively much cheaper than anything else right now. On the flip side, for cloud agents working in Factories &amp; background tasks triggered on crons, I don’t mind using intelligent, slow models like Fable / Sol. I’d even opt for a model router for cloud tasks that biases to heavy, smart models. I guess the meta point I’m making here is that model choice is largely a function of whether there’s a human waiting in the loop.</description>
+      <guid isPermaLink="false">twitter_elonmusk_f0236227</guid>
+      <pubDate>Tue, 18 Aug 2026 05:34:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
