@@ -3,129 +3,150 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-20 05:02 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-20 05:53 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:02:05 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: There was no intent There was no motive Chauvin was doing textbook restraint procedures The rest of ...</title>
-      <link>https://twitter.com/elonmusk/status/8149d77b</link>
-      <description>There was no intent There was no motive Chauvin was doing textbook restraint procedures The rest of the officers were restraining accordingly innthe arrest. It was all political theater for the masses.</description>
-      <guid isPermaLink="false">twitter_elonmusk_8149d77b</guid>
-      <pubDate>Thu, 20 Aug 2026 03:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Does this change everything?</title>
-      <link>https://twitter.com/elonmusk/status/4cad857f</link>
-      <description>Does this change everything?</description>
-      <guid isPermaLink="false">twitter_elonmusk_4cad857f</guid>
-      <pubDate>Thu, 20 Aug 2026 03:47:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: He committed serious crimes, as did Fauci</title>
-      <link>https://twitter.com/elonmusk/status/aae22a2c</link>
-      <description>He committed serious crimes, as did Fauci</description>
-      <guid isPermaLink="false">twitter_elonmusk_aae22a2c</guid>
-      <pubDate>Thu, 20 Aug 2026 03:52:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on...</title>
-      <link>https://twitter.com/elonmusk/status/9cc529c5</link>
-      <description>Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls Release Notes: v1.0.7 Features: • Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable. • Permission prompts now show "Always allow" and "Never allow" options by default. • Users can now delete scheduled background loops directly from the tray. • Status line command scripts can now run on a timer via refresh_interval in config.toml. • Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project. • Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description. • New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs. • Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help. • Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab. Bug Fixes: • MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers. • Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions. • Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions. • Subagents no longer receive the ask-user-question tool. • Bare email addresses are now turned into clickable mailto links in the pager.</description>
-      <guid isPermaLink="false">twitter_elonmusk_9cc529c5</guid>
-      <pubDate>Thu, 20 Aug 2026 03:57:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Much appreciated!</title>
-      <link>https://twitter.com/elonmusk/status/11fabe07</link>
-      <description>Much appreciated!</description>
-      <guid isPermaLink="false">twitter_elonmusk_11fabe07</guid>
-      <pubDate>Thu, 20 Aug 2026 04:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Build puts you in charge of your computerX.ai/build</title>
-      <link>https://twitter.com/elonmusk/status/204311f2</link>
-      <description>Grok Build puts you in charge of your computerX.ai/build</description>
-      <guid isPermaLink="false">twitter_elonmusk_204311f2</guid>
-      <pubDate>Thu, 20 Aug 2026 04:07:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Not satire</title>
-      <link>https://twitter.com/elonmusk/status/2e041310</link>
-      <description>Not satire</description>
-      <guid isPermaLink="false">twitter_elonmusk_2e041310</guid>
-      <pubDate>Thu, 20 Aug 2026 04:12:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: I was the bottleneck. So I made a Grok Bot the boss of my repo. From there it recruited more Grok Bo...</title>
-      <link>https://twitter.com/elonmusk/status/0dd0a7e3</link>
-      <description>I was the bottleneck. So I made a Grok Bot the boss of my repo. From there it recruited more Grok Bots. All of this with two prompts + pstack. WARNING you will get "AI Psychosis" if you do this workflow.</description>
-      <guid isPermaLink="false">twitter_elonmusk_0dd0a7e3</guid>
-      <pubDate>Thu, 20 Aug 2026 04:17:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok upgrades</title>
-      <link>https://twitter.com/elonmusk/status/c49beead</link>
-      <description>Grok upgrades</description>
-      <guid isPermaLink="false">twitter_elonmusk_c49beead</guid>
-      <pubDate>Thu, 20 Aug 2026 04:22:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Elon basically predicted the next revolution in medicine: “You can effectively think of the future o...</title>
-      <link>https://twitter.com/elonmusk/status/ba383c4b</link>
-      <description>Elon basically predicted the next revolution in medicine: “You can effectively think of the future of medicine as being digital” Much of traditional drug discovery has involved finding or screening molecules, testing them, and figuring out what they can do Synthetic RNA starts changing that model From discovering drugs by accident → programming treatments like software If we can understand exactly what biological instructions need to be written into RNA, medicine increasingly becomes something we can design for a specific problem And once we know what to program into synthetic RNA: “You can basically, cure almost anything” Medicine is becoming programmable</description>
-      <guid isPermaLink="false">twitter_elonmusk_ba383c4b</guid>
-      <pubDate>Thu, 20 Aug 2026 04:27:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Elon is right 💯</title>
-      <link>https://twitter.com/elonmusk/status/e68011ea</link>
-      <description>Elon is right 💯</description>
-      <guid isPermaLink="false">twitter_elonmusk_e68011ea</guid>
-      <pubDate>Thu, 20 Aug 2026 04:32:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 20 Aug 2026 05:53:54 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: So I looked into this a little more, and turns out voters approved a 1:1 match, then city council “a...</title>
-      <link>https://twitter.com/elonmusk/status/f110a66a</link>
+      <link>https://twitter.com/elonmusk/status/98f1aa50</link>
       <description>So I looked into this a little more, and turns out voters approved a 1:1 match, then city council “amended” it to a 6:1 match</description>
-      <guid isPermaLink="false">twitter_elonmusk_f110a66a</guid>
-      <pubDate>Thu, 20 Aug 2026 04:37:05 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_98f1aa50</guid>
+      <pubDate>Thu, 20 Aug 2026 04:18:54 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: More people died in France this year from not having air conditioning (7,300) than American deaths f...</title>
-      <link>https://twitter.com/elonmusk/status/7012745f</link>
+      <link>https://twitter.com/elonmusk/status/9522a707</link>
       <description>More people died in France this year from not having air conditioning (7,300) than American deaths from mass shootings in all of recorded U.S. history (1,741).😬</description>
-      <guid isPermaLink="false">twitter_elonmusk_7012745f</guid>
-      <pubDate>Thu, 20 Aug 2026 04:42:05 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9522a707</guid>
+      <pubDate>Thu, 20 Aug 2026 04:23:54 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I am bewildered, and not very impressed, by the visceral, naked, irrational hatred spat out by some ...</title>
-      <link>https://twitter.com/elonmusk/status/700c0bee</link>
+      <link>https://twitter.com/elonmusk/status/03b7ec70</link>
       <description>I am bewildered, and not very impressed, by the visceral, naked, irrational hatred spat out by some defenders of Jason Arday. If a Cambridge professor is accused of being an unqualified charlatan, the accusation might be racially motivated. On the other hand it might not, depending on the evidence. The correct question to ask is not, ”What is the colour of his skin” but “Is it in fact true that he is an unqualified charlatan?” Please examine the evidence before leaping to the assumption of racism. As for the idea that journalists “piled in on him” and “hounded him to his death”, most attacks were against Cambridge University. Jason himself was widely regarded as an unfortunate victim of foolish promotion way beyond his ability to cope. In appointing him to a professorship for which he was manifestly unqualified – in ludicrously describing him as “the best in the world” – certain senior members of the university showed a level of patronising condescension towards black people that could fairly be described as racism, while at the same time making him tragically vulnerable to such attacks as came his way.</description>
-      <guid isPermaLink="false">twitter_elonmusk_700c0bee</guid>
-      <pubDate>Thu, 20 Aug 2026 04:47:05 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_03b7ec70</guid>
+      <pubDate>Thu, 20 Aug 2026 04:28:54 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The sex difference in throwing is one of the largest behavioral sex differences ever measured. While...</title>
-      <link>https://twitter.com/elonmusk/status/8e61c07b</link>
+      <link>https://twitter.com/elonmusk/status/69496437</link>
       <description>The sex difference in throwing is one of the largest behavioral sex differences ever measured. While training matters, the disparity appears to be mostly biological. Yet Anne Fausto-Sterling argues in favor of pure socialization while ignoring a mountain of evidence to the contrary. Few scholars claim to deny biology outright, with most agreeing that nature and nurture interact. In practice, however, they routinely reject biological explanations in favor of comparatively implausible environmental ones. They pay lip service to biology, but never actually allow it to explain anything. This new long read by professors Robert Deaner and Mike Lombardo examines the science of throwing, hunting, and combat, and ask a simple question: What evidence would actually be allowed to count as evidence for an innate sex difference? Read the free article on@RealLastStandbelow. 🔗realityslaststand.com/p/thro…</description>
-      <guid isPermaLink="false">twitter_elonmusk_8e61c07b</guid>
-      <pubDate>Thu, 20 Aug 2026 04:52:05 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_69496437</guid>
+      <pubDate>Thu, 20 Aug 2026 04:33:54 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Air travel is fundamentally a different service in the age of@Starlink. What I’m paying for is an In...</title>
-      <link>https://twitter.com/elonmusk/status/3b66e880</link>
+      <link>https://twitter.com/elonmusk/status/a9d71e7f</link>
       <description>Air travel is fundamentally a different service in the age of@Starlink. What I’m paying for is an Internet Cafe in the sky. Why would I pay for 6 hours at a Net Cafe without Internet? It’s more important than a bed. If Starlink is advertised and not working it’s kidnapping.</description>
-      <guid isPermaLink="false">twitter_elonmusk_3b66e880</guid>
-      <pubDate>Thu, 20 Aug 2026 04:57:05 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a9d71e7f</guid>
+      <pubDate>Thu, 20 Aug 2026 04:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: How do the “BIG PHARMA IS HIDING THE CURE TO CANCER” bros square that retarded idea with Moderna’s s...</title>
+      <link>https://twitter.com/elonmusk/status/abfd5d9d</link>
+      <description>How do the “BIG PHARMA IS HIDING THE CURE TO CANCER” bros square that retarded idea with Moderna’s share price exploding 176% in one day after announcing cancer vaccine results Seems like big pharma actually has a pretty massive incentive to cure cancer, actually</description>
+      <guid isPermaLink="false">twitter_elonmusk_abfd5d9d</guid>
+      <pubDate>Thu, 20 Aug 2026 04:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Is Biology Allowed to Explain Anything? Even a sex difference as obvious as throwing strength? Rober...</title>
+      <link>https://twitter.com/elonmusk/status/6055050e</link>
+      <description>Is Biology Allowed to Explain Anything? Even a sex difference as obvious as throwing strength? Robert Deaner &amp; Mike Lombardo: "The strong Blank Slate—the idea that human psychology is largely written by culture—has been declared dead many times. Yet it refuses to stay dead. ... Today, biology is usually acknowledged. Nature and nurture interact. Fine. But the Blank Slate survives through two recurring moves. First, reasonable observations—that traits are plastic, parents influence children, experience matters, and development mediates behavior—are treated as though they rule out an innate contribution. They do not. Second, evidence that could challenge a socialization-only explanation is ignored, minimized, or sidestepped."open.substack.com/pub/colinw…</description>
+      <guid isPermaLink="false">twitter_elonmusk_6055050e</guid>
+      <pubDate>Thu, 20 Aug 2026 04:48:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Looks like we will probably catch the ship with the tower in a few months. If there had been a tower...</title>
+      <link>https://twitter.com/elonmusk/status/f5c21a13</link>
+      <description>Looks like we will probably catch the ship with the tower in a few months. If there had been a tower out to sea where we practiced landing the ship, it would have been caught. First reflight of the ship will be either end of this year or early next. That will be a fork in the road of history for consciousness reaching the stars.</description>
+      <guid isPermaLink="false">twitter_elonmusk_f5c21a13</guid>
+      <pubDate>Thu, 20 Aug 2026 04:53:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Any person who thinks it is fair for biological males to compete against women in physical sports is...</title>
+      <link>https://twitter.com/elonmusk/status/ca1f91d3</link>
+      <description>Any person who thinks it is fair for biological males to compete against women in physical sports is an idiot. There's a reason why it only goes one way; biological women never transition and excel in men’s sports. Men have: - More testosterone - More muscle mass - Less body fat - Larger heart and lungs - Greater bone density - More red blood cells (absorbing oxygen) PS - Even chess is segregated, because our brains are wired differently too.</description>
+      <guid isPermaLink="false">twitter_elonmusk_ca1f91d3</guid>
+      <pubDate>Thu, 20 Aug 2026 04:58:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Nashville - we are hiring! Hiring Event: Friday, August 28 Two TBMs are currently tunneling, with a ...</title>
+      <link>https://twitter.com/elonmusk/status/b0c705b3</link>
+      <description>Nashville - we are hiring! Hiring Event: Friday, August 28 Two TBMs are currently tunneling, with a 3rd arriving soon. If you can wrench, weld, wire, engineer, or manage construction sites - we want you on the Music City Loop Team. Apply here:boringcompany.com/applynashv…</description>
+      <guid isPermaLink="false">twitter_elonmusk_b0c705b3</guid>
+      <pubDate>Thu, 20 Aug 2026 05:03:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Bot is the first AI agent system I’ve used right out of the box with zero coding experience. I ...</title>
+      <link>https://twitter.com/elonmusk/status/7384cf9c</link>
+      <description>Grok Bot is the first AI agent system I’ve used right out of the box with zero coding experience. I now have an assistant, researcher, writer, clipper, and accountant running 24/7 from the cloud. Trained them on my X archive and they’re already automating work for me. How are you all using yours? Best use cases so far?</description>
+      <guid isPermaLink="false">twitter_elonmusk_7384cf9c</guid>
+      <pubDate>Thu, 20 Aug 2026 05:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: I made a kids learning app for my nephew using@GrokBuild… and he loves it! ❤️</title>
+      <link>https://twitter.com/elonmusk/status/11aa7cdf</link>
+      <description>I made a kids learning app for my nephew using@GrokBuild… and he loves it! ❤️</description>
+      <guid isPermaLink="false">twitter_elonmusk_11aa7cdf</guid>
+      <pubDate>Thu, 20 Aug 2026 05:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Try Grok@Botand Buildx.ai/build</title>
+      <link>https://twitter.com/elonmusk/status/97cccb8b</link>
+      <description>Try Grok@Botand Buildx.ai/build</description>
+      <guid isPermaLink="false">twitter_elonmusk_97cccb8b</guid>
+      <pubDate>Thu, 20 Aug 2026 05:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: the only non ugly exit from us debt/gdp is nominal growth outrunning interest costs. ai led innovati...</title>
+      <link>https://twitter.com/elonmusk/status/8ed789a9</link>
+      <description>the only non ugly exit from us debt/gdp is nominal growth outrunning interest costs. ai led innovation (particularly chronic illnesses being addressed + social services becoming efficient) + rise in productivity are the last remaining lever big enough to actually make any sort of dent. everything else is no longer even an option.</description>
+      <guid isPermaLink="false">twitter_elonmusk_8ed789a9</guid>
+      <pubDate>Thu, 20 Aug 2026 05:23:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Bot is $300/month, which sounded expensive to me yesterday. Today I’m wondering if it might act...</title>
+      <link>https://twitter.com/elonmusk/status/52db0d16</link>
+      <description>Grok Bot is $300/month, which sounded expensive to me yesterday. Today I’m wondering if it might actually be cheap. 😂 Someone told me they used it to set up the books for a startup, create the chart of accounts and reconcile 6 months of transactions in about 30 minutes. Okay. Now you have my attention. We’re just starting a new family drone business, and this weekend we’re digging into all the pieces to figure out exactly what we’re getting ourselves into. There will be a website to build, bookkeeping, marketing, and scheduling. All the little things somebody has to spend their time doing. And that’s where my math changes. I don’t need Grok Bot to save me $300. I need it to free up enough of my time to go make more than $300 doing something else. Now I’m seriously considering pushing the button and finding out what a homesteading, homeschooling mom with no tech background can actually make this little bot do.</description>
+      <guid isPermaLink="false">twitter_elonmusk_52db0d16</guid>
+      <pubDate>Thu, 20 Aug 2026 05:28:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok Bot has completely broken my brain. I got an insane amount of work done today. But I genuinely ...</title>
+      <link>https://twitter.com/elonmusk/status/c96d8e14</link>
+      <description>Grok Bot has completely broken my brain. I got an insane amount of work done today. But I genuinely feel like I did nothing. Because I barely DID any of it. I just told my AI team what needed to happen... and it happened. This is such a weird new version of work.</description>
+      <guid isPermaLink="false">twitter_elonmusk_c96d8e14</guid>
+      <pubDate>Thu, 20 Aug 2026 05:33:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Try Grok@Bot</title>
+      <link>https://twitter.com/elonmusk/status/15ede760</link>
+      <description>Try Grok@Bot</description>
+      <guid isPermaLink="false">twitter_elonmusk_15ede760</guid>
+      <pubDate>Thu, 20 Aug 2026 05:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Grok@Bot</title>
+      <link>https://twitter.com/elonmusk/status/0ed21177</link>
+      <description>Grok@Bot</description>
+      <guid isPermaLink="false">twitter_elonmusk_0ed21177</guid>
+      <pubDate>Thu, 20 Aug 2026 05:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Try@Grok@Bot</title>
+      <link>https://twitter.com/elonmusk/status/b4a7a1a0</link>
+      <description>Try@Grok@Bot</description>
+      <guid isPermaLink="false">twitter_elonmusk_b4a7a1a0</guid>
+      <pubDate>Thu, 20 Aug 2026 05:48:54 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok@Botis the Chuck Norris of bots 😂</title>
       <link>https://twitter.com/elonmusk/status/d4cac066</link>
       <description>Grok@Botis the Chuck Norris of bots 😂</description>
       <guid isPermaLink="false">twitter_elonmusk_d4cac066</guid>
-      <pubDate>Thu, 20 Aug 2026 05:02:05 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 05:53:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
