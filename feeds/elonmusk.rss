@@ -3,143 +3,150 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-22 02:11 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-22 03:12 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:11:28 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: We just launched the 𝕏 Ads MCP, allowing you to create ads directly from where you already use agent...</title>
-      <link>https://twitter.com/elonmusk/status/6a1e713f</link>
-      <description>We just launched the 𝕏 Ads MCP, allowing you to create ads directly from where you already use agents.</description>
-      <guid isPermaLink="false">twitter_elonmusk_6a1e713f</guid>
-      <pubDate>Sat, 22 Aug 2026 00:41:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Bot has expanded to more plans and is now free to tryx.ai/bot</title>
-      <link>https://twitter.com/elonmusk/status/835c3bfe</link>
-      <description>Grok Bot has expanded to more plans and is now free to tryx.ai/bot</description>
-      <guid isPermaLink="false">twitter_elonmusk_835c3bfe</guid>
-      <pubDate>Sat, 22 Aug 2026 00:46:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 03:12:26 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: This is how bad it was</title>
-      <link>https://twitter.com/elonmusk/status/c9af8a6e</link>
+      <link>https://twitter.com/elonmusk/status/51ed5229</link>
       <description>This is how bad it was</description>
-      <guid isPermaLink="false">twitter_elonmusk_c9af8a6e</guid>
-      <pubDate>Sat, 22 Aug 2026 00:51:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_51ed5229</guid>
+      <pubDate>Sat, 22 Aug 2026 01:37:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceX AI employee just dropped the tunes for GROK BOT to make it reach its maximum potential. alrea...</title>
-      <link>https://twitter.com/elonmusk/status/b7ecf655</link>
+      <link>https://twitter.com/elonmusk/status/31b028e3</link>
       <description>SpaceX AI employee just dropped the tunes for GROK BOT to make it reach its maximum potential. already tried that myself and it shows AMAZING results. here is the list: - add a self-check pass before it returns anything. ask the agent to verify its own output against the original instruction before finalizing, “did this actually satisfy every requirement, list what’s missing if not.” this single extra step catches more errors than any prompt wording tweak. - define “DONE” explicitly. “manage my expenses” gets vague output. “flag every transaction over $200 with no matching receipt, format as a table” gets exact output. agents don’t guess well, they execute well. - force structured output. ask for JSON or a fixed table format instead of free text. structured output is verifiable, free text just sounds confident either way. - scope tool access per task, not globally. an agent with read access to everything “just in case” makes worse decisions than one with exactly the 2 tools this specific task needs. less access, sharper output. which one of these are you actually doing right now?</description>
-      <guid isPermaLink="false">twitter_elonmusk_b7ecf655</guid>
-      <pubDate>Sat, 22 Aug 2026 00:56:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_31b028e3</guid>
+      <pubDate>Sat, 22 Aug 2026 01:42:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I know it’s been said many times… but just had Starlink on a flight for the first time and wow. One ...</title>
-      <link>https://twitter.com/elonmusk/status/694c9c65</link>
+      <link>https://twitter.com/elonmusk/status/1e0e7558</link>
       <description>I know it’s been said many times… but just had Starlink on a flight for the first time and wow. One of those Apple-like moments where tech just *works* Hard to see ppl going back once they’ve tried it</description>
-      <guid isPermaLink="false">twitter_elonmusk_694c9c65</guid>
-      <pubDate>Sat, 22 Aug 2026 01:01:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1e0e7558</guid>
+      <pubDate>Sat, 22 Aug 2026 01:47:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink enabling remote connectivity and live coverage during the solar eclipse 🛰️❤️</title>
-      <link>https://twitter.com/elonmusk/status/ba24dce0</link>
+      <link>https://twitter.com/elonmusk/status/e2ab3def</link>
       <description>Starlink enabling remote connectivity and live coverage during the solar eclipse 🛰️❤️</description>
-      <guid isPermaLink="false">twitter_elonmusk_ba24dce0</guid>
-      <pubDate>Sat, 22 Aug 2026 01:06:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e2ab3def</guid>
+      <pubDate>Sat, 22 Aug 2026 01:52:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: While pessimism sounds smart, optimism makes money by turning life-changing technologies into realit...</title>
-      <link>https://twitter.com/elonmusk/status/ec5bd8c2</link>
+      <link>https://twitter.com/elonmusk/status/4ab661cb</link>
       <description>While pessimism sounds smart, optimism makes money by turning life-changing technologies into reality.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ec5bd8c2</guid>
-      <pubDate>Sat, 22 Aug 2026 01:11:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_4ab661cb</guid>
+      <pubDate>Sat, 22 Aug 2026 01:57:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Falcon 9 has been priced at ~$70M for many years now, leading many to believe market prices have sta...</title>
-      <link>https://twitter.com/elonmusk/status/f4331ba9</link>
+      <link>https://twitter.com/elonmusk/status/8f51c509</link>
       <description>Falcon 9 has been priced at ~$70M for many years now, leading many to believe market prices have stayed flat. Heres what it looks like adjusted for inflation. F9 customer launch margin has increased from ~breakeven in 2013... ... to todays prices exceeding internal cost by, what we estimate to be 3.3x. Thats ~70% margin. (green line is the internal cost of Starlink, which is lower because they get far closer to filling the payload capacity!) Will be interesting to map these dynamics onto market prices with Starship around the corner....</description>
-      <guid isPermaLink="false">twitter_elonmusk_f4331ba9</guid>
-      <pubDate>Sat, 22 Aug 2026 01:16:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8f51c509</guid>
+      <pubDate>Sat, 22 Aug 2026 02:02:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I'm not lying when I tell everyone I don't cherry pick the crazy papers and PhD theses I post on X c...</title>
-      <link>https://twitter.com/elonmusk/status/ce702a83</link>
+      <link>https://twitter.com/elonmusk/status/fef5c5e5</link>
       <description>I'm not lying when I tell everyone I don't cherry pick the crazy papers and PhD theses I post on X constantly. The modal paper published in many fields is activist word salad designed to destroy the West. That's not hyperbole. That's a plain fact. It's a total crisis.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ce702a83</guid>
-      <pubDate>Sat, 22 Aug 2026 01:21:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fef5c5e5</guid>
+      <pubDate>Sat, 22 Aug 2026 02:07:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: It really doesn’t</title>
-      <link>https://twitter.com/elonmusk/status/067b4ee8</link>
+      <link>https://twitter.com/elonmusk/status/a7fab4b6</link>
       <description>It really doesn’t</description>
-      <guid isPermaLink="false">twitter_elonmusk_067b4ee8</guid>
-      <pubDate>Sat, 22 Aug 2026 01:26:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a7fab4b6</guid>
+      <pubDate>Sat, 22 Aug 2026 02:12:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Interesting</title>
-      <link>https://twitter.com/elonmusk/status/976dae1b</link>
+      <link>https://twitter.com/elonmusk/status/a7178a2b</link>
       <description>Interesting</description>
-      <guid isPermaLink="false">twitter_elonmusk_976dae1b</guid>
-      <pubDate>Sat, 22 Aug 2026 01:31:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_a7178a2b</guid>
+      <pubDate>Sat, 22 Aug 2026 02:17:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The only large-scale lithium battery cathode production in the Americas</title>
-      <link>https://twitter.com/elonmusk/status/4190fcf9</link>
+      <link>https://twitter.com/elonmusk/status/9a6d79d1</link>
       <description>The only large-scale lithium battery cathode production in the Americas</description>
-      <guid isPermaLink="false">twitter_elonmusk_4190fcf9</guid>
-      <pubDate>Sat, 22 Aug 2026 01:36:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9a6d79d1</guid>
+      <pubDate>Sat, 22 Aug 2026 02:22:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Voice ranked first</title>
-      <link>https://twitter.com/elonmusk/status/9e813c5b</link>
+      <link>https://twitter.com/elonmusk/status/0ca42bde</link>
       <description>Grok Voice ranked first</description>
-      <guid isPermaLink="false">twitter_elonmusk_9e813c5b</guid>
-      <pubDate>Sat, 22 Aug 2026 01:41:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_0ca42bde</guid>
+      <pubDate>Sat, 22 Aug 2026 02:27:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Murder 1</title>
-      <link>https://twitter.com/elonmusk/status/a8d8efba</link>
+      <link>https://twitter.com/elonmusk/status/98817770</link>
       <description>Murder 1</description>
-      <guid isPermaLink="false">twitter_elonmusk_a8d8efba</guid>
-      <pubDate>Sat, 22 Aug 2026 01:46:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_98817770</guid>
+      <pubDate>Sat, 22 Aug 2026 02:32:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The reason Rome fell was because they stopped making Romans</title>
-      <link>https://twitter.com/elonmusk/status/ec8d0b16</link>
+      <link>https://twitter.com/elonmusk/status/e779b355</link>
       <description>The reason Rome fell was because they stopped making Romans</description>
-      <guid isPermaLink="false">twitter_elonmusk_ec8d0b16</guid>
-      <pubDate>Sat, 22 Aug 2026 01:51:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e779b355</guid>
+      <pubDate>Sat, 22 Aug 2026 02:37:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I gave Grok@bota link to the post below and asked it to take up the cinematography challenge. Direct...</title>
-      <link>https://twitter.com/elonmusk/status/5a0be398</link>
+      <link>https://twitter.com/elonmusk/status/1d95903a</link>
       <description>I gave Grok@bota link to the post below and asked it to take up the cinematography challenge. Direct the film entirely through the chat casually and nothing else. Pretty wild.</description>
-      <guid isPermaLink="false">twitter_elonmusk_5a0be398</guid>
-      <pubDate>Sat, 22 Aug 2026 01:56:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_1d95903a</guid>
+      <pubDate>Sat, 22 Aug 2026 02:42:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: What, precisely, are women protesting outside the Lindsay Clancy trial? What oppression are they opp...</title>
-      <link>https://twitter.com/elonmusk/status/e3eceae1</link>
+      <link>https://twitter.com/elonmusk/status/34d59023</link>
       <description>What, precisely, are women protesting outside the Lindsay Clancy trial? What oppression are they opposing? Why are women posting videos of themselves on TikTok raging at the world about the stresses of motherhood? What, in short, is going on with American women? The answer: we trained several generations of women that they were victims of precisely the institutions that give them – and men! – meaning and happiness. Then we replaced those institutions with social media contagion and endless victimhood.youtu.be/watch?v=zwPFtrS2…</description>
-      <guid isPermaLink="false">twitter_elonmusk_e3eceae1</guid>
-      <pubDate>Sat, 22 Aug 2026 02:01:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_34d59023</guid>
+      <pubDate>Sat, 22 Aug 2026 02:47:26 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: He’s a genius</title>
-      <link>https://twitter.com/elonmusk/status/649c1d3f</link>
+      <link>https://twitter.com/elonmusk/status/22b12bf3</link>
       <description>He’s a genius</description>
-      <guid isPermaLink="false">twitter_elonmusk_649c1d3f</guid>
-      <pubDate>Sat, 22 Aug 2026 02:06:28 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_22b12bf3</guid>
+      <pubDate>Sat, 22 Aug 2026 02:52:26 +0000</pubDate>
     </item>
     <item>
-      <title>@elonmusk: Grok 4.6 on extra high thinking mode now achieves #1 score on CursorBench!</title>
-      <link>https://twitter.com/elonmusk/status/eebe5414</link>
-      <description>Grok 4.6 on extra high thinking mode now achieves #1 score on CursorBench!</description>
-      <guid isPermaLink="false">twitter_elonmusk_eebe5414</guid>
-      <pubDate>Sat, 22 Aug 2026 02:11:28 +0000</pubDate>
+      <title>@elonmusk: everyone is looking at grok bot like it is five new employees the more interesting part is that they...</title>
+      <link>https://twitter.com/elonmusk/status/9aae31f4</link>
+      <description>everyone is looking at grok bot like it is five new employees the more interesting part is that they are not five isolated employees they share one persistent cloud environment: the same browser sessions, terminal, filesystem and authenticated tools - while a chief of staff can route work between them without waiting for you to open the laptop that turns one login into infrastructure a research bot can collect leads, pass them to a writer, hand the result to a designer and let an ops bot update the workflow all inside the same running machine the upside is obvious: less copying, fewer handoffs and work that continues while you sleep the blast radius is just as obvious: - authenticate only the services the whole agent fleet is allowed to reach - give every bot a narrow role description, because that description becomes its place in the org chart - keep irreversible actions behind human approval: sending, publishing, spending and production changes - store skills, configuration and long-term state inside `/workspace`, because the rest of the VM may disappear during an update - treat shared sessions as shared authority, not as separate bot identities the same architecture that makes grok bot useful is what makes it dangerous to configure casually my take: the breakthrough is not that you can hire five AI workers it is that they can operate like one persistent company inside your real tools and your job changes from prompting every task to designing the permissions, boundaries and handoffs the full chief-of-staff setup, session handoff model, approval matrix and `/workspace` survival strategy are mapped out in the article ↓</description>
+      <guid isPermaLink="false">twitter_elonmusk_9aae31f4</guid>
+      <pubDate>Sat, 22 Aug 2026 02:57:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Second time trying Grok Bot and I'm still not over it. It took my whole growth engine and split into...</title>
+      <link>https://twitter.com/elonmusk/status/aa91a49f</link>
+      <description>Second time trying Grok Bot and I'm still not over it. It took my whole growth engine and split into 4 of itself. One's on content, one's on scheduling, one's watching engagement, one pulls it all into reports at the end. There's a master orchestrator on top deciding who does what and when, and I genuinely didn't set that part up, it figured out the division of labor on its own. I haven't touched it since I hit go. It just moves through the queue and only comes to me when something actually needs a yes or no. I keep forgetting this is still just@grok. What@xAIand@elonmuskare building here plays more like a team that clocked in already knowing the job, not a bot waiting for instructions.</description>
+      <guid isPermaLink="false">twitter_elonmusk_aa91a49f</guid>
+      <pubDate>Sat, 22 Aug 2026 03:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Comedy is legal on 𝕏</title>
+      <link>https://twitter.com/elonmusk/status/f605dac2</link>
+      <description>Comedy is legal on 𝕏</description>
+      <guid isPermaLink="false">twitter_elonmusk_f605dac2</guid>
+      <pubDate>Sat, 22 Aug 2026 03:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The greatest privilege of my life is being able to work with incredible people to create amazing pro...</title>
+      <link>https://twitter.com/elonmusk/status/b29ba81c</link>
+      <description>The greatest privilege of my life is being able to work with incredible people to create amazing products</description>
+      <guid isPermaLink="false">twitter_elonmusk_b29ba81c</guid>
+      <pubDate>Sat, 22 Aug 2026 03:12:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
