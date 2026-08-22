@@ -3,150 +3,143 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-22 04:02 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-22 16:14 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:02:49 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Interesting</title>
-      <link>https://twitter.com/elonmusk/status/3c8bf190</link>
-      <description>Interesting</description>
-      <guid isPermaLink="false">twitter_elonmusk_3c8bf190</guid>
-      <pubDate>Sat, 22 Aug 2026 02:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: The only large-scale lithium battery cathode production in the Americas</title>
-      <link>https://twitter.com/elonmusk/status/3ab1970e</link>
-      <description>The only large-scale lithium battery cathode production in the Americas</description>
-      <guid isPermaLink="false">twitter_elonmusk_3ab1970e</guid>
-      <pubDate>Sat, 22 Aug 2026 02:32:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Voice ranked first</title>
-      <link>https://twitter.com/elonmusk/status/0caafd6a</link>
-      <description>Grok Voice ranked first</description>
-      <guid isPermaLink="false">twitter_elonmusk_0caafd6a</guid>
-      <pubDate>Sat, 22 Aug 2026 02:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Murder 1</title>
-      <link>https://twitter.com/elonmusk/status/482340a9</link>
-      <description>Murder 1</description>
-      <guid isPermaLink="false">twitter_elonmusk_482340a9</guid>
-      <pubDate>Sat, 22 Aug 2026 02:42:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: The reason Rome fell was because they stopped making Romans</title>
-      <link>https://twitter.com/elonmusk/status/a997e8e2</link>
-      <description>The reason Rome fell was because they stopped making Romans</description>
-      <guid isPermaLink="false">twitter_elonmusk_a997e8e2</guid>
-      <pubDate>Sat, 22 Aug 2026 02:47:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: I gave Grok@bota link to the post below and asked it to take up the cinematography challenge. Direct...</title>
-      <link>https://twitter.com/elonmusk/status/bf33497b</link>
-      <description>I gave Grok@bota link to the post below and asked it to take up the cinematography challenge. Direct the film entirely through the chat casually and nothing else. Pretty wild.</description>
-      <guid isPermaLink="false">twitter_elonmusk_bf33497b</guid>
-      <pubDate>Sat, 22 Aug 2026 02:52:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Aug 2026 16:14:37 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: What, precisely, are women protesting outside the Lindsay Clancy trial? What oppression are they opp...</title>
-      <link>https://twitter.com/elonmusk/status/e68156bc</link>
+      <link>https://twitter.com/elonmusk/status/dc6e318e</link>
       <description>What, precisely, are women protesting outside the Lindsay Clancy trial? What oppression are they opposing? Why are women posting videos of themselves on TikTok raging at the world about the stresses of motherhood? What, in short, is going on with American women? The answer: we trained several generations of women that they were victims of precisely the institutions that give them – and men! – meaning and happiness. Then we replaced those institutions with social media contagion and endless victimhood.youtu.be/watch?v=zwPFtrS2…</description>
-      <guid isPermaLink="false">twitter_elonmusk_e68156bc</guid>
-      <pubDate>Sat, 22 Aug 2026 02:57:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_dc6e318e</guid>
+      <pubDate>Sat, 22 Aug 2026 14:44:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: He’s a genius</title>
-      <link>https://twitter.com/elonmusk/status/38f362a2</link>
+      <link>https://twitter.com/elonmusk/status/f0b5757d</link>
       <description>He’s a genius</description>
-      <guid isPermaLink="false">twitter_elonmusk_38f362a2</guid>
-      <pubDate>Sat, 22 Aug 2026 03:02:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f0b5757d</guid>
+      <pubDate>Sat, 22 Aug 2026 14:49:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: everyone is looking at grok bot like it is five new employees the more interesting part is that they...</title>
-      <link>https://twitter.com/elonmusk/status/b63e2ff7</link>
+      <link>https://twitter.com/elonmusk/status/ceb160b0</link>
       <description>everyone is looking at grok bot like it is five new employees the more interesting part is that they are not five isolated employees they share one persistent cloud environment: the same browser sessions, terminal, filesystem and authenticated tools - while a chief of staff can route work between them without waiting for you to open the laptop that turns one login into infrastructure a research bot can collect leads, pass them to a writer, hand the result to a designer and let an ops bot update the workflow all inside the same running machine the upside is obvious: less copying, fewer handoffs and work that continues while you sleep the blast radius is just as obvious: - authenticate only the services the whole agent fleet is allowed to reach - give every bot a narrow role description, because that description becomes its place in the org chart - keep irreversible actions behind human approval: sending, publishing, spending and production changes - store skills, configuration and long-term state inside `/workspace`, because the rest of the VM may disappear during an update - treat shared sessions as shared authority, not as separate bot identities the same architecture that makes grok bot useful is what makes it dangerous to configure casually my take: the breakthrough is not that you can hire five AI workers it is that they can operate like one persistent company inside your real tools and your job changes from prompting every task to designing the permissions, boundaries and handoffs the full chief-of-staff setup, session handoff model, approval matrix and `/workspace` survival strategy are mapped out in the article ↓</description>
-      <guid isPermaLink="false">twitter_elonmusk_b63e2ff7</guid>
-      <pubDate>Sat, 22 Aug 2026 03:07:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ceb160b0</guid>
+      <pubDate>Sat, 22 Aug 2026 14:54:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Second time trying Grok Bot and I'm still not over it. It took my whole growth engine and split into...</title>
-      <link>https://twitter.com/elonmusk/status/e9230b17</link>
+      <link>https://twitter.com/elonmusk/status/f7bd7859</link>
       <description>Second time trying Grok Bot and I'm still not over it. It took my whole growth engine and split into 4 of itself. One's on content, one's on scheduling, one's watching engagement, one pulls it all into reports at the end. There's a master orchestrator on top deciding who does what and when, and I genuinely didn't set that part up, it figured out the division of labor on its own. I haven't touched it since I hit go. It just moves through the queue and only comes to me when something actually needs a yes or no. I keep forgetting this is still just@grok. What@xAIand@elonmuskare building here plays more like a team that clocked in already knowing the job, not a bot waiting for instructions.</description>
-      <guid isPermaLink="false">twitter_elonmusk_e9230b17</guid>
-      <pubDate>Sat, 22 Aug 2026 03:12:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f7bd7859</guid>
+      <pubDate>Sat, 22 Aug 2026 14:59:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Comedy is legal on 𝕏</title>
-      <link>https://twitter.com/elonmusk/status/88c30e96</link>
+      <link>https://twitter.com/elonmusk/status/cb6e987f</link>
       <description>Comedy is legal on 𝕏</description>
-      <guid isPermaLink="false">twitter_elonmusk_88c30e96</guid>
-      <pubDate>Sat, 22 Aug 2026 03:17:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_cb6e987f</guid>
+      <pubDate>Sat, 22 Aug 2026 15:04:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The Bataclan attackers who murdered 130 people in Paris were already known threats, but the European...</title>
-      <link>https://twitter.com/elonmusk/status/c81b1dd5</link>
+      <link>https://twitter.com/elonmusk/status/688ff09b</link>
       <description>The Bataclan attackers who murdered 130 people in Paris were already known threats, but the European authorities still let them operate freely. Abdelhamid Abaaoud, the ringleader, had a conviction in absentia and an international arrest warrant yet moved between Syria, Greece, and Western Europe for months without being stopped. Samy Amimour was under formal judicial supervision after trying to join jihadists in Yemen, slipped it, traveled to Syria, returned to France, and helped carry out the massacre. Two more attackers entered through the Greek island of Leros on fake Syrian passports, riding the same migrant routes used by hundreds of thousands of real asylum seekers. France’s own Fiche S terrorism watchlist flagged thousands of people as security risks, including several connected to the attackers, but the designation carried no legal force so they remained free. The parliamentary inquiry later confirmed every name was already known. What was missing was the will to act before the massacre began.</description>
-      <guid isPermaLink="false">twitter_elonmusk_c81b1dd5</guid>
-      <pubDate>Sat, 22 Aug 2026 03:22:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_688ff09b</guid>
+      <pubDate>Sat, 22 Aug 2026 15:09:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I’ll give you the big picture: America has been living under two constitutions since 1964. The Civil...</title>
-      <link>https://twitter.com/elonmusk/status/c03da120</link>
+      <link>https://twitter.com/elonmusk/status/2e00d718</link>
       <description>I’ll give you the big picture: America has been living under two constitutions since 1964. The Civil Rights Act began as a ban on segregation. Then Griggs made unequal group outcomes illegal, Bakke locked race preferences into college admissions under the diversity banner, and Title VII and the EEOC grew into a permanent legal apparatus that can override private contracts, hiring decisions, and free association whenever the numbers look uneven. Christopher Caldwell’s point in The Age of Entitlement is that one constitution protects individual liberty, while the other enforces group equality. So, at which group’s expense, specifically, has this “equality” been happening in schools, universities, corporations, and government?</description>
-      <guid isPermaLink="false">twitter_elonmusk_c03da120</guid>
-      <pubDate>Sat, 22 Aug 2026 03:27:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2e00d718</guid>
+      <pubDate>Sat, 22 Aug 2026 15:14:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: If you're a man who is dating and considering taking a woman seriously, find out how she acted durin...</title>
-      <link>https://twitter.com/elonmusk/status/5ffae2a3</link>
+      <link>https://twitter.com/elonmusk/status/93f17039</link>
       <description>If you're a man who is dating and considering taking a woman seriously, find out how she acted during Covid and get her opinion on the Lindsay Clancy case first. Jusy trying to save you some pain :)</description>
-      <guid isPermaLink="false">twitter_elonmusk_5ffae2a3</guid>
-      <pubDate>Sat, 22 Aug 2026 03:32:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_93f17039</guid>
+      <pubDate>Sat, 22 Aug 2026 15:19:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Bot can recreate any viral video from the link 🤯 How it works: I send@bota link to an AI clip. ...</title>
-      <link>https://twitter.com/elonmusk/status/aff48ef4</link>
+      <link>https://twitter.com/elonmusk/status/f49b502b</link>
       <description>Grok Bot can recreate any viral video from the link 🤯 How it works: I send@bota link to an AI clip. It watches the video and writes a prompt to recreate it (with any changes I want). Then it uses@imagineto generate the new video! I tried it on the subway trend 👇</description>
-      <guid isPermaLink="false">twitter_elonmusk_aff48ef4</guid>
-      <pubDate>Sat, 22 Aug 2026 03:37:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f49b502b</guid>
+      <pubDate>Sat, 22 Aug 2026 15:24:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: It’s that easy to use Grok@Bot</title>
-      <link>https://twitter.com/elonmusk/status/c873d9c1</link>
+      <link>https://twitter.com/elonmusk/status/84eda135</link>
       <description>It’s that easy to use Grok@Bot</description>
-      <guid isPermaLink="false">twitter_elonmusk_c873d9c1</guid>
-      <pubDate>Sat, 22 Aug 2026 03:42:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_84eda135</guid>
+      <pubDate>Sat, 22 Aug 2026 15:29:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.6 just took #1 on CursorBench. Not only the highest score. It did it at a fraction of the cos...</title>
-      <link>https://twitter.com/elonmusk/status/6f8508b2</link>
+      <link>https://twitter.com/elonmusk/status/f4efc8c3</link>
       <description>Grok 4.6 just took #1 on CursorBench. Not only the highest score. It did it at a fraction of the cost of the models sitting right behind it. That combination is the real signal. Top-tier results are one thing. Top-tier results that stay cheap enough to run for long agentic coding sessions are something else. I see this as the practical edge that matters for real work. Benchmarks are useful. Sustained performance at low cost is what actually gets used.</description>
-      <guid isPermaLink="false">twitter_elonmusk_6f8508b2</guid>
-      <pubDate>Sat, 22 Aug 2026 03:47:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f4efc8c3</guid>
+      <pubDate>Sat, 22 Aug 2026 15:34:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood. Engineers found it to...</title>
-      <link>https://twitter.com/elonmusk/status/18168965</link>
+      <link>https://twitter.com/elonmusk/status/7494e615</link>
       <description>In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood. Engineers found it too mathematical. Mathematicians found it too engineering-focused. One prominent mathematician reviewed it negatively. That paper - "A Mathematical Theory of Communication", became the founding document of the digital age. The man was Claude Shannon. Father of Information Theory. At 21, he wrote the most important master's thesis of the 20th century. Working at MIT on an early mechanical computer, Shannon noticed its relay switches had exactly two states - open or closed. He had just taken a philosophy course introducing Boolean algebra, which also operated on two values: true and false. Nobody had ever connected these two things. His 1937 thesis proved that Boolean algebra and electrical circuits are mathematically identical, and that any logical operation could be built from simple switches. Howard Gardner called it "possibly the most important, and also the most famous, master's thesis of the century." Every digital computer ever built traces back to this insight. At 29, he proved that perfect encryption exists. During WWII, Shannon worked on classified cryptography at Bell Labs. His work contributed to SIGSALY, the secure voice system used for confidential communications between Roosevelt and Churchill. In a classified 1945 memorandum, he mathematically proved the one-time pad provides perfect secrecy, unbreakable not just computationally, but provably, permanently, against an adversary with infinite power. When declassified in 1949, it transformed cryptography from an art into a science. It laid the foundations for DES, AES, and every modern encryption standard. At 32, he defined what information is. His 1948 paper introduced one equation: H = −Σ p(x) log p(x) Shannon entropy. The average uncertainty in a probability distribution. The minimum bits required to encode a message. Three things followed: &gt; He defined the bit - the fundamental unit of all information. His colleague John Tukey coined the name. &gt; He proved the channel capacity theorem, every communication channel has a maximum rate of reliable transmission. You can approach it. You can never exceed it. &gt; He unified telegraph, telephone, and radio into a single mathematical framework for the first time. Robert Lucky of Bell Labs called it the greatest work "in the annals of technological thought." Where his equation lives in AI today: Cross-entropy loss - the function training every classifier and language model, is derived directly from H. Decision tree splits use information gain, which is H applied to data. Perplexity, the standard LLM evaluation metric, is an exponentiation of cross-entropy. Every time a neural network trains, Shannon's formula runs inside it. He also built the first AI learning device. In 1950, Shannon built Theseus, a mechanical mouse that navigated a maze through trial and error, learned the correct path, and repeated it perfectly. Mazin Gilbert of Bell Labs said: "Theseus inspired the whole field of AI." That same year he published the first paper on programming a computer to play chess. He co-organized the 1956 Dartmouth Workshop, the founding event of AI as a field. The man: He rode a unicycle through Bell Labs hallways while juggling. He built a flame-throwing trumpet, a rocket-powered Frisbee, and Styrofoam shoes to walk on the lake behind his house. He called his home Entropy House. When asked what motivated him: "I was motivated by curiosity. Never by the desire for financial gain. I just wondered how things were put together." In 1985, he appeared unexpectedly at a conference in Brighton. The crowd mobbed him for autographs. Persuaded to speak at the banquet, he talked briefly, then pulled three balls from his pockets and juggled instead. One engineer said: "It was as if Newton had showed up at a physics conference." He died in 2001 after a decade with Alzheimer's, the cruel irony of information slowly leaving the mind of the man who defined what information was. Claude, the AI model, is named after Claude Shannon, the mathematician who laid the foundation for the digital world we rely on today.</description>
-      <guid isPermaLink="false">twitter_elonmusk_18168965</guid>
-      <pubDate>Sat, 22 Aug 2026 03:52:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_7494e615</guid>
+      <pubDate>Sat, 22 Aug 2026 15:39:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, h...</title>
-      <link>https://twitter.com/elonmusk/status/751aa32f</link>
+      <link>https://twitter.com/elonmusk/status/29ec198e</link>
       <description>Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, he worked out that a white dwarf above ~1.4 solar masses could not remain stable. Eddington publicly rejected the result. 53 years later, Chandrasekhar won the Nobel Prize for his work on stellar evolution.</description>
-      <guid isPermaLink="false">twitter_elonmusk_751aa32f</guid>
-      <pubDate>Sat, 22 Aug 2026 03:57:49 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_29ec198e</guid>
+      <pubDate>Sat, 22 Aug 2026 15:44:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Three Grok bots took four reference photos, built a physics simulator from them, ran 47 fracture exp...</title>
+      <link>https://twitter.com/elonmusk/status/ab2c3fc6</link>
+      <description>Three Grok bots took four reference photos, built a physics simulator from them, ran 47 fracture experiments, rejected their own hypothesis, picked the best designs, sliced them, and 3D printed them. Images to physical object in one autonomous loop, steered from an Apple Watch.</description>
+      <guid isPermaLink="false">twitter_elonmusk_ab2c3fc6</guid>
+      <pubDate>Sat, 22 Aug 2026 15:49:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: BREAKING: 10 schools along Guyana’s Linden–Soesdyke Highway will receive@Starlinkinternet. 🇬🇾 The se...</title>
+      <link>https://twitter.com/elonmusk/status/bb24f825</link>
+      <description>BREAKING: 10 schools along Guyana’s Linden–Soesdyke Highway will receive@Starlinkinternet. 🇬🇾 The service will give students and teachers better access to online learning platforms, educational resources and modern teaching tools.</description>
+      <guid isPermaLink="false">twitter_elonmusk_bb24f825</guid>
+      <pubDate>Sat, 22 Aug 2026 15:54:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Talarico wants to enable voting fraud in Texas by banning voter ID</title>
+      <link>https://twitter.com/elonmusk/status/d330d4d7</link>
+      <description>Talarico wants to enable voting fraud in Texas by banning voter ID</description>
+      <guid isPermaLink="false">twitter_elonmusk_d330d4d7</guid>
+      <pubDate>Sat, 22 Aug 2026 15:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Try Grok@Bot</title>
+      <link>https://twitter.com/elonmusk/status/b1940824</link>
+      <description>Try Grok@Bot</description>
+      <guid isPermaLink="false">twitter_elonmusk_b1940824</guid>
+      <pubDate>Sat, 22 Aug 2026 16:04:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Try Tesla self-driving Feels like magic</title>
+      <link>https://twitter.com/elonmusk/status/d604547d</link>
+      <description>Try Tesla self-driving Feels like magic</description>
+      <guid isPermaLink="false">twitter_elonmusk_d604547d</guid>
+      <pubDate>Sat, 22 Aug 2026 16:09:37 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The greatest privilege of my life is being able to work with incredible people to create amazing pro...</title>
       <link>https://twitter.com/elonmusk/status/b29ba81c</link>
       <description>The greatest privilege of my life is being able to work with incredible people to create amazing products</description>
       <guid isPermaLink="false">twitter_elonmusk_b29ba81c</guid>
-      <pubDate>Sat, 22 Aug 2026 04:02:49 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 16:14:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
