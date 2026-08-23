@@ -3,143 +3,143 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-22 20:45 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-23 08:55 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:55:28 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Grok Bot can recreate any viral video from the link 🤯 How it works: I send@bota link to an AI clip. ...</title>
       <link>https://twitter.com/elonmusk/status/cd626023</link>
       <description>Grok Bot can recreate any viral video from the link 🤯 How it works: I send@bota link to an AI clip. It watches the video and writes a prompt to recreate it (with any changes I want). Then it uses@imagineto generate the new video! I tried it on the subway trend 👇</description>
       <guid isPermaLink="false">twitter_elonmusk_cd626023</guid>
-      <pubDate>Sat, 22 Aug 2026 19:15:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:25:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: It’s that easy to use Grok@Bot</title>
       <link>https://twitter.com/elonmusk/status/8b11ac99</link>
       <description>It’s that easy to use Grok@Bot</description>
       <guid isPermaLink="false">twitter_elonmusk_8b11ac99</guid>
-      <pubDate>Sat, 22 Aug 2026 19:20:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:30:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok 4.6 just took #1 on CursorBench. Not only the highest score. It did it at a fraction of the cos...</title>
       <link>https://twitter.com/elonmusk/status/e4ab9939</link>
       <description>Grok 4.6 just took #1 on CursorBench. Not only the highest score. It did it at a fraction of the cost of the models sitting right behind it. That combination is the real signal. Top-tier results are one thing. Top-tier results that stay cheap enough to run for long agentic coding sessions are something else. I see this as the practical edge that matters for real work. Benchmarks are useful. Sustained performance at low cost is what actually gets used.</description>
       <guid isPermaLink="false">twitter_elonmusk_e4ab9939</guid>
-      <pubDate>Sat, 22 Aug 2026 19:25:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:35:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood. Engineers found it to...</title>
       <link>https://twitter.com/elonmusk/status/c008089c</link>
       <description>In 1948, a 32-year-old at Bell Labs published a paper nobody fully understood. Engineers found it too mathematical. Mathematicians found it too engineering-focused. One prominent mathematician reviewed it negatively. That paper - "A Mathematical Theory of Communication", became the founding document of the digital age. The man was Claude Shannon. Father of Information Theory. At 21, he wrote the most important master's thesis of the 20th century. Working at MIT on an early mechanical computer, Shannon noticed its relay switches had exactly two states - open or closed. He had just taken a philosophy course introducing Boolean algebra, which also operated on two values: true and false. Nobody had ever connected these two things. His 1937 thesis proved that Boolean algebra and electrical circuits are mathematically identical, and that any logical operation could be built from simple switches. Howard Gardner called it "possibly the most important, and also the most famous, master's thesis of the century." Every digital computer ever built traces back to this insight. At 29, he proved that perfect encryption exists. During WWII, Shannon worked on classified cryptography at Bell Labs. His work contributed to SIGSALY, the secure voice system used for confidential communications between Roosevelt and Churchill. In a classified 1945 memorandum, he mathematically proved the one-time pad provides perfect secrecy, unbreakable not just computationally, but provably, permanently, against an adversary with infinite power. When declassified in 1949, it transformed cryptography from an art into a science. It laid the foundations for DES, AES, and every modern encryption standard. At 32, he defined what information is. His 1948 paper introduced one equation: H = −Σ p(x) log p(x) Shannon entropy. The average uncertainty in a probability distribution. The minimum bits required to encode a message. Three things followed: &gt; He defined the bit - the fundamental unit of all information. His colleague John Tukey coined the name. &gt; He proved the channel capacity theorem, every communication channel has a maximum rate of reliable transmission. You can approach it. You can never exceed it. &gt; He unified telegraph, telephone, and radio into a single mathematical framework for the first time. Robert Lucky of Bell Labs called it the greatest work "in the annals of technological thought." Where his equation lives in AI today: Cross-entropy loss - the function training every classifier and language model, is derived directly from H. Decision tree splits use information gain, which is H applied to data. Perplexity, the standard LLM evaluation metric, is an exponentiation of cross-entropy. Every time a neural network trains, Shannon's formula runs inside it. He also built the first AI learning device. In 1950, Shannon built Theseus, a mechanical mouse that navigated a maze through trial and error, learned the correct path, and repeated it perfectly. Mazin Gilbert of Bell Labs said: "Theseus inspired the whole field of AI." That same year he published the first paper on programming a computer to play chess. He co-organized the 1956 Dartmouth Workshop, the founding event of AI as a field. The man: He rode a unicycle through Bell Labs hallways while juggling. He built a flame-throwing trumpet, a rocket-powered Frisbee, and Styrofoam shoes to walk on the lake behind his house. He called his home Entropy House. When asked what motivated him: "I was motivated by curiosity. Never by the desire for financial gain. I just wondered how things were put together." In 1985, he appeared unexpectedly at a conference in Brighton. The crowd mobbed him for autographs. Persuaded to speak at the banquet, he talked briefly, then pulled three balls from his pockets and juggled instead. One engineer said: "It was as if Newton had showed up at a physics conference." He died in 2001 after a decade with Alzheimer's, the cruel irony of information slowly leaving the mind of the man who defined what information was. Claude, the AI model, is named after Claude Shannon, the mathematician who laid the foundation for the digital world we rely on today.</description>
       <guid isPermaLink="false">twitter_elonmusk_c008089c</guid>
-      <pubDate>Sat, 22 Aug 2026 19:30:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:40:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, h...</title>
       <link>https://twitter.com/elonmusk/status/09d72f9a</link>
       <description>Chandrasekhar died exactly 31 years ago today. At 19, on the boat from India to Cambridge in 1930, he worked out that a white dwarf above ~1.4 solar masses could not remain stable. Eddington publicly rejected the result. 53 years later, Chandrasekhar won the Nobel Prize for his work on stellar evolution.</description>
       <guid isPermaLink="false">twitter_elonmusk_09d72f9a</guid>
-      <pubDate>Sat, 22 Aug 2026 19:35:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:45:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Three Grok bots took four reference photos, built a physics simulator from them, ran 47 fracture exp...</title>
       <link>https://twitter.com/elonmusk/status/c8424a63</link>
       <description>Three Grok bots took four reference photos, built a physics simulator from them, ran 47 fracture experiments, rejected their own hypothesis, picked the best designs, sliced them, and 3D printed them. Images to physical object in one autonomous loop, steered from an Apple Watch.</description>
       <guid isPermaLink="false">twitter_elonmusk_c8424a63</guid>
-      <pubDate>Sat, 22 Aug 2026 19:40:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:50:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BREAKING: 10 schools along Guyana’s Linden–Soesdyke Highway will receive@Starlinkinternet. 🇬🇾 The se...</title>
       <link>https://twitter.com/elonmusk/status/02cd099a</link>
       <description>BREAKING: 10 schools along Guyana’s Linden–Soesdyke Highway will receive@Starlinkinternet. 🇬🇾 The service will give students and teachers better access to online learning platforms, educational resources and modern teaching tools.</description>
       <guid isPermaLink="false">twitter_elonmusk_02cd099a</guid>
-      <pubDate>Sat, 22 Aug 2026 19:45:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 07:55:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Talarico wants to enable voting fraud in Texas by banning voter ID</title>
       <link>https://twitter.com/elonmusk/status/4bf85dcc</link>
       <description>Talarico wants to enable voting fraud in Texas by banning voter ID</description>
       <guid isPermaLink="false">twitter_elonmusk_4bf85dcc</guid>
-      <pubDate>Sat, 22 Aug 2026 19:50:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:00:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Try Grok@Bot</title>
       <link>https://twitter.com/elonmusk/status/733c44bd</link>
       <description>Try Grok@Bot</description>
       <guid isPermaLink="false">twitter_elonmusk_733c44bd</guid>
-      <pubDate>Sat, 22 Aug 2026 19:55:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:05:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Try Tesla self-driving Feels like magic</title>
       <link>https://twitter.com/elonmusk/status/2b90ebc1</link>
       <description>Try Tesla self-driving Feels like magic</description>
       <guid isPermaLink="false">twitter_elonmusk_2b90ebc1</guid>
-      <pubDate>Sat, 22 Aug 2026 20:00:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:10:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Mona, a member of the Federation of the Blind, gave amazing testimony yesterday about@Tesla’s Cyberc...</title>
       <link>https://twitter.com/elonmusk/status/755cf280</link>
       <description>Mona, a member of the Federation of the Blind, gave amazing testimony yesterday about@Tesla’s Cybercab after sitting in it this week: "To have something like the Cybercab would be very beneficial to us as the blind community; It’s got Braille in there. Nobody else has Braille. This would be so beneficial. The app is wonderful. There’s space to put the wheelchair. They can just push themselves right in. A lot of times, the Uber and Lyft if they see you with a dog or cane, they drive right past you. With Cybercab, it doesn't know that you're blind. It doesn't know that you're in a wheelchair. It just knows that you need a ride, so I completely love the car. Just sitting in it, how comfortable it is, just knowing something is accessible - it’s the most amazing thing out there." (via the Nevada Transportation Authority's general session meeting yesterday)</description>
       <guid isPermaLink="false">twitter_elonmusk_755cf280</guid>
-      <pubDate>Sat, 22 Aug 2026 20:05:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:15:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Chinese humanoid robot by smartphone maker Honor (“Lightning”) ran 100m in 9.32 seconds (Usain Bolt’...</title>
       <link>https://twitter.com/elonmusk/status/169ff8d3</link>
       <description>Chinese humanoid robot by smartphone maker Honor (“Lightning”) ran 100m in 9.32 seconds (Usain Bolt’s record is 9.58 seconds). Perhaps more impressively: it crashed into a safety wall without having its waist implode with sparks flying off.</description>
       <guid isPermaLink="false">twitter_elonmusk_169ff8d3</guid>
-      <pubDate>Sat, 22 Aug 2026 20:10:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:20:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Joe Rogan: "California doesn't allow ID to vote... Who knows how many people are voting that aren’t ...</title>
       <link>https://twitter.com/elonmusk/status/ddd24156</link>
       <description>Joe Rogan: "California doesn't allow ID to vote... Who knows how many people are voting that aren’t citizens? No one knows. Can’t know. Can’t find out... they voted to raise taxes"xcancel.com/KanekoaTheGreat/status…California enacted a statewide ban, a law that prohibits local governments from requiring identification to cast a ballot. Yes, it's that insane. Democrats defend this saying voter fraud is extremely rare</description>
       <guid isPermaLink="false">twitter_elonmusk_ddd24156</guid>
-      <pubDate>Sat, 22 Aug 2026 20:15:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:25:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Britain’s human rights laws and asylum rules built Londonistan. Abu Hamza preached open jihad from F...</title>
       <link>https://twitter.com/elonmusk/status/69c6aa3a</link>
       <description>Britain’s human rights laws and asylum rules built Londonistan. Abu Hamza preached open jihad from Finsbury Park Mosque for years while collecting benefits. Abu Qatada, bin Laden’s right hand man in Europe, spent two decades blocking deportation under human rights protections. Omar Bakri openly ran al-Muhajiroun, recruiting young British Muslims until he fled and got banned. Article 3 of the European Convention, along with asylum rules, made it nearly impossible to remove anyone who claimed “possible mistreatment” back home, no matter what they were doing in the UK. Radicalization happened in public and got labeled “tolerance”. The July 7 bombs were the bill coming due. 52 people died as the direct cost.</description>
       <guid isPermaLink="false">twitter_elonmusk_69c6aa3a</guid>
-      <pubDate>Sat, 22 Aug 2026 20:20:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:30:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🚨Joe Rogan says Twitter was a “censorship dystopian hellhole” before Elon Musk bought it. “Twitter b...</title>
       <link>https://twitter.com/elonmusk/status/3a324679</link>
       <description>🚨Joe Rogan says Twitter was a “censorship dystopian hellhole” before Elon Musk bought it. “Twitter being purchased was giant.” “Before that, you could get silenced, so you self-censored.” “A sports broadcaster got fired for saying ‘All Lives Matter.’” “There was active U.S. government involvement in Twitter. They were actively censoring and removing posts and banning accounts.” “When Elon bought it, that was all exposed.” “They were pulling down factual stories.” “They were banning accounts of scientists and researchers who were accurate. It was dark.” “Before Elon purchased it, it was a censorship dystopian hellhole, where if you said ‘a man is never a woman,’ like Megan Murphy did, you’re banned for life.”</description>
       <guid isPermaLink="false">twitter_elonmusk_3a324679</guid>
-      <pubDate>Sat, 22 Aug 2026 20:25:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:35:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Landing boosters and recovering fairings let us fly more often and fly more reliably. 100 so far thi...</title>
       <link>https://twitter.com/elonmusk/status/9bd52026</link>
       <description>Landing boosters and recovering fairings let us fly more often and fly more reliably. 100 so far this year. Incredible work@SpaceXteam.</description>
       <guid isPermaLink="false">twitter_elonmusk_9bd52026</guid>
-      <pubDate>Sat, 22 Aug 2026 20:30:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:40:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starship is the first machine ever built with one clear purpose: break humanity out of its cradle an...</title>
       <link>https://twitter.com/elonmusk/status/4f862e88</link>
       <description>Starship is the first machine ever built with one clear purpose: break humanity out of its cradle and make life multi-planetary Every successful flight moves us closer to becoming a true spacefaring civilization Moon bases, cities on Mars, orbital industry, and entirely new economies beyond Earth It is the transportation system being built to open the next frontier of human civilization</description>
       <guid isPermaLink="false">twitter_elonmusk_4f862e88</guid>
-      <pubDate>Sat, 22 Aug 2026 20:35:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:45:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: S41 on its victorious return to the factory following a successful static fire campaign. B21 is on d...</title>
       <link>https://twitter.com/elonmusk/status/944f408a</link>
       <description>S41 on its victorious return to the factory following a successful static fire campaign. B21 is on deck this week. I’m very excited about flight 14 and moving Starship into some exciting operational missions.</description>
       <guid isPermaLink="false">twitter_elonmusk_944f408a</guid>
-      <pubDate>Sat, 22 Aug 2026 20:40:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:50:28 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The greatest privilege of my life is being able to work with incredible people to create amazing pro...</title>
       <link>https://twitter.com/elonmusk/status/b29ba81c</link>
       <description>The greatest privilege of my life is being able to work with incredible people to create amazing products</description>
       <guid isPermaLink="false">twitter_elonmusk_b29ba81c</guid>
-      <pubDate>Sat, 22 Aug 2026 20:45:43 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 08:55:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
