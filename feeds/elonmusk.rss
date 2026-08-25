@@ -3,136 +3,136 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-25 07:37 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-25 16:26 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 07:37:24 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: Everyone’s against eugenics until they roll up to the sperm bank.</title>
-      <link>https://twitter.com/elonmusk/status/0ca251e1</link>
-      <description>Everyone’s against eugenics until they roll up to the sperm bank.</description>
-      <guid isPermaLink="false">twitter_elonmusk_0ca251e1</guid>
-      <pubDate>Tue, 25 Aug 2026 06:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: NASA’s Roman Space Telescope was encapsulated into Falcon Heavy’s fairing this past week ahead of la...</title>
-      <link>https://twitter.com/elonmusk/status/db1460c2</link>
-      <description>NASA’s Roman Space Telescope was encapsulated into Falcon Heavy’s fairing this past week ahead of launch on Sunday, August 30 from pad 39A in Florida →spacex.com/launches/roman</description>
-      <guid isPermaLink="false">twitter_elonmusk_db1460c2</guid>
-      <pubDate>Tue, 25 Aug 2026 06:17:24 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Aug 2026 16:26:52 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Grok Bot makes clipping YouTube podcasts ridiculously easy. I just send it a link and say: “Cut from...</title>
-      <link>https://twitter.com/elonmusk/status/c5b790fa</link>
+      <link>https://twitter.com/elonmusk/status/f4943294</link>
       <description>Grok Bot makes clipping YouTube podcasts ridiculously easy. I just send it a link and say: “Cut from 16:43 to 18:17.” A few minutes later, the exact HD clip is ready in the chat. My Clipper bot has already sent it to my Researcher and Writer bots, which pull the best quotes and prepare the caption. I didn’t code any of this. I literally just logged into my Google account on Grok Bot and asked it to clip a YouTube video. I’ve wanted this for years: tell an AI which part of a podcast you want, and it automatically cuts the HD clip, transcribes it, and starts preparing the post. Grok Bot makes workflows like this incredibly simple for a non-coder.</description>
-      <guid isPermaLink="false">twitter_elonmusk_c5b790fa</guid>
-      <pubDate>Tue, 25 Aug 2026 06:22:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_f4943294</guid>
+      <pubDate>Tue, 25 Aug 2026 15:01:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Voice 2 is great</title>
-      <link>https://twitter.com/elonmusk/status/0f698f75</link>
+      <link>https://twitter.com/elonmusk/status/d99b3996</link>
       <description>Grok Voice 2 is great</description>
-      <guid isPermaLink="false">twitter_elonmusk_0f698f75</guid>
-      <pubDate>Tue, 25 Aug 2026 06:27:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d99b3996</guid>
+      <pubDate>Tue, 25 Aug 2026 15:06:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: BREAKING: SpaceXAI just added a powerful new 'Browser Use' plugin to Grok Build. It gives Grok acces...</title>
-      <link>https://twitter.com/elonmusk/status/2c74f8d5</link>
+      <link>https://twitter.com/elonmusk/status/e79d4aaa</link>
       <description>BREAKING: SpaceXAI just added a powerful new 'Browser Use' plugin to Grok Build. It gives Grok access to a real browser, either the user’s own Chrome with existing logins or an isolated Browser Use cloud browser. Grok Build can now browse websites, scrape and extract data, fill out forms, test web apps, take screenshots and automate complete web workflows. It can also run locally through uvx, with no API key required when using local Chrome. Install command: grok plugin install browser-use --trust</description>
-      <guid isPermaLink="false">twitter_elonmusk_2c74f8d5</guid>
-      <pubDate>Tue, 25 Aug 2026 06:32:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e79d4aaa</guid>
+      <pubDate>Tue, 25 Aug 2026 15:11:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: We discovered that US GDP statistics miss most of the value Nvidia adds to the US economy. As a resu...</title>
-      <link>https://twitter.com/elonmusk/status/556d0db9</link>
+      <link>https://twitter.com/elonmusk/status/75031601</link>
       <description>We discovered that US GDP statistics miss most of the value Nvidia adds to the US economy. As a result, GDP growth has been understated by ~0.3 percentage points over the last year.</description>
-      <guid isPermaLink="false">twitter_elonmusk_556d0db9</guid>
-      <pubDate>Tue, 25 Aug 2026 06:37:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_75031601</guid>
+      <pubDate>Tue, 25 Aug 2026 15:16:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Voice is used by Starlink at scale for support &amp; sales</title>
-      <link>https://twitter.com/elonmusk/status/37f27c48</link>
+      <link>https://twitter.com/elonmusk/status/5015f128</link>
       <description>Grok Voice is used by Starlink at scale for support &amp; sales</description>
-      <guid isPermaLink="false">twitter_elonmusk_37f27c48</guid>
-      <pubDate>Tue, 25 Aug 2026 06:42:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5015f128</guid>
+      <pubDate>Tue, 25 Aug 2026 15:21:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Postal workers busted stealing checks from mail routes &amp; selling them in $23M fraud case. If they ca...</title>
-      <link>https://twitter.com/elonmusk/status/a089f09d</link>
+      <link>https://twitter.com/elonmusk/status/501113ee</link>
       <description>Postal workers busted stealing checks from mail routes &amp; selling them in $23M fraud case. If they can steal your checks, what do you think they can do with your ballots? They only got caught because banks audit $$. There's ZERO mechanism to audit CA ballots.click2houston.com/news/local…</description>
-      <guid isPermaLink="false">twitter_elonmusk_a089f09d</guid>
-      <pubDate>Tue, 25 Aug 2026 06:47:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_501113ee</guid>
+      <pubDate>Tue, 25 Aug 2026 15:26:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: 🚨 It’s official the “Stop Nick Shirley Act” AB 2624 is now law in California. This bill was created ...</title>
-      <link>https://twitter.com/elonmusk/status/182dbe2e</link>
+      <link>https://twitter.com/elonmusk/status/fbfb523e</link>
       <description>🚨 It’s official the “Stop Nick Shirley Act” AB 2624 is now law in California. This bill was created by the Attorney General’s WIFE after I exposed widespread fraud inside immigrant communities in America and now they want to penalize journalists and citizens for looking into potential fraud inside of “immigration support service providers”. Enough is enough, how much longer will you let these people get away with this? Show up to the Sacramento Capitol on Wednesday at 11am, see you there 🫡 Share this around. Fun fact, Newsom has directed over $300 million to nonprofits while governor and AG Rob Bonta when he was an assemblyman directed over $500,000 to nonprofits associated with his wife 🤔</description>
-      <guid isPermaLink="false">twitter_elonmusk_182dbe2e</guid>
-      <pubDate>Tue, 25 Aug 2026 06:52:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_fbfb523e</guid>
+      <pubDate>Tue, 25 Aug 2026 15:31:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: You are not taking solar seriously enough.</title>
-      <link>https://twitter.com/elonmusk/status/9bdbe9b6</link>
+      <link>https://twitter.com/elonmusk/status/e51b6d36</link>
       <description>You are not taking solar seriously enough.</description>
-      <guid isPermaLink="false">twitter_elonmusk_9bdbe9b6</guid>
-      <pubDate>Tue, 25 Aug 2026 06:57:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e51b6d36</guid>
+      <pubDate>Tue, 25 Aug 2026 15:36:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok@Botcan do a lot!</title>
-      <link>https://twitter.com/elonmusk/status/9c00a9c7</link>
+      <link>https://twitter.com/elonmusk/status/ddcbd6c8</link>
       <description>Grok@Botcan do a lot!</description>
-      <guid isPermaLink="false">twitter_elonmusk_9c00a9c7</guid>
-      <pubDate>Tue, 25 Aug 2026 07:02:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_ddcbd6c8</guid>
+      <pubDate>Tue, 25 Aug 2026 15:41:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: ok watching the different Grok@bots chat with each other is kinda magic. It's cool. It's exciting. I...</title>
-      <link>https://twitter.com/elonmusk/status/28a527bd</link>
+      <link>https://twitter.com/elonmusk/status/8d68971e</link>
       <description>ok watching the different Grok@bots chat with each other is kinda magic. It's cool. It's exciting. It's fun. 100% worth giving it a try for a month on the new lower cost plan.</description>
-      <guid isPermaLink="false">twitter_elonmusk_28a527bd</guid>
-      <pubDate>Tue, 25 Aug 2026 07:07:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8d68971e</guid>
+      <pubDate>Tue, 25 Aug 2026 15:46:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: I told Grok Bot I wanted pizza. Dough. Sauce. Mushrooms. Mozzarella. Pepperoni. It built the Whole F...</title>
-      <link>https://twitter.com/elonmusk/status/fa8e8928</link>
+      <link>https://twitter.com/elonmusk/status/80be641b</link>
       <description>I told Grok Bot I wanted pizza. Dough. Sauce. Mushrooms. Mozzarella. Pepperoni. It built the Whole Foods cart. 5 of 5. $26.68. I did not even open Amazon. I just check out. Wild.</description>
-      <guid isPermaLink="false">twitter_elonmusk_fa8e8928</guid>
-      <pubDate>Tue, 25 Aug 2026 07:12:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_80be641b</guid>
+      <pubDate>Tue, 25 Aug 2026 15:51:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Banger</title>
-      <link>https://twitter.com/elonmusk/status/58218bd8</link>
+      <link>https://twitter.com/elonmusk/status/bdd63aa3</link>
       <description>Banger</description>
-      <guid isPermaLink="false">twitter_elonmusk_58218bd8</guid>
-      <pubDate>Tue, 25 Aug 2026 07:17:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_bdd63aa3</guid>
+      <pubDate>Tue, 25 Aug 2026 15:56:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Inauguration of new Semi factory in Nevada next month</title>
-      <link>https://twitter.com/elonmusk/status/9997e78f</link>
+      <link>https://twitter.com/elonmusk/status/5a10f055</link>
       <description>Inauguration of new Semi factory in Nevada next month</description>
-      <guid isPermaLink="false">twitter_elonmusk_9997e78f</guid>
-      <pubDate>Tue, 25 Aug 2026 07:22:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_5a10f055</guid>
+      <pubDate>Tue, 25 Aug 2026 16:01:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Using Grok Bot to cancel services is pretty magical. It just figures it all out, on its own. I liter...</title>
-      <link>https://twitter.com/elonmusk/status/ef757bd0</link>
+      <link>https://twitter.com/elonmusk/status/73999b95</link>
       <description>Using Grok Bot to cancel services is pretty magical. It just figures it all out, on its own. I literally had to ask it how it was able to cancel because I wanted to know. It couldn’t login to canceled so rather than getting stuck and asking me, it clicked a manage plan link in an email, got a one time sign in email sent, and then used that to cancel 😅 My bot is officially one step ahead of me.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ef757bd0</guid>
-      <pubDate>Tue, 25 Aug 2026 07:27:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_73999b95</guid>
+      <pubDate>Tue, 25 Aug 2026 16:06:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: MrBeast says once enough airlines offer Starlink, he’ll only book those flights: “Extra layover? Don...</title>
-      <link>https://twitter.com/elonmusk/status/0cd00ec0</link>
+      <link>https://twitter.com/elonmusk/status/6cea98d3</link>
       <description>MrBeast says once enough airlines offer Starlink, he’ll only book those flights: “Extra layover? Don’t care—there’s Starlink. I’ll sit anywhere for it. Starlink is amazing.” He adds: “Most people haven’t used it, but in Antarctica it was our only signal. On a four-hour drive through rural Africa, we mounted Starlink on the car and had perfect connectivity the whole time.” On SpaceX: “What Elon Musk is doing will fundamentally advance humanity in unimaginable ways. Someone will go to Mars in our lifetime—I truly believe it.”</description>
-      <guid isPermaLink="false">twitter_elonmusk_0cd00ec0</guid>
-      <pubDate>Tue, 25 Aug 2026 07:32:24 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6cea98d3</guid>
+      <pubDate>Tue, 25 Aug 2026 16:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Absolutely stunning image of SpaceX Falcon 9 by the Washington Monument this morning.</title>
+      <link>https://twitter.com/elonmusk/status/db3250d7</link>
+      <description>Absolutely stunning image of SpaceX Falcon 9 by the Washington Monument this morning.</description>
+      <guid isPermaLink="false">twitter_elonmusk_db3250d7</guid>
+      <pubDate>Tue, 25 Aug 2026 16:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Falcon 9 launches 29@Starlinksatellites from Florida</title>
+      <link>https://twitter.com/elonmusk/status/da024bbe</link>
+      <description>Falcon 9 launches 29@Starlinksatellites from Florida</description>
+      <guid isPermaLink="false">twitter_elonmusk_da024bbe</guid>
+      <pubDate>Tue, 25 Aug 2026 16:21:52 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: SpaceX, in partnership with Nvidia, has designed a space-optimized Vera Rubin NVL72 system for launc...</title>
       <link>https://twitter.com/elonmusk/status/0ebb4fe2</link>
       <description>SpaceX, in partnership with Nvidia, has designed a space-optimized Vera Rubin NVL72 system for launch to orbit in Q4 next year, with significant scale in 2028</description>
       <guid isPermaLink="false">twitter_elonmusk_0ebb4fe2</guid>
-      <pubDate>Tue, 25 Aug 2026 07:37:24 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 16:26:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
