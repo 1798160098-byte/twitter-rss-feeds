@@ -3,18 +3,18 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-08-25 20:53 UTC | 来源实例: none</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-08-26 03:30 UTC | 来源实例: none</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:53:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:30:45 +0000</lastBuildDate>
     <item>
       <title>@elonmusk - 暂无新推文或获取失败</title>
       <link>https://twitter.com/elonmusk</link>
-      <description>更新时间: 2026-08-25 20:53 UTC
+      <description>更新时间: 2026-08-26 03:30 UTC
 尝试的实例: none</description>
-      <guid isPermaLink="false">placeholder_elonmusk_1787691181</guid>
-      <pubDate>Tue, 25 Aug 2026 20:53:01 +0000</pubDate>
+      <guid isPermaLink="false">placeholder_elonmusk_1787715045</guid>
+      <pubDate>Wed, 26 Aug 2026 03:30:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

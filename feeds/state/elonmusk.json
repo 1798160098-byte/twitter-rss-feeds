@@ -1,9 +1,9 @@
 {
   "last_hash": "no_tweets",
-  "last_update": "2026-08-25T20:53:01.127723",
+  "last_update": "2026-08-26T03:30:45.119632",
   "last_count": 0,
-  "failures": 1,
+  "failures": 2,
   "instance_used": "none",
   "last_successful_instance": "https://xcancel.com",
-  "update_reason": "推文更新 (19 → 0)"
+  "update_reason": "保活更新 (6h)"
 }
