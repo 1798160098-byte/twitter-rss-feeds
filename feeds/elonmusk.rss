@@ -3,115 +3,115 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-09-08 05:30 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-09-08 10:00 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 05:30:04 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: The truth shall set you free</title>
-      <link>https://twitter.com/elonmusk/status/8178794b</link>
-      <description>The truth shall set you free</description>
-      <guid isPermaLink="false">twitter_elonmusk_8178794b</guid>
-      <pubDate>Tue, 08 Sep 2026 04:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: FSD Supervised approved in Slovenia 🇸🇮</title>
-      <link>https://twitter.com/elonmusk/status/21399d26</link>
-      <description>FSD Supervised approved in Slovenia 🇸🇮</description>
-      <guid isPermaLink="false">twitter_elonmusk_21399d26</guid>
-      <pubDate>Tue, 08 Sep 2026 04:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: When Elon Musk visited Palazzo Vecchio in Florence in 2021 🇮🇹</title>
-      <link>https://twitter.com/elonmusk/status/53c86cb0</link>
-      <description>When Elon Musk visited Palazzo Vecchio in Florence in 2021 🇮🇹</description>
-      <guid isPermaLink="false">twitter_elonmusk_53c86cb0</guid>
-      <pubDate>Tue, 08 Sep 2026 04:30:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Starlink is now delivering fast, reliable connectivity onboard Austrian Airlines so passengers can s...</title>
-      <link>https://twitter.com/elonmusk/status/e7c68f31</link>
-      <description>Starlink is now delivering fast, reliable connectivity onboard Austrian Airlines so passengers can stream, scroll, and surf effortlessly from 30,000 feet 🛰️✈️</description>
-      <guid isPermaLink="false">twitter_elonmusk_e7c68f31</guid>
-      <pubDate>Tue, 08 Sep 2026 04:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Elon Musk is right to call this out. He said calling people Nazis for centrist views insults those w...</title>
-      <link>https://twitter.com/elonmusk/status/dd727607</link>
-      <description>Elon Musk is right to call this out. He said calling people Nazis for centrist views insults those who suffered and died under the real Nazis. Those abusing it should be condemned. Calling people Nazis just because they hold views you oppose disrespects history and its victims.</description>
-      <guid isPermaLink="false">twitter_elonmusk_dd727607</guid>
-      <pubDate>Tue, 08 Sep 2026 04:40:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Common sense is now considered “Far Right”</title>
-      <link>https://twitter.com/elonmusk/status/68d83452</link>
-      <description>Common sense is now considered “Far Right”</description>
-      <guid isPermaLink="false">twitter_elonmusk_68d83452</guid>
-      <pubDate>Tue, 08 Sep 2026 04:45:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Tesla Superchargers are built in New York State</title>
-      <link>https://twitter.com/elonmusk/status/da004e02</link>
-      <description>Tesla Superchargers are built in New York State</description>
-      <guid isPermaLink="false">twitter_elonmusk_da004e02</guid>
-      <pubDate>Tue, 08 Sep 2026 04:50:04 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 10:00:04 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: Grok Build feels like a superpower for creating in Blender. I am working on this rocket launch site ...</title>
-      <link>https://twitter.com/elonmusk/status/89ff00fa</link>
+      <link>https://twitter.com/elonmusk/status/2670b740</link>
       <description>Grok Build feels like a superpower for creating in Blender. I am working on this rocket launch site from scratch with Grok Build. It handles all the hard parts, saves hours of work and turns my ideas into results incredibly fast. The speed and quality are super impressive! 🔥🚀</description>
-      <guid isPermaLink="false">twitter_elonmusk_89ff00fa</guid>
-      <pubDate>Tue, 08 Sep 2026 04:55:04 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_2670b740</guid>
+      <pubDate>Tue, 08 Sep 2026 08:50:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Build just got another big update, taking another major step toward becoming a full agent works...</title>
-      <link>https://twitter.com/elonmusk/status/289ada10</link>
+      <link>https://twitter.com/elonmusk/status/58551ac4</link>
       <description>Grok Build just got another big update, taking another major step toward becoming a full agent workspace Desktop app tools now connect through a dedicated first-party MCP server, a new long-running workspace daemon can expose folders to Computer Hub, finished subagents can be continued instead of restarted, and background agents now return their actual output directly Add better diff previews, smarter tool priority, stronger safety around destructive Git commands, and faster session startup Release Notes: v1.0.22 Features: • Built-in agent tools now take precedence over user MCP servers when tool names collide. • Desktop app tools are now available through a dedicated first-party MCP server. • Remote control pickers can now group servers by device using announced device identity. • edit_file diffs now show real file line numbers instead of starting at line 1. • Permission prompts for file edits now auto-expand the diff row so you can see the change before approving. • Sending a message to a finished subagent now continues that same subagent instead of failing. • Background subagent completion messages now show the actual output instead of just a pointer to run the tool. • Dashboard now shows a unified header with location picker and an actions row for creating agents or resuming previous sessions. • New `grok-workspaced daemon` mode lets a long-lived process expose folders to the Computer Hub (separate from the Desktop-supervised sidecar). Bug Fixes: • MCP connectors now correctly show when they need re-authentication even if no tools are listed. • Extensions modal shortcuts now work when the tab bar is focused, and invalid actions on headers show helpful messages. • Send now button and shortcuts now work correctly when an automatic background turn is running. • Resumed sessions now show the exact text you typed for mid-turn follow-ups instead of the wrapped system message. • `/skills` command now updates the model with newly installed skills even when written from another NFS client. • Auto mode no longer instantly runs destructive `git checkout --` commands; they now go through the model for safety. • Fixed a crash that could occur when restoring pasted content after certain skill injections or rewinds. • Subagents and workflows now respect the same bash timeout and auto-background settings configured for the parent session. • Fixed model backend selection so an explicit chat_completions setting in config.toml is no longer overwritten by same-slug siblings. • Slash command advertisements no longer spam repeatedly when your current directory is your home folder. • Foreground shell commands no longer produce spurious background-task reminders or incorrect kill results. • Queued follow-up buttons now appear in the order [Send now][edit][cancel]. • `/compact instructions` in the pager are now passed to the compaction backend (bare `/compact` is unchanged). • `/goal` (and resume) after pressing Esc now correctly starts the goal planner instead of failing with "Planning failed". • run_terminal_cmd now correctly tells the model that foreground commands are backgrounded after ~15s instead of the 120s timeout value. • Skill announcements no longer repeat the same list of available skills multiple times in a session. • Monitor events in multi-session processes now correctly wake idle sessions instead of being buffered until the next prompt. Performance: • Opening or resuming sessions no longer pauses the interface while reading MCP config files.</description>
-      <guid isPermaLink="false">twitter_elonmusk_289ada10</guid>
-      <pubDate>Tue, 08 Sep 2026 05:00:04 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_58551ac4</guid>
+      <pubDate>Tue, 08 Sep 2026 08:55:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Tonight’s aurora has a purple hue. The KP is ~4. We are approaching high beta so there is more light...</title>
-      <link>https://twitter.com/elonmusk/status/7e094ee7</link>
+      <link>https://twitter.com/elonmusk/status/25339041</link>
       <description>Tonight’s aurora has a purple hue. The KP is ~4. We are approaching high beta so there is more light creeping over the horizon. It mixes the colors and you can see the satellites in the nights sky. (14mm, 1/4 interval, broken into two parts)</description>
-      <guid isPermaLink="false">twitter_elonmusk_7e094ee7</guid>
-      <pubDate>Tue, 08 Sep 2026 05:05:04 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_25339041</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: What I like about the Cybercab is that it only has two seats. In the eight years I lived in Los Ange...</title>
-      <link>https://twitter.com/elonmusk/status/59ce79cd</link>
+      <link>https://twitter.com/elonmusk/status/9ecbb94c</link>
       <description>What I like about the Cybercab is that it only has two seats. In the eight years I lived in Los Angeles and had a Tesla S, I used four seats twice, and two seats four times. So, most of the time I was driving alone. A smaller car that’s safe and drives itself would’ve been fabulous.</description>
-      <guid isPermaLink="false">twitter_elonmusk_59ce79cd</guid>
-      <pubDate>Tue, 08 Sep 2026 05:10:04 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_9ecbb94c</guid>
+      <pubDate>Tue, 08 Sep 2026 09:05:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: “Far right” is a propaganda term that became especially popular in recent years</title>
-      <link>https://twitter.com/elonmusk/status/f40220d4</link>
+      <link>https://twitter.com/elonmusk/status/6e6ffb31</link>
       <description>“Far right” is a propaganda term that became especially popular in recent years</description>
-      <guid isPermaLink="false">twitter_elonmusk_f40220d4</guid>
-      <pubDate>Tue, 08 Sep 2026 05:15:04 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_6e6ffb31</guid>
+      <pubDate>Tue, 08 Sep 2026 09:10:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: The future is being built at an insane scale Abundance is coming</title>
-      <link>https://twitter.com/elonmusk/status/0dde2ce8</link>
+      <link>https://twitter.com/elonmusk/status/63527a04</link>
       <description>The future is being built at an insane scale Abundance is coming</description>
-      <guid isPermaLink="false">twitter_elonmusk_0dde2ce8</guid>
-      <pubDate>Tue, 08 Sep 2026 05:20:04 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_63527a04</guid>
+      <pubDate>Tue, 08 Sep 2026 09:15:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: “The Earth is the cradle of humanity, but one cannot live in the cradle forever.” — Konstantin Tsiol...</title>
-      <link>https://twitter.com/elonmusk/status/ce982386</link>
+      <link>https://twitter.com/elonmusk/status/d51c57cf</link>
       <description>“The Earth is the cradle of humanity, but one cannot live in the cradle forever.” — Konstantin Tsiolkovsky The unique character of AI in Tesla and SpaceX is that same spirit of exploration: the true frontier not confined by benchmarks, but lifting humanity out of its cradle so we can see with our own eyes how far the laws of physics and the universe will let us go—from Earth to Mars.</description>
-      <guid isPermaLink="false">twitter_elonmusk_ce982386</guid>
-      <pubDate>Tue, 08 Sep 2026 05:25:04 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_d51c57cf</guid>
+      <pubDate>Tue, 08 Sep 2026 09:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: I have spent 23 years documenting the global LED transition of city lighting from space. Across my 4...</title>
+      <link>https://twitter.com/elonmusk/status/740307be</link>
+      <description>I have spent 23 years documenting the global LED transition of city lighting from space. Across my 4 missions to the ISS, I have photographed every major city on Earth, building a data set of the gradual replacement of sodium vapor lighting with LEDs. The warmer, yellow-orange of gas discharge lamps has been phased out worldwide to multi-colored LEDs, citing energy savings and environmental reasons. Widespread adoption has markedly changed the way our cities look from orbit, and as many have pointed out, how they feel to those on the ground! Here is a collection of the most striking before-and-after photos I have observed:</description>
+      <guid isPermaLink="false">twitter_elonmusk_740307be</guid>
+      <pubDate>Tue, 08 Sep 2026 09:25:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: At 14, Zack MacLeod Pinsent burned his last pair of jeans after finding a box of his great-grandfath...</title>
+      <link>https://twitter.com/elonmusk/status/af26115c</link>
+      <description>At 14, Zack MacLeod Pinsent burned his last pair of jeans after finding a box of his great-grandfather’s suits, and he hasn’t worn modern clothes since. What could have remained a teenage phase became his trade. He taught himself historical tailoring and built a business in Brighton, drafting patterns by hand and making clothes using techniques from the 1660s through the 1920s. His clients now range from museums to people who simply want garments cut the old way. Last year he hosted a Regency Ball at Brighton’s Royal Pavilion that sold out in under three minutes, drawing 150 people from seventeen countries to spend a night dressed for the world Zack decided at 14 he’d rather live in.</description>
+      <guid isPermaLink="false">twitter_elonmusk_af26115c</guid>
+      <pubDate>Tue, 08 Sep 2026 09:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Build supports dynamic workflows :)x.ai/news/workflows</title>
+      <link>https://twitter.com/elonmusk/status/1dbad886</link>
+      <description>Build supports dynamic workflows :)x.ai/news/workflows</description>
+      <guid isPermaLink="false">twitter_elonmusk_1dbad886</guid>
+      <pubDate>Tue, 08 Sep 2026 09:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: According to Grok for this election cycle:xcancel.com/i/grok/share/be1c9d773…</title>
+      <link>https://twitter.com/elonmusk/status/7d4a41b5</link>
+      <description>According to Grok for this election cycle:xcancel.com/i/grok/share/be1c9d773…</description>
+      <guid isPermaLink="false">twitter_elonmusk_7d4a41b5</guid>
+      <pubDate>Tue, 08 Sep 2026 09:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: I find it strange how Elon’s most controversial moments get amplified by the media, while the things...</title>
+      <link>https://twitter.com/elonmusk/status/28aa5890</link>
+      <description>I find it strange how Elon’s most controversial moments get amplified by the media, while the things he does that inspire people often get little to no coverage. Where was « People’s Magazine » when Elon Musk showed personal kindness toward ordinary people (fans, kids or strangers…)? 1. Answered a dying teen’s last questions and made her design a SpaceX mascot (Liv Perrotto, 2026) 15-year-old Liv Perrotto, who had dreamed of meeting Musk, left eight handwritten questions on her nightstand after she became too weak to take a scheduled call. After her death from cancer, commentator Glenn Beck shared them. Musk answered every question (Tesla phone? No. Diner expansion and new games? Yes. Favorite anime? Your Name. Japan? Kyoto and teamLab. Hatsune Miku and Ani/Misa? Yes). On her final request, to make her Shiba Inu “Asteroid” plush (designed as a zero-g indicator for Polaris Dawn) a SpaceX mascot, he simply wrote “Ok 😀.” Her mother replied: “I wish she was here to see this.” 2. Publicly adopted a 5th-grader’s marketing idea (Bria, 2017) Nine-year-old Bria from Michigan wrote Musk a school-project letter suggesting Tesla use the homemade commercials fans already made, since the company didn’t advertise. Her dad posted it. Musk replied: “Thank you for the lovely letter. That sounds like a great idea. We’ll do it!” She also asked for a Tesla T-shirt. 3. Covered the full repair bill for a stranger who used his Tesla to save a life (Manfred Kick, 2017) German Tesla owner Manfred Kick saw an unconscious stroke victim’s Volkswagen swerving on the Autobahn. He pulled in front of it, let the other car hit his bumper, and braked both vehicles to a stop, saving the driver’s life at the cost of damage to his own Model S. Musk tweeted congratulations and announced Tesla would cover all repairs, free and expedited. The local Tesla Germany head personally picked up the car. 4. Shared a struggling woman’s letter, she said it stopped her from taking her life (Johnna Sabri, 2018) Johnna Sabri wrote an open letter about how Musk’s persistence inspired her after her nonprofit failed and her life fell apart. Musk shared it with his millions of followers on Memorial Day. Sales of her handmade jewelry exploded. When he later accepted a small space-rock pendant she wanted to give him, she publicly said the timing and gesture pulled her back from suicide. Musk later posted a quote about hidden kindness. 5. Funded clean-water fountains in Flint schools after a young activist asked (Mari Copeny / Little Miss Flint, 2018) After 11-year-old activist Mari Copeny (“Little Miss Flint”) and others highlighted the ongoing water crisis, the Musk Foundation donated about $480,000 for UV-filtered drinking fountains in all Flint schools (plus later funds for student laptops). Musk had publicly committed to helping houses with contaminated water above FDA levels. The fountains were eventually installed so kids could drink from school fountains again. 6. Kept a promise to hug a YouTuber because two kids at the World Cup asked him to (Fidias, 2022–2023) Cypriot YouTuber Fidias Panayiotou camped outside Twitter/SpaceX offices for months hoping for a hug. At the 2022 World Cup in Qatar, two young boys asked Musk to hug “the guy who keeps trying to hug you in San Francisco.” Musk checked that they were sure, then tweeted “Will do it.” He later hugged Fidias at Twitter HQ on National Hugging Day. 7. Stopped to sign a hat and take a selfie with a child who called out from the crowd In a widely circulated video, a young fan called out during an event. Musk paused, brought the boy up, signed his hat and toy rocket, knelt to the child’s level, and posed for photos. Musk later quoted the clip with the comment “Great kid.” Small gestures that meant the world to one family to support that helped entire communities… these are moments that reached and touched many ordinary people at once. Sadly, « People’s Magazine » did not cover any of those 7 inspiring’ stories.</description>
+      <guid isPermaLink="false">twitter_elonmusk_28aa5890</guid>
+      <pubDate>Tue, 08 Sep 2026 09:45:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: If I hear "far-right" one more time I'm gonna lose it. Commies are calling everything they dislike n...</title>
+      <link>https://twitter.com/elonmusk/status/ded28203</link>
+      <description>If I hear "far-right" one more time I'm gonna lose it. Commies are calling everything they dislike nazis.</description>
+      <guid isPermaLink="false">twitter_elonmusk_ded28203</guid>
+      <pubDate>Tue, 08 Sep 2026 09:50:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The schools are NOT "failing" your kids. The schools are doing exactly what they're meant for, and v...</title>
+      <link>https://twitter.com/elonmusk/status/c2307723</link>
+      <description>The schools are NOT "failing" your kids. The schools are doing exactly what they're meant for, and very well. Normal people presume that the schools are designed to educate your kids. That's not how the communist sees them. The school is how they kidnap your child. The socialist is like a pedophile...they like to prey on kids and groom them. Communists have slowly infiltrated every single layer of institutional education and perverted it to feed their dogma into the soft heads of your vulnerable children. This isn't some abstract paranoia...this was a deliberate soviet socialist strategy going back decades. It is called the "long march through the institutions". After several generations of teachers educating kids with increasingly communist ideology, with zero patriotic influence to balance it out, you eventually get to a point (usually 2-3 generations), where EVERY American institution is saturated with communists...government, entertainment, businesses (hello, Nike)...now, no matter where you turn, your child is now influenced ENTIRELY by the ideology of your enemy. Who's pushing back on this?</description>
+      <guid isPermaLink="false">twitter_elonmusk_c2307723</guid>
+      <pubDate>Tue, 08 Sep 2026 09:55:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: A Storm of Cybercabs</title>
       <link>https://twitter.com/elonmusk/status/fbda420a</link>
       <description>A Storm of Cybercabs</description>
       <guid isPermaLink="false">twitter_elonmusk_fbda420a</guid>
-      <pubDate>Tue, 08 Sep 2026 05:30:04 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 10:00:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
