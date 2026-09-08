@@ -3,129 +3,115 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-09-08 00:51 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-09-08 05:30 UTC | 来源实例: https://xcancel.com</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 00:51:29 +0000</lastBuildDate>
-    <item>
-      <title>@elonmusk: This is the first time in Earth’s history that the path is visible: cure cancer, slash traffic death...</title>
-      <link>https://twitter.com/elonmusk/status/adfd0fe8</link>
-      <description>This is the first time in Earth’s history that the path is visible: cure cancer, slash traffic deaths, give anyone high agency no matter their body — and reach the stars — by scaling compute and energy. Don’t squander it.</description>
-      <guid isPermaLink="false">twitter_elonmusk_adfd0fe8</guid>
-      <pubDate>Mon, 07 Sep 2026 23:31:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Sachsen-Anhalt hat gesprochen: Die AfD ist mit 44,2% mehr als doppelt so stark wie die CDU und hat e...</title>
-      <link>https://twitter.com/elonmusk/status/a6c0ca27</link>
-      <description>Sachsen-Anhalt hat gesprochen: Die AfD ist mit 44,2% mehr als doppelt so stark wie die CDU und hat einen Regierungsauftrag erhalten. Gratulation an Ulrich Siegmund und die AfD Sachsen-Anhalt!</description>
-      <guid isPermaLink="false">twitter_elonmusk_a6c0ca27</guid>
-      <pubDate>Mon, 07 Sep 2026 23:36:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: the Grok@Botdesktop app just got a whole lot faster! there's still more to improve, but we shipped m...</title>
-      <link>https://twitter.com/elonmusk/status/377fecc3</link>
-      <description>the Grok@Botdesktop app just got a whole lot faster! there's still more to improve, but we shipped many perf improvements over the past week: • cold start to usable shell: -247ms (18% faster). • cold start LCP: -425ms (23% faster). • cold start FCP: -234ms (16% faster). • total blocking time to the shell: -101 ms (34% faster). • warm restart to shell: -194 ms (18% faster). • marketplace bots tab first open: -18ms (41% faster). other stats that are unchanged: • INP p98: 48 ms to 56 ms. • composer keystroke to next frame: 8.4 to 8.5 ms. • chat switching: 64 to 77 ms short chat first visit, 66 to 68 ms long chat, revisits equal. • long chat scroll: zero long tasks. enjoy the long weekend building with Grok@Bot!</description>
-      <guid isPermaLink="false">twitter_elonmusk_377fecc3</guid>
-      <pubDate>Mon, 07 Sep 2026 23:41:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Illuminating</title>
-      <link>https://twitter.com/elonmusk/status/0ec1432a</link>
-      <description>Illuminating</description>
-      <guid isPermaLink="false">twitter_elonmusk_0ec1432a</guid>
-      <pubDate>Mon, 07 Sep 2026 23:46:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Cool 🇦🇹</title>
-      <link>https://twitter.com/elonmusk/status/5d7f7da3</link>
-      <description>Cool 🇦🇹</description>
-      <guid isPermaLink="false">twitter_elonmusk_5d7f7da3</guid>
-      <pubDate>Mon, 07 Sep 2026 23:51:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: “The obsession with truth is why I studied physics, because physics attempts to understand the truth...</title>
-      <link>https://twitter.com/elonmusk/status/7f26c7e9</link>
-      <description>“The obsession with truth is why I studied physics, because physics attempts to understand the truth of the universe.” — Elon Musk</description>
-      <guid isPermaLink="false">twitter_elonmusk_7f26c7e9</guid>
-      <pubDate>Mon, 07 Sep 2026 23:56:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: That is correct</title>
-      <link>https://twitter.com/elonmusk/status/e719752e</link>
-      <description>That is correct</description>
-      <guid isPermaLink="false">twitter_elonmusk_e719752e</guid>
-      <pubDate>Tue, 08 Sep 2026 00:01:29 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 08 Sep 2026 05:30:04 +0000</lastBuildDate>
     <item>
       <title>@elonmusk: The truth shall set you free</title>
-      <link>https://twitter.com/elonmusk/status/352ccfb2</link>
+      <link>https://twitter.com/elonmusk/status/8178794b</link>
       <description>The truth shall set you free</description>
-      <guid isPermaLink="false">twitter_elonmusk_352ccfb2</guid>
-      <pubDate>Tue, 08 Sep 2026 00:06:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_8178794b</guid>
+      <pubDate>Tue, 08 Sep 2026 04:20:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: FSD Supervised approved in Slovenia 🇸🇮</title>
-      <link>https://twitter.com/elonmusk/status/ce866f80</link>
+      <link>https://twitter.com/elonmusk/status/21399d26</link>
       <description>FSD Supervised approved in Slovenia 🇸🇮</description>
-      <guid isPermaLink="false">twitter_elonmusk_ce866f80</guid>
-      <pubDate>Tue, 08 Sep 2026 00:11:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_21399d26</guid>
+      <pubDate>Tue, 08 Sep 2026 04:25:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: When Elon Musk visited Palazzo Vecchio in Florence in 2021 🇮🇹</title>
-      <link>https://twitter.com/elonmusk/status/71ea4af5</link>
+      <link>https://twitter.com/elonmusk/status/53c86cb0</link>
       <description>When Elon Musk visited Palazzo Vecchio in Florence in 2021 🇮🇹</description>
-      <guid isPermaLink="false">twitter_elonmusk_71ea4af5</guid>
-      <pubDate>Tue, 08 Sep 2026 00:16:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_53c86cb0</guid>
+      <pubDate>Tue, 08 Sep 2026 04:30:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Starlink is now delivering fast, reliable connectivity onboard Austrian Airlines so passengers can s...</title>
-      <link>https://twitter.com/elonmusk/status/f4e30247</link>
+      <link>https://twitter.com/elonmusk/status/e7c68f31</link>
       <description>Starlink is now delivering fast, reliable connectivity onboard Austrian Airlines so passengers can stream, scroll, and surf effortlessly from 30,000 feet 🛰️✈️</description>
-      <guid isPermaLink="false">twitter_elonmusk_f4e30247</guid>
-      <pubDate>Tue, 08 Sep 2026 00:21:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_e7c68f31</guid>
+      <pubDate>Tue, 08 Sep 2026 04:35:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Elon Musk is right to call this out. He said calling people Nazis for centrist views insults those w...</title>
-      <link>https://twitter.com/elonmusk/status/66240ea8</link>
+      <link>https://twitter.com/elonmusk/status/dd727607</link>
       <description>Elon Musk is right to call this out. He said calling people Nazis for centrist views insults those who suffered and died under the real Nazis. Those abusing it should be condemned. Calling people Nazis just because they hold views you oppose disrespects history and its victims.</description>
-      <guid isPermaLink="false">twitter_elonmusk_66240ea8</guid>
-      <pubDate>Tue, 08 Sep 2026 00:26:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_dd727607</guid>
+      <pubDate>Tue, 08 Sep 2026 04:40:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Common sense is now considered “Far Right”</title>
-      <link>https://twitter.com/elonmusk/status/5a0f7764</link>
+      <link>https://twitter.com/elonmusk/status/68d83452</link>
       <description>Common sense is now considered “Far Right”</description>
-      <guid isPermaLink="false">twitter_elonmusk_5a0f7764</guid>
-      <pubDate>Tue, 08 Sep 2026 00:31:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_68d83452</guid>
+      <pubDate>Tue, 08 Sep 2026 04:45:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Tesla Superchargers are built in New York State</title>
-      <link>https://twitter.com/elonmusk/status/1599930a</link>
+      <link>https://twitter.com/elonmusk/status/da004e02</link>
       <description>Tesla Superchargers are built in New York State</description>
-      <guid isPermaLink="false">twitter_elonmusk_1599930a</guid>
-      <pubDate>Tue, 08 Sep 2026 00:36:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_da004e02</guid>
+      <pubDate>Tue, 08 Sep 2026 04:50:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Build feels like a superpower for creating in Blender. I am working on this rocket launch site ...</title>
-      <link>https://twitter.com/elonmusk/status/2cd5ebcd</link>
+      <link>https://twitter.com/elonmusk/status/89ff00fa</link>
       <description>Grok Build feels like a superpower for creating in Blender. I am working on this rocket launch site from scratch with Grok Build. It handles all the hard parts, saves hours of work and turns my ideas into results incredibly fast. The speed and quality are super impressive! 🔥🚀</description>
-      <guid isPermaLink="false">twitter_elonmusk_2cd5ebcd</guid>
-      <pubDate>Tue, 08 Sep 2026 00:41:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_89ff00fa</guid>
+      <pubDate>Tue, 08 Sep 2026 04:55:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: Grok Build just got another big update, taking another major step toward becoming a full agent works...</title>
-      <link>https://twitter.com/elonmusk/status/d19889f4</link>
+      <link>https://twitter.com/elonmusk/status/289ada10</link>
       <description>Grok Build just got another big update, taking another major step toward becoming a full agent workspace Desktop app tools now connect through a dedicated first-party MCP server, a new long-running workspace daemon can expose folders to Computer Hub, finished subagents can be continued instead of restarted, and background agents now return their actual output directly Add better diff previews, smarter tool priority, stronger safety around destructive Git commands, and faster session startup Release Notes: v1.0.22 Features: • Built-in agent tools now take precedence over user MCP servers when tool names collide. • Desktop app tools are now available through a dedicated first-party MCP server. • Remote control pickers can now group servers by device using announced device identity. • edit_file diffs now show real file line numbers instead of starting at line 1. • Permission prompts for file edits now auto-expand the diff row so you can see the change before approving. • Sending a message to a finished subagent now continues that same subagent instead of failing. • Background subagent completion messages now show the actual output instead of just a pointer to run the tool. • Dashboard now shows a unified header with location picker and an actions row for creating agents or resuming previous sessions. • New `grok-workspaced daemon` mode lets a long-lived process expose folders to the Computer Hub (separate from the Desktop-supervised sidecar). Bug Fixes: • MCP connectors now correctly show when they need re-authentication even if no tools are listed. • Extensions modal shortcuts now work when the tab bar is focused, and invalid actions on headers show helpful messages. • Send now button and shortcuts now work correctly when an automatic background turn is running. • Resumed sessions now show the exact text you typed for mid-turn follow-ups instead of the wrapped system message. • `/skills` command now updates the model with newly installed skills even when written from another NFS client. • Auto mode no longer instantly runs destructive `git checkout --` commands; they now go through the model for safety. • Fixed a crash that could occur when restoring pasted content after certain skill injections or rewinds. • Subagents and workflows now respect the same bash timeout and auto-background settings configured for the parent session. • Fixed model backend selection so an explicit chat_completions setting in config.toml is no longer overwritten by same-slug siblings. • Slash command advertisements no longer spam repeatedly when your current directory is your home folder. • Foreground shell commands no longer produce spurious background-task reminders or incorrect kill results. • Queued follow-up buttons now appear in the order [Send now][edit][cancel]. • `/compact instructions` in the pager are now passed to the compaction backend (bare `/compact` is unchanged). • `/goal` (and resume) after pressing Esc now correctly starts the goal planner instead of failing with "Planning failed". • run_terminal_cmd now correctly tells the model that foreground commands are backgrounded after ~15s instead of the 120s timeout value. • Skill announcements no longer repeat the same list of available skills multiple times in a session. • Monitor events in multi-session processes now correctly wake idle sessions instead of being buffered until the next prompt. Performance: • Opening or resuming sessions no longer pauses the interface while reading MCP config files.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d19889f4</guid>
-      <pubDate>Tue, 08 Sep 2026 00:46:29 +0000</pubDate>
+      <guid isPermaLink="false">twitter_elonmusk_289ada10</guid>
+      <pubDate>Tue, 08 Sep 2026 05:00:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: Tonight’s aurora has a purple hue. The KP is ~4. We are approaching high beta so there is more light...</title>
+      <link>https://twitter.com/elonmusk/status/7e094ee7</link>
+      <description>Tonight’s aurora has a purple hue. The KP is ~4. We are approaching high beta so there is more light creeping over the horizon. It mixes the colors and you can see the satellites in the nights sky. (14mm, 1/4 interval, broken into two parts)</description>
+      <guid isPermaLink="false">twitter_elonmusk_7e094ee7</guid>
+      <pubDate>Tue, 08 Sep 2026 05:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: What I like about the Cybercab is that it only has two seats. In the eight years I lived in Los Ange...</title>
+      <link>https://twitter.com/elonmusk/status/59ce79cd</link>
+      <description>What I like about the Cybercab is that it only has two seats. In the eight years I lived in Los Angeles and had a Tesla S, I used four seats twice, and two seats four times. So, most of the time I was driving alone. A smaller car that’s safe and drives itself would’ve been fabulous.</description>
+      <guid isPermaLink="false">twitter_elonmusk_59ce79cd</guid>
+      <pubDate>Tue, 08 Sep 2026 05:10:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: “Far right” is a propaganda term that became especially popular in recent years</title>
+      <link>https://twitter.com/elonmusk/status/f40220d4</link>
+      <description>“Far right” is a propaganda term that became especially popular in recent years</description>
+      <guid isPermaLink="false">twitter_elonmusk_f40220d4</guid>
+      <pubDate>Tue, 08 Sep 2026 05:15:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: The future is being built at an insane scale Abundance is coming</title>
+      <link>https://twitter.com/elonmusk/status/0dde2ce8</link>
+      <description>The future is being built at an insane scale Abundance is coming</description>
+      <guid isPermaLink="false">twitter_elonmusk_0dde2ce8</guid>
+      <pubDate>Tue, 08 Sep 2026 05:20:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>@elonmusk: “The Earth is the cradle of humanity, but one cannot live in the cradle forever.” — Konstantin Tsiol...</title>
+      <link>https://twitter.com/elonmusk/status/ce982386</link>
+      <description>“The Earth is the cradle of humanity, but one cannot live in the cradle forever.” — Konstantin Tsiolkovsky The unique character of AI in Tesla and SpaceX is that same spirit of exploration: the true frontier not confined by benchmarks, but lifting humanity out of its cradle so we can see with our own eyes how far the laws of physics and the universe will let us go—from Earth to Mars.</description>
+      <guid isPermaLink="false">twitter_elonmusk_ce982386</guid>
+      <pubDate>Tue, 08 Sep 2026 05:25:04 +0000</pubDate>
     </item>
     <item>
       <title>@elonmusk: A Storm of Cybercabs</title>
       <link>https://twitter.com/elonmusk/status/fbda420a</link>
       <description>A Storm of Cybercabs</description>
       <guid isPermaLink="false">twitter_elonmusk_fbda420a</guid>
-      <pubDate>Tue, 08 Sep 2026 00:51:29 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 05:30:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
