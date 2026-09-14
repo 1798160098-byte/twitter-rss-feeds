@@ -3,150 +3,18 @@
   <channel>
     <title>Twitter - @elonmusk</title>
     <link>https://twitter.com/elonmusk</link>
-    <description>自动生成的Twitter RSS - 最后更新: 2026-09-14 08:24 UTC | 来源实例: https://xcancel.com</description>
+    <description>自动生成的Twitter RSS - 最后更新: 2026-09-14 15:08 UTC | 来源实例: none</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Simple Twitter RSS Generator</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:08:03 +0000</lastBuildDate>
     <item>
-      <title>@elonmusk: My@botGrok Bot team just sold their first item on@Poshmarkapp, amazing. - Poshy built the ad, advise...</title>
-      <link>https://twitter.com/elonmusk/status/bb8a8edf</link>
-      <description>My@botGrok Bot team just sold their first item on@Poshmarkapp, amazing. - Poshy built the ad, advised on pricing, followed up on offers. - Cosie monitored her. - Weary is now updating my online wardrobe to archive the shoes that sold. Well done, teamposhmark.com/listing/Dolce-V…</description>
-      <guid isPermaLink="false">twitter_elonmusk_bb8a8edf</guid>
-      <pubDate>Mon, 14 Sep 2026 06:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Try Grok Buildx.ai/build</title>
-      <link>https://twitter.com/elonmusk/status/dab012c7</link>
-      <description>Try Grok Buildx.ai/build</description>
-      <guid isPermaLink="false">twitter_elonmusk_dab012c7</guid>
-      <pubDate>Mon, 14 Sep 2026 06:54:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Try Tesla self-driving. It will blow your mind!</title>
-      <link>https://twitter.com/elonmusk/status/e13c6b31</link>
-      <description>Try Tesla self-driving. It will blow your mind!</description>
-      <guid isPermaLink="false">twitter_elonmusk_e13c6b31</guid>
-      <pubDate>Mon, 14 Sep 2026 06:59:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: 10/10 been my experience as well. Drove a loaner Y and it's damn near perfect at self-driving in the...</title>
-      <link>https://twitter.com/elonmusk/status/f35fcf65</link>
-      <description>10/10 been my experience as well. Drove a loaner Y and it's damn near perfect at self-driving in the Bay Area. Very difficult to justify buying another "car".</description>
-      <guid isPermaLink="false">twitter_elonmusk_f35fcf65</guid>
-      <pubDate>Mon, 14 Sep 2026 07:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: this is the milky way galaxy flying through space like a butterfly</title>
-      <link>https://twitter.com/elonmusk/status/73032ba0</link>
-      <description>this is the milky way galaxy flying through space like a butterfly</description>
-      <guid isPermaLink="false">twitter_elonmusk_73032ba0</guid>
-      <pubDate>Mon, 14 Sep 2026 07:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Named my grok bot after the sentient AI, Jane, in speaker for the dead. I look forward to when I can...</title>
-      <link>https://twitter.com/elonmusk/status/9c7ebc98</link>
-      <description>Named my grok bot after the sentient AI, Jane, in speaker for the dead. I look forward to when I can sub-vocalize like Ender to communicate with Jane, but would honestly even be happy with verbal communication back and forth like we have for the Grok app. Right now it seems I can dictate, but the app needs to start and stop recording, then process and reply which it does in text only. it's clunky. Let's take the excellent conversation flow capability from Grok and bring it to Grok bot</description>
-      <guid isPermaLink="false">twitter_elonmusk_9c7ebc98</guid>
-      <pubDate>Mon, 14 Sep 2026 07:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Tesla Model 3 achieved 5-star safety rating in all categories!</title>
-      <link>https://twitter.com/elonmusk/status/eaee8fb6</link>
-      <description>Tesla Model 3 achieved 5-star safety rating in all categories!</description>
-      <guid isPermaLink="false">twitter_elonmusk_eaee8fb6</guid>
-      <pubDate>Mon, 14 Sep 2026 07:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: 700 Falcon flights completed. Congrats to the SpaceX Falcon team!</title>
-      <link>https://twitter.com/elonmusk/status/0a15a26c</link>
-      <description>700 Falcon flights completed. Congrats to the SpaceX Falcon team!</description>
-      <guid isPermaLink="false">twitter_elonmusk_0a15a26c</guid>
-      <pubDate>Mon, 14 Sep 2026 07:24:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: This@waitbutwhycartoon hits the 🎯</title>
-      <link>https://twitter.com/elonmusk/status/39926252</link>
-      <description>This@waitbutwhycartoon hits the 🎯</description>
-      <guid isPermaLink="false">twitter_elonmusk_39926252</guid>
-      <pubDate>Mon, 14 Sep 2026 07:29:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Grok Build just got another update focused on making multi-agent sessions easier to read and navigat...</title>
-      <link>https://twitter.com/elonmusk/status/fd33292e</link>
-      <description>Grok Build just got another update focused on making multi-agent sessions easier to read and navigate Subagent groups now clearly show how many agents are still running versus finished, dashboard search and resume selection behave more predictably, cancellation banners show the actual cause, and long paths are cleaned up across headers and dashboards MCP handling also gets a useful fix....tools with long server prefixes are no longer silently dropped Another small release that makes busy agent sessions much easier to understand at a glance Release Notes: v1.0.31 Bug Fixes: • Folded subagent groups in scrollback now correctly label how many are still running versus completed. • Dashboard search and the resume picker now clearly indicate the active text field and restore list selection after search. • Dock sections no longer keep a selection highlight after you collapse them with a click. • Worktree paths no longer show an extra suffix in the header or dashboard. • MCP tools with long server prefixes are now kept instead of being silently dropped. • Turn cancelled banners now correctly name the cause instead of always saying "by user". • Long paths in headers are now always shortened to the last two components</description>
-      <guid isPermaLink="false">twitter_elonmusk_fd33292e</guid>
-      <pubDate>Mon, 14 Sep 2026 07:34:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Important reading</title>
-      <link>https://twitter.com/elonmusk/status/d1e7a816</link>
-      <description>Important reading</description>
-      <guid isPermaLink="false">twitter_elonmusk_d1e7a816</guid>
-      <pubDate>Mon, 14 Sep 2026 07:39:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Eight years ago, Elon Musk said: “Mark my words: AI is far more dangerous than nukes.” Elon didn’t g...</title>
-      <link>https://twitter.com/elonmusk/status/f80b51b8</link>
-      <description>Eight years ago, Elon Musk said: “Mark my words: AI is far more dangerous than nukes.” Elon didn’t give in to the AI doomers. In fact, his position is very different from theirs. He has warned about the risks of AI for years while still pushing for its development, with a strong focus on safety. His view is that companies should build powerful AI, but do it safely and responsibly, even if that means slowing the pace when necessary “I think the danger of AI is much greater than the danger of nuclear warheads by a lot and nobody would suggest that we allow anyone to just build Nuclear warheads if they want that? That would be insane. And Far.”</description>
-      <guid isPermaLink="false">twitter_elonmusk_f80b51b8</guid>
-      <pubDate>Mon, 14 Sep 2026 07:44:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Commit yourself to these seven virtues: Honor, strength, courage, duty, justice, beauty, and truth.</title>
-      <link>https://twitter.com/elonmusk/status/37327109</link>
-      <description>Commit yourself to these seven virtues: Honor, strength, courage, duty, justice, beauty, and truth.</description>
-      <guid isPermaLink="false">twitter_elonmusk_37327109</guid>
-      <pubDate>Mon, 14 Sep 2026 07:49:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Elon Musk showing Tesla Roadster to Arnold Schwarzenegger in 2008.</title>
-      <link>https://twitter.com/elonmusk/status/6f4504e6</link>
-      <description>Elon Musk showing Tesla Roadster to Arnold Schwarzenegger in 2008.</description>
-      <guid isPermaLink="false">twitter_elonmusk_6f4504e6</guid>
-      <pubDate>Mon, 14 Sep 2026 07:54:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: 16 years of relentless engineering in one video. From SpaceX’s first Falcon 9 launch in 2010 to the ...</title>
-      <link>https://twitter.com/elonmusk/status/6b5f9c20</link>
-      <description>16 years of relentless engineering in one video. From SpaceX’s first Falcon 9 launch in 2010 to the 700th Falcon launch today. Both lifted off from the same pad, SLC-40. From proving Falcon 9 could reach orbit to making reusable launches look routine. Congratulations SpaceX!</description>
-      <guid isPermaLink="false">twitter_elonmusk_6b5f9c20</guid>
-      <pubDate>Mon, 14 Sep 2026 07:59:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: This was the mission that launched Elon Musk’s original Tesla Roadster into space. On February 6, 20...</title>
-      <link>https://twitter.com/elonmusk/status/d8a44350</link>
-      <description>This was the mission that launched Elon Musk’s original Tesla Roadster into space. On February 6, 2018, Falcon Heavy made its first-ever flight, sent Starman into orbit around the Sun, and landed two boosters side by side. Eight years later, the Roadster is still flying.</description>
-      <guid isPermaLink="false">twitter_elonmusk_d8a44350</guid>
-      <pubDate>Mon, 14 Sep 2026 08:04:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Today we completed our 700th successful Falcon mission! Proud doesn’t even cover it. The@SpaceXteam ...</title>
-      <link>https://twitter.com/elonmusk/status/487a1939</link>
-      <description>Today we completed our 700th successful Falcon mission! Proud doesn’t even cover it. The@SpaceXteam continues to raise the bar on reliability. Thank you to all of our customers for flying with us! Extra fun to celebrate yet another major milestone with@SES_Satellites</description>
-      <guid isPermaLink="false">twitter_elonmusk_487a1939</guid>
-      <pubDate>Mon, 14 Sep 2026 08:09:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: Starlink</title>
-      <link>https://twitter.com/elonmusk/status/82bc69f7</link>
-      <description>Starlink</description>
-      <guid isPermaLink="false">twitter_elonmusk_82bc69f7</guid>
-      <pubDate>Mon, 14 Sep 2026 08:14:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: FSD Supervised will change your life</title>
-      <link>https://twitter.com/elonmusk/status/918592ba</link>
-      <description>FSD Supervised will change your life</description>
-      <guid isPermaLink="false">twitter_elonmusk_918592ba</guid>
-      <pubDate>Mon, 14 Sep 2026 08:19:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>@elonmusk: New Tesla Roadster Unveil 10.01</title>
-      <link>https://twitter.com/elonmusk/status/6c191b11</link>
-      <description>New Tesla Roadster Unveil 10.01</description>
-      <guid isPermaLink="false">twitter_elonmusk_6c191b11</guid>
-      <pubDate>Mon, 14 Sep 2026 08:24:11 +0000</pubDate>
+      <title>@elonmusk - 暂无新推文或获取失败</title>
+      <link>https://twitter.com/elonmusk</link>
+      <description>更新时间: 2026-09-14 15:08 UTC
+尝试的实例: none</description>
+      <guid isPermaLink="false">placeholder_elonmusk_1789398483</guid>
+      <pubDate>Mon, 14 Sep 2026 15:08:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
